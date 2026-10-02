@@ -1,13 +1,14 @@
-"""Step 2 of the pipeline: give every "Other" return one top-level reason.
+"""Triage: give every "Other" return one top-level reason.
 
 Model work : reading the customer's text and choosing a reason (language judgment).
 Code work  : skipping junk, checking the output, retrying once, marking failures.
 """
 from typing import Literal
 
-from langchain.chat_models import init_chat_model
 from langchain_core.prompts import ChatPromptTemplate
 from pydantic import BaseModel, Field
+
+from pipeline.config import make_model
 
 Reason = Literal["fit", "quality", "not_as_shown", "wrong_or_damaged", "delivery",
                  "changed_mind", "unclear"]
@@ -37,13 +38,20 @@ Choose exactly one reason:
 - wrong_or_damaged: a different item, size or colour was sent, or it arrived torn, stained,
   used or with a piece missing.
 - delivery: it arrived too late.
-- changed_mind: the customer no longer wants it, did not like it, or ordered by mistake.
+- changed_mind: the customer's own choice, not a fault in the product. They no longer want
+  it, ordered by mistake, found it cheaper, someone at home said no, or it was not to their
+  taste ("pasand nahi aaya").
 - unclear: the text does not say why. Never guess.
 
 Rules:
 - "Shrank after washing" is quality, not fit.
 - If there are two reasons, pick the one stated first and set multiple_reasons to true.
 - evidence must be copied word for word from the customer's text.
+- If the text only says the product was not good, not okay or not right, without saying
+  what was wrong ("theek nahi tha", "achha nahi hai", "sahi nahi hai", "not good", "bakwas"),
+  choose unclear.
+- delivery means late arrival only. A complaint about the delivery person or the packaging
+  is unclear.
 - Use low confidence when you are unsure. Use unclear when there is no reason at all."""
 
 PROMPT = ChatPromptTemplate.from_messages([
@@ -58,11 +66,8 @@ def build_triage_chain(model_name: str):
     include_raw=True makes the chain return a dict with "raw", "parsed" and "parsing_error",
     so a bad answer is reported instead of raising.
     """
-    # timeout is in MILLISECONDS for the OpenRouter package: 30_000 = 30 seconds.
-    # max_retries=1 lets the package retry a rate limit or network blip once.
-    model = init_chat_model(model_name, model_provider="openrouter", temperature=0,
-                            max_retries=1, timeout=30_000)
-    return PROMPT | model.with_structured_output(Triage, include_raw=True)
+    model, method = make_model(model_name)
+    return PROMPT | model.with_structured_output(Triage, method=method, include_raw=True)
 
 
 def is_junk(text: str) -> bool:
@@ -77,7 +82,9 @@ def _squash(text: str) -> str:
 def _check(result, text: str):
     """Return (Triage, None) when the output can be trusted, else (None, why not)."""
     if isinstance(result, Exception):
-        return None, f"model call failed: {type(result).__name__}: {str(result)[:200]}"
+        # .body holds the provider's own explanation when there is one
+        why = getattr(result, "body", "") or str(result)
+        return None, f"model call failed: {type(result).__name__}: {str(why)[:400]}"
     parsed = result.get("parsed")
     if parsed is None:
         return None, "output did not match the schema"
@@ -94,7 +101,7 @@ def _tokens(result):
     return usage.get("input_tokens", 0), usage.get("output_tokens", 0)
 
 
-def classify(rows: list[dict], chain, max_concurrency: int = 5) -> list[dict]:
+def classify(rows: list[dict], chain, max_concurrency: int = 8) -> list[dict]:
     """rows: dicts with return_id, category, size_ordered, other_text.
 
     Returns one dict per row with reason, confidence, evidence, multiple_reasons and status.
