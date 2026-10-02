@@ -10,7 +10,7 @@ SMALL_MODEL = "google/gemini-3.5-flash-lite"
 
 st.set_page_config(page_title="Returns Reason Classifier", layout="wide")
 st.title("Returns Reason Classifier")
-st.caption("Dhaga & Co. · hello-world deploy")
+st.caption('Dhaga & Co. · Reads the "Other" box on returns and gives each one a reason')
 
 
 def get_secret(name):
@@ -81,18 +81,33 @@ st.subheader('Classify "Other" rows')
 n = st.slider("How many rows", min_value=5, max_value=100, value=20, step=5)
 if st.button("Run triage"):
     batch = other.head(n)
-    with st.spinner(f"Classifying {n} rows..."):
+    with st.spinner(f"Classifying {len(batch)} rows..."):
         results = pd.DataFrame(classify(batch.to_dict("records"), triage_chain()))
-    shown = batch[["return_id", "other_text"]].merge(results, on="return_id")
+    # Keep the results in the session, so they stay on screen after a download click.
+    st.session_state["triage_results"] = batch[
+        ["return_id", "vendor_id", "category", "size_ordered", "other_text"]
+    ].merge(results, on="return_id")
+
+if "triage_results" in st.session_state:
+    shown = st.session_state["triage_results"]
 
     m1, m2, m3, m4 = st.columns(4)
-    m1.metric("Labelled by the model", int((results["status"] == "ok").sum()))
-    m2.metric("Junk, skipped in code", int((results["status"] == "skipped_junk").sum()))
-    m3.metric("Unclassified", int((results["status"] == "unclassified").sum()))
+    m1.metric("Labelled by the model", int((shown["status"] == "ok").sum()))
+    m2.metric("Junk, skipped in code", int((shown["status"] == "skipped_junk").sum()))
+    m3.metric("Unclassified", int((shown["status"] == "unclassified").sum()))
     m4.metric("Tokens in / out",
-              f"{int(results['input_tokens'].sum())} / {int(results['output_tokens'].sum())}")
+              f"{int(shown['input_tokens'].sum())} / {int(shown['output_tokens'].sum())}")
 
-    st.bar_chart(results["reason"].value_counts())
+    st.bar_chart(shown["reason"].value_counts())
     st.dataframe(shown[["return_id", "other_text", "reason", "confidence", "evidence",
                         "multiple_reasons", "status", "problem"]],
                  width="stretch", hide_index=True)
+
+    export = shown[["return_id", "vendor_id", "category", "size_ordered", "other_text",
+                    "reason", "confidence", "evidence", "multiple_reasons", "status", "problem"]]
+    st.download_button(
+        "Download classified rows as CSV",
+        data=export.to_csv(index=False).encode("utf-8-sig"),   # utf-8-sig so Excel shows Hindi text
+        file_name="classified_returns.csv",
+        mime="text/csv",
+    )
