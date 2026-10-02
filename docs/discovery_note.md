@@ -1,6 +1,6 @@
 # Discovery note: Dhaga & Co.
 
-Written 3 October 2026 by [group member names]. The ranking below was first set out in our PRD on 2 October, before the first commit. This note was written up after it.
+Written by Group 4 (Vipul, Vijay,Vinothini, Rohan & Amrinder). The ranking below was first set out in our PRD, before the first commit. This note was written up after it.
 
 ## 1. The problem, in the client's language
 
