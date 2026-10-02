@@ -1,0 +1,1010 @@
+return_id,order_id,return_date,return_channel,sku_id,vendor_id,vendor_city,segment,category,size_ordered,item_price_inr,payment_mode,fulfilment_centre,customer_city_tier,dropdown_reason,other_text
+R-104001,OD21385229,2026-09-23,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104002,OD49761093,2026-09-26,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,COD,Gurugram,Tier 1,Wrong item received,
+R-104003,OD46167588,2026-09-26,App,SKU-90608,V-06,Ludhiana,Womenswear,Nightwear,42,899,Prepaid,Bhiwandi,Tier 2,Other,achha nahi laga
+R-104004,OD67774646,2026-09-27,App,SKU-100190,V-29,Jaipur,Kidswear,Kids Frock,6-7Y,549,COD,Gurugram,Tier 1,Size too small,
+R-104005,OD50478867,2026-09-22,WhatsApp,SKU-89622,V-04,Tiruppur,Kidswear,Kids Shorts,6-7Y,449,Prepaid,Hyderabad,Tier 1,Size too small,
+R-104006,OD52077512,2026-09-24,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,XL,749,Prepaid,Bhiwandi,Tier 2,Size too large,
+R-104007,OD61164194,2026-09-23,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,2-3Y,399,COD,Bhiwandi,Tier 3,Quality not as expected,
+R-104008,OD31573006,2026-09-23,App,SKU-94501,V-16,Tiruppur,Womenswear,Nightwear,38,599,COD,Bhiwandi,Tier 3,Other,Size is running small
+R-104009,OD38077124,2026-09-23,App,SKU-97388,V-23,Jaipur,Kidswear,Kids Frock,26,599,COD,Gurugram,Tier 2,Size too large,
+R-104010,OD95401578,2026-09-25,App,SKU-92394,V-11,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,COD,Gurugram,Tier 2,Other,2 ordder kar diye the ek rakhna hai
+R-104011,OD57318093,2026-09-24,WhatsApp,SKU-97502,V-24,Tiruppur,Kidswear,Kids Shorts,20,449,Prepaid,Hyderabad,Tier 3,Other,delivery bohot late thi
+R-104012,OD35143708,2026-09-26,App,SKU-97066,V-22,Tiruppur,Men's basics,Men's T-shirt,38,499,Prepaid,Gurugram,Tier 1,Wrong item received,
+R-104013,OD54319022,2026-09-25,App,SKU-99494,V-27,Jaipur,Womenswear,Kurti,L,949,COD,Bhiwandi,Tier 1,Other,L mangaya par bahut bada lag raha he
+R-104014,OD25698743,2026-09-25,WhatsApp,SKU-91086,V-07,Jaipur,Womenswear,Kurta Set,40,949,COD,Gurugram,Tier 2,Quality not as expected,
+R-104015,OD56501964,2026-09-24,App,SKU-99883,V-28,Surat,Womenswear,Kurti,L,599,Prepaid,Bhiwandi,Tier 1,Wrong item received,
+R-104016,OD83796741,2026-09-25,App,SKU-97293,V-23,Jaipur,Kidswear,Kids Frock,24,549,Prepaid,Bhiwandi,Tier 2,Size too large,
+R-104017,OD60886680,2026-09-27,App,SKU-98561,V-25,Jaipur,Kidswear,Kids Frock,28,799,COD,Bhiwandi,Tier 2,Other,Zip broke on day two
+R-104018,OD57937136,2026-09-25,App,SKU-93938,V-14,Jaipur,Womenswear,Dress,36,1249,Prepaid,Bhiwandi,Tier 2,Other,waist is too big.
+R-104019,OD22447274,2026-09-21,App,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,399,COD,Gurugram,Tier 2,Quality not as expected,
+R-104020,OD44704081,2026-09-26,WhatsApp,SKU-92093,V-10,Tiruppur,Men's basics,Men's T-shirt,44,549,COD,Bhiwandi,Tier 2,Other,waist is too big
+R-104021,OD54466656,2026-09-21,WhatsApp,SKU-92210,V-10,Tiruppur,Kidswear,Kids T-shirt,4-5Y,499,COD,Bhiwandi,Tier 2,Other,bete ko loose he agle saal aayeag ek saiz chotaa bhejo
+R-104022,OD67643236,2026-09-24,App,SKU-93587,V-13,Jaipur,Womenswear,Kurti,40,949,COD,Bhiwandi,Tier 2,Other,kurti bahut tight hai
+R-104023,OD26984405,2026-09-25,App,SKU-89341,V-04,Tiruppur,Kidswear,Kids T-shirt,6-7Y,399,COD,Hyderabad,Tier 1,Size too small,
+R-104024,OD69931347,2026-09-25,App,SKU-89769,V-04,Tiruppur,Men's basics,Men's T-shirt,42,399,Prepaid,Gurugram,Tier 1,Changed my mind,found cheper elsewhere
+R-104025,OD12053469,2026-09-27,WhatsApp,SKU-102782,V-34,Tiruppur,Men's basics,Men's Track Pants,42,649,COD,Gurugram,Tier 1,Other,"42 likha hai par chota hai, dusre brand ka 42 aata hy mujhe"
+R-104026,OD84195237,2026-09-27,App,SKU-99307,V-27,Jaipur,Womenswear,Palazzo,Free Size,499,COD,Hyderabad,Tier 2,Other,સાઈઝ નાની છે
+R-104027,OD88239434,2026-09-25,App,SKU-89567,V-04,Tiruppur,Womenswear,Leggings,Free Size,399,COD,Hyderabad,Tier 1,Other,very tight fitting
+R-104028,OD55431774,2026-09-21,App,SKU-90928,V-07,Jaipur,Womenswear,Dress,40,1249,COD,Hyderabad,Tier 2,Other,too small and the colour is not what was shown
+R-104029,OD86343017,2026-09-22,App,SKU-104974,V-39,Tiruppur,Womenswear,Nightwear,XXL,649,COD,Hyderabad,Tier 1,Quality not as expected,
+R-104030,OD55951215,2026-09-22,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Bhiwandi,Tier 3,Other,"pehle wala M theek tha, is baar ka M chota hai"
+R-104031,OD59122094,2026-09-24,App,SKU-89011,V-03,Tiruppur,Womenswear,Top,M,599,COD,Gurugram,Tier 1,Size too large,
+R-104032,OD17986482,2026-09-22,WhatsApp,SKU-96645,V-21,Tiruppur,Men's basics,Men's T-shirt,,599,Prepaid,Bhiwandi,Tier 1,Size too large,
+R-104033,OD28230559,2026-09-24,App,SKU-101836,V-32,Jaipur,Kidswear,Kids Kurta Set,20,999,COD,Bhiwandi,Tier 3,Other,sleeves bohot lambi hai
+R-104034,OD93311224,2026-09-21,WhatsApp,SKU-100373,V-29,Jaipur,Womenswear,Saree,Free Size,949,Prepaid,Bhiwandi,Tier 3,Other,"silai kharab, colour bhi photo jaisa nahi"
+R-104035,OD29784686,2026-09-26,App,SKU-92004,V-09,Jaipur,Womenswear,Kurta Set,40,1149,Prepaid,Gurugram,Tier 3,Size too small,
+R-104036,OD61975535,2026-09-24,App,SKU-94875,V-16,Tiruppur,Womenswear,Leggings,L,499,COD,Gurugram,Tier 1,Quality not as expected,
+R-104037,OD45573853,2026-09-22,App,SKU-93793,V-14,Jaipur,Womenswear,Kurti,44,649,Prepaid,Gurugram,Tier 1,Size too small,
+R-104038,OD17650549,2026-09-22,App,SKU-93330,V-13,Jaipur,Womenswear,Saree,Free Size,1349,COD,Hyderabad,Tier 1,Other,Bhaiya 2 piece ka order tha ek hi aya
+R-104039,OD60391828,2026-09-21,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,XL,549,Prepaid,Gurugram,Tier 1,Quality not as expected,
+R-104040,OD48928061,2026-09-26,WhatsApp,SKU-101156,V-31,Tiruppur,Men's basics,Men's T-shirt,L,549,COD,Hyderabad,Tier 2,Other,Tshirt dhone ke baad chhota ho gaya.
+R-104041,OD86479550,2026-09-23,App,SKU-96995,V-22,Tiruppur,Men's basics,Men's T-shirt,38,549,COD,Hyderabad,Tier 1,Other,kandhe se chota hai ek size badaa bhej do
+R-104042,OD87993462,2026-09-27,App,SKU-103423,V-36,Jaipur,Womenswear,Kurta Set,40,1049,Prepaid,Bhiwandi,Tier 1,Other,लंबाई कम है
+R-104043,OD97132875,2026-09-24,App,SKU-96712,V-21,Tiruppur,Men's basics,Men's T-shirt,S,399,COD,Bhiwandi,Tier 3,Other,"Length choti hai, kapda bhi transparent!!"
+R-104044,OD49568987,2026-09-21,App,SKU-91300,V-08,Tiruppur,Womenswear,Top,38,549,COD,Bhiwandi,Tier 1,Other,कपड़ा बहुत पतला है
+R-104045,OD40415657,2026-09-26,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,XL,599,COD,Gurugram,Tier 3,Quality not as expected,
+R-104046,OD44513185,2026-09-25,WhatsApp,SKU-97066,V-22,Tiruppur,Men's basics,Men's T-shirt,44,499,COD,Hyderabad,Tier 3,Size too small,
+R-104047,OD50571470,2026-09-27,WhatsApp,SKU-97341,V-23,Jaipur,Kidswear,Kids Frock,22,899,COD,Gurugram,Tier 3,Changed my mind,
+R-104048,OD16065594,2026-09-22,WhatsApp,SKU-96144,V-20,Ludhiana,Womenswear,Top,36,699,Prepaid,Hyderabad,Tier 2,Other,Length is short for 36!!
+R-104049,OD70760981,2026-09-22,App,SKU-88532,V-02,Jaipur,Womenswear,Kurta Set,40,1299,COD,Bhiwandi,Tier 3,Other,waist bahut tight hai baith nahi sakti
+R-104050,OD15973507,2026-09-25,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,M,549,Prepaid,Hyderabad,Tier 2,Size too large,
+R-104051,OD36855831,2026-09-24,App,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,399,Prepaid,Gurugram,Tier 1,Quality not as expected,
+R-104052,OD52267922,2026-09-22,App,SKU-88404,V-02,Jaipur,Womenswear,Kurti,38,499,Prepaid,Gurugram,Tier 3,Other,बहुत टाइट है
+R-104053,OD29323856,2026-09-25,App,SKU-102538,V-33,Jaipur,Kidswear,Kids Frock,6-7Y,699,COD,Gurugram,Tier 1,Size too small,
+R-104054,OD32080080,2026-09-27,App,SKU-102310,V-33,Jaipur,Kidswear,Kids Kurta Set,24,799,COD,Gurugram,Tier 2,Other,size is running small
+R-104055,OD97947307,2026-09-25,App,SKU-88217,V-01,Jaipur,Womenswear,Saree,Free Size,649,COD,Bhiwandi,Tier 3,Other,CHEAP MATERIAL 😡
+R-104056,OD72723652,2026-09-23,App,SKU-91789,V-09,Jaipur,Womenswear,Kurti,38,999,Prepaid,Gurugram,Tier 3,Size too small,
+R-104057,OD19866690,2026-09-24,App,SKU-89599,V-04,Tiruppur,Womenswear,Leggings,Free Size,399,COD,Bhiwandi,Tier 2,Other,hips pe tight hai niche nai aa raha
+R-104058,OD10061514,2026-09-25,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,COD,Bhiwandi,Tier 1,Other,SIR ITNA LAMBA HE KI KATWANA PADEGA!!
+R-104059,OD68877645,2026-09-21,App,SKU-93901,V-14,Jaipur,Womenswear,Palazzo,Free Size,799,COD,Bhiwandi,Tier 1,Other,palazzo hips pe tyt hai niche nahi aa raha jaldi pickup karo
+R-104060,OD94605536,2026-09-21,App,SKU-102528,V-33,Jaipur,Kidswear,Kids Frock,6-7Y,449,Prepaid,Gurugram,Tier 1,Different from image,
+R-104061,OD40864935,2026-09-25,WhatsApp,SKU-95204,V-17,Tiruppur,Men's basics,Men's Track Pants,42,549,COD,Gurugram,Tier 3,Other,😡😡
+R-104062,OD32167478,2026-09-21,App,SKU-100439,V-29,Jaipur,Womenswear,Kurta Set,M,799,COD,Gurugram,Tier 2,Quality not as expected,
+R-104063,OD98054000,2026-09-23,App,SKU-100867,V-30,Tiruppur,Womenswear,Leggings,Free Size,449,Prepaid,Bhiwandi,Tier 2,Other,free size bola tha par mujhe nahi aata
+R-104064,OD44637697,2026-09-22,App,SKU-89185,V-03,Tiruppur,Men's basics,Men's Track Pants,XXL,599,COD,Bhiwandi,Tier 1,Wrong item received,
+R-104065,OD34019339,2026-09-26,App,SKU-103995,V-37,Jaipur,Kidswear,Kids Frock,4-5Y,849,COD,Bhiwandi,Tier 1,Other,size isuse
+R-104066,OD43298839,2026-09-26,App,SKU-95249,V-17,Tiruppur,Womenswear,Leggings,Free Size,449,COD,Hyderabad,Tier 2,Other,tight hai nahi aaya
+R-104067,OD68223212,2026-09-22,App,SKU-97979,V-24,Tiruppur,Womenswear,Top,L,399,Prepaid,Bhiwandi,Tier 2,Quality not as expected,
+R-104068,OD94058668,2026-09-25,App,SKU-96787,V-21,Tiruppur,Womenswear,Leggings,28,399,COD,Hyderabad,Tier 2,Wrong item received,
+R-104069,OD45369245,2026-09-24,App,SKU-88125,V-01,Jaipur,Womenswear,Dress,40,1249,COD,Bhiwandi,Tier 1,Other,colour bilkul alag hai photo me mustard tha ye peela hai..
+R-104070,OD13302927,2026-09-23,App,SKU-90396,V-06,Ludhiana,Womenswear,Top,L,699,Prepaid,Bhiwandi,Tier 2,Size too small,
+R-104071,OD95347640,2026-09-22,App,SKU-97412,V-23,Jaipur,Kidswear,Kids Frock,22,799,Prepaid,Bhiwandi,Tier 2,Wrong item received,
+R-104072,OD62865620,2026-09-21,App,SKU-103717,V-36,Jaipur,Kidswear,Kids Kurta Set,20,599,COD,Gurugram,Tier 2,Other,hello baazu m fasta he.
+R-104073,OD28173717,2026-09-22,App,SKU-103654,V-36,Jaipur,Kidswear,Kids Kurta Set,22,599,COD,Gurugram,Tier 3,Wrong item received,
+R-104074,OD50139469,2026-09-23,App,SKU-94947,V-16,Tiruppur,Kidswear,Kids Shorts,4-5Y,399,COD,Bhiwandi,Tier 1,Other,Received a different item
+R-104075,OD60565588,2026-09-24,App,SKU-100168,V-29,Jaipur,Kidswear,Kids Frock,4-5Y,649,COD,Bhiwandi,Tier 1,Other,frock bahut lambaa hai pair me aata hai
+R-104076,OD39766772,2026-09-27,App,SKU-94249,V-15,Jaipur,Womenswear,Kurta Set,S,1049,COD,Hyderabad,Tier 1,Other,
+R-104077,OD77932147,2026-09-23,App,SKU-88298,V-01,Jaipur,Womenswear,Kurta Set,38,899,COD,Hyderabad,Tier 1,Delivered late,
+R-104078,OD61681974,2026-09-21,App,SKU-99940,V-28,Surat,Womenswear,Kurti,L,549,COD,Bhiwandi,Tier 1,Size too large,
+R-104079,OD41494120,2026-09-22,WhatsApp,SKU-103750,V-37,Jaipur,Womenswear,Dress,44,1099,COD,Bhiwandi,Tier 2,Other,"colour alag hai, upar se bust pe tight"
+R-104080,OD39207818,2026-09-25,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Bhiwandi,Tier 2,Size too small,
+R-104081,OD85013896,2026-09-21,App,SKU-93305,V-13,Jaipur,Womenswear,Palazzo,34,549,COD,Gurugram,Tier 3,Size too small,
+R-104082,OD79909269,2026-09-21,App,SKU-104825,V-39,Tiruppur,Womenswear,Top,XXL,499,COD,Bhiwandi,Tier 1,Wrong item received,
+R-104083,OD44938469,2026-09-27,App,SKU-103654,V-36,Jaipur,Kidswear,Kids Kurta Set,24,599,COD,Gurugram,Tier 2,Size too small,
+R-104084,OD80068543,2026-09-27,App,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,COD,Bhiwandi,Tier 1,Other,colour alag hy photo se
+R-104085,OD77456258,2026-09-23,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,S,599,Prepaid,Gurugram,Tier 2,Other,length is too long for me
+R-104086,OD59976083,2026-09-25,App,SKU-92938,V-12,Tiruppur,Kidswear,Kids Shorts,4-5Y,399,COD,Hyderabad,Tier 2,Wrong item received,
+R-104087,OD57989663,2026-09-21,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Bhiwandi,Tier 1,Size too small,
+R-104088,OD98390181,2026-09-24,App,SKU-91650,V-09,Jaipur,Womenswear,Kurti,38,499,COD,Bhiwandi,Tier 1,Size too large,
+R-104089,OD58760527,2026-09-21,App,SKU-95249,V-17,Tiruppur,Womenswear,Leggings,Free Size,449,COD,Bhiwandi,Tier 2,Size too small,
+R-104090,OD10595143,2026-09-22,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,Prepaid,Bhiwandi,Tier 3,Size too small,
+R-104091,OD92629238,2026-09-25,WhatsApp,SKU-92729,V-11,Tiruppur,Men's basics,Men's Track Pants,XL,649,COD,Hyderabad,Tier 2,Other,बहुत टाइट है
+R-104092,OD61392387,2026-09-23,WhatsApp,SKU-96592,V-21,Tiruppur,Men's basics,Men's T-shirt,XL,549,COD,Gurugram,Tier 1,Other,hello fit nahi aaya 😡
+R-104093,OD67571226,2026-09-21,App,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,COD,Hyderabad,Tier 1,Different from image,
+R-104094,OD91309633,2026-09-26,App,SKU-90598,V-06,Ludhiana,Womenswear,Nightwear,36,799,COD,Gurugram,Tier 2,Size too large,
+R-104095,OD51120075,2026-09-23,App,SKU-97293,V-23,Jaipur,Kidswear,Kids Frock,20,549,COD,Gurugram,Tier 1,Other,cohta pad gaya
+R-104096,OD84829388,2026-09-25,App,SKU-91650,V-09,Jaipur,Womenswear,Kurti,40,499,Prepaid,Hyderabad,Tier 2,Size too small,
+R-104097,OD51351106,2026-09-25,App,SKU-99883,V-28,Surat,Womenswear,Kurti,S,599,COD,Hyderabad,Tier 2,Quality not as expected,
+R-104098,OD27320515,2026-09-26,App,SKU-102585,V-33,Jaipur,Kidswear,Kids Frock,4-5Y,799,Prepaid,Bhiwandi,Tier 3,Other,phata hua aaya aur late bhi
+R-104099,OD94524700,2026-09-27,App,SKU-97209,V-23,Jaipur,Womenswear,Palazzo,XXL,499,COD,Bhiwandi,Tier 2,Changed my mind,
+R-104100,OD90544727,2026-09-24,App,SKU-88395,V-02,Jaipur,Womenswear,Kurti,36,999,COD,Bhiwandi,Tier 2,Quality not as expected,
+R-104101,OD72366023,2026-09-26,WhatsApp,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,399,COD,Gurugram,Tier 1,Other,साइज़ छोटा है
+R-104102,OD23572116,2026-09-27,App,SKU-103384,V-36,Jaipur,Womenswear,Palazzo,L,549,Prepaid,Bhiwandi,Tier 1,Different from image,
+R-104103,OD34069934,2026-09-27,App,SKU-93404,V-13,Jaipur,Womenswear,Saree,Free Size,1249,Prepaid,Bhiwandi,Tier 3,Other,😞
+R-104104,OD28419410,2026-09-27,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,S,749,COD,Hyderabad,Tier 2,Other,size சின்னதா இருக்கு
+R-104105,OD31296645,2026-09-22,App,SKU-94320,V-15,Jaipur,Womenswear,Kurta Set,XXL,799,Prepaid,Hyderabad,Tier 3,Other,"XXL is too small, need one size up.."
+R-104106,OD91770962,2026-09-27,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,S,749,COD,Bhiwandi,Tier 1,Quality not as expected,
+R-104107,OD84837619,2026-09-27,App,SKU-96233,V-20,Ludhiana,Womenswear,Top,38,649,COD,Bhiwandi,Tier 1,Other,upar se bohot dheela hai.
+R-104108,OD74856792,2026-09-26,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,2-3Y,399,COD,Bhiwandi,Tier 1,Other,bacche ko bahut bada hai
+R-104109,OD26761726,2026-09-27,App,SKU-95679,V-18,Jaipur,Womenswear,Palazzo,34,749,COD,Bhiwandi,Tier 3,Other,...
+R-104110,OD34360282,2026-09-24,App,SKU-91718,V-09,Jaipur,Womenswear,Kurti,40,549,COD,Bhiwandi,Tier 2,Quality not as expected,
+R-104111,OD14380489,2026-09-26,App,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,399,COD,Bhiwandi,Tier 2,Quality not as expected,
+R-104112,OD95154477,2026-09-27,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,COD,Gurugram,Tier 2,Size too small,
+R-104113,OD91405105,2026-09-24,App,SKU-101927,V-32,Jaipur,Kidswear,Kids Kurta Set,22,949,COD,Bhiwandi,Tier 3,Quality not as expected,
+R-104114,OD96780601,2026-09-25,App,SKU-89663,V-04,Tiruppur,Kidswear,Kids Shorts,8-9Y,449,COD,Bhiwandi,Tier 3,Damaged or defective,
+R-104115,OD37701542,2026-09-23,App,SKU-96123,V-20,Ludhiana,Men's basics,Men's Track Pants,42,749,COD,Bhiwandi,Tier 1,Other,Photo se alag he & kpda bhi patla.
+R-104116,OD78210625,2026-09-23,App,SKU-101171,V-31,Tiruppur,Men's basics,Men's T-shirt,S,499,Prepaid,Gurugram,Tier 3,Size too small,
+R-104117,OD21396978,2026-09-26,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,L,749,Prepaid,Gurugram,Tier 2,Other,issue
+R-104118,OD75400395,2026-09-23,App,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,L,399,COD,Gurugram,Tier 2,Other,"fit was fine, shrakn after washing 😞"
+R-104119,OD77303539,2026-09-27,App,SKU-100168,V-29,Jaipur,Kidswear,Kids Frock,4-5Y,649,Prepaid,Bhiwandi,Tier 2,Size too small,
+R-104120,OD54915580,2026-09-24,WhatsApp,SKU-91589,V-08,Tiruppur,Kidswear,Kids T-shirt,20,499,Prepaid,Bhiwandi,Tier 2,Other,length chhoti hai
+R-104121,OD91217537,2026-09-21,App,SKU-90217,V-05,Tiruppur,Kidswear,Kids T-shirt,24,399,COD,Bhiwandi,Tier 3,Size too large,
+R-104122,OD82271024,2026-09-25,App,SKU-92729,V-11,Tiruppur,Men's basics,Men's Track Pants,L,649,COD,Bhiwandi,Tier 2,Damaged or defective,
+R-104123,OD72075493,2026-09-27,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,2-3Y,399,COD,Hyderabad,Tier 3,Size too large,
+R-104124,OD46860452,2026-09-22,App,SKU-92062,V-10,Tiruppur,Men's basics,Men's T-shirt,42,499,Prepaid,Gurugram,Tier 3,Size too large,
+R-104125,OD98565832,2026-09-21,App,SKU-91752,V-09,Jaipur,Womenswear,Kurti,44,899,Prepaid,Gurugram,Tier 3,Quality not as expected,
+R-104126,OD97330514,2026-09-21,App,SKU-102142,V-32,Jaipur,Womenswear,Dress,S,999,COD,Hyderabad,Tier 1,Damaged or defective,
+R-104127,OD84068447,2026-09-22,App,SKU-96592,V-21,Tiruppur,Men's basics,Men's T-shirt,L,549,COD,Gurugram,Tier 1,Wrong item received,
+R-104128,OD18425152,2026-09-24,App,SKU-95297,V-17,Tiruppur,Womenswear,Leggings,Free Size,399,COD,Bhiwandi,Tier 1,Size too large,
+R-104129,OD22307465,2026-09-22,WhatsApp,SKU-103654,V-36,Jaipur,Kidswear,Kids Kurta Set,24,599,COD,Bhiwandi,Tier 2,Other,tight on chest
+R-104130,OD54832326,2026-09-25,WhatsApp,SKU-96389,V-20,Ludhiana,Womenswear,Nightwear,44,599,COD,Bhiwandi,Tier 1,Other,SAIZ KA PROBLEM HAI
+R-104131,OD72073407,2026-09-25,WhatsApp,SKU-91752,V-09,Jaipur,Womenswear,Kurti,40,899,Prepaid,Hyderabad,Tier 1,Other,Wrong product received
+R-104132,OD57258596,2026-09-21,App,SKU-102222,V-33,Jaipur,Kidswear,Kids Kurta Set,22,649,COD,Gurugram,Tier 2,Size too small,
+R-104133,OD11757232,2026-09-21,App,SKU-102417,V-33,Jaipur,Kidswear,Kids Kurta Set,22,949,COD,Bhiwandi,Tier 2,Other,4 saal ke bacche ko bahut bda aa gaya.
+R-104134,OD10454089,2026-09-24,App,SKU-103654,V-36,Jaipur,Kidswear,Kids Kurta Set,22,599,COD,Hyderabad,Tier 2,Quality not as expected,
+R-104135,OD23627732,2026-09-27,App,SKU-90561,V-06,Ludhiana,Womenswear,Top,XL,449,COD,Gurugram,Tier 3,Other,chhota pad gaya paisa wapas chahiye
+R-104136,OD36321147,2026-09-22,App,SKU-103423,V-36,Jaipur,Womenswear,Kurta Set,38,1049,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104137,OD63140647,2026-09-21,App,SKU-93042,V-12,Tiruppur,Kidswear,Kids Shorts,6-7Y,399,Prepaid,Hyderabad,Tier 1,Quality not as expected,
+R-104138,OD74570169,2026-09-22,App,SKU-91503,V-08,Tiruppur,Kidswear,Kids T-shirt,24,499,COD,Bhiwandi,Tier 2,Size too small,
+R-104139,OD96474953,2026-09-22,App,SKU-101156,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,549,Prepaid,Gurugram,Tier 1,Quality not as expected,
+R-104140,OD18191412,2026-09-26,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Hyderabad,Tier 1,Size too small,
+R-104141,OD87059356,2026-09-21,App,SKU-96233,V-20,Ludhiana,Womenswear,Top,38,649,Prepaid,Gurugram,Tier 3,Other,bakwas hai bilkul
+R-104142,OD61612994,2026-09-21,App,SKU-100279,V-29,Jaipur,Kidswear,Kids Frock,4-5Y,849,COD,Gurugram,Tier 1,Quality not as expected,
+R-104143,OD74036719,2026-09-27,App,SKU-88478,V-02,Jaipur,Womenswear,Kurta Set,42,849,COD,Gurugram,Tier 3,Size too small,
+R-104144,OD98473448,2026-09-24,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,6-7Y,399,Prepaid,Gurugram,Tier 3,Other,school shirt do din me phat gaya
+R-104145,OD77772360,2026-09-26,App,SKU-103717,V-36,Jaipur,Kidswear,Kids Kurta Set,22,599,COD,Bhiwandi,Tier 2,Size too small,
+R-104146,OD54076208,2026-09-27,WhatsApp,SKU-98506,V-25,Jaipur,Womenswear,Kurti,S,899,COD,Gurugram,Tier 3,Damaged or defective,
+R-104147,OD59918300,2026-09-27,WhatsApp,SKU-94367,V-15,Jaipur,Womenswear,Kurti,42,999,COD,Hyderabad,Tier 2,Other,tite hai nahi aaya jaldi pickup karo
+R-104148,OD78715156,2026-09-24,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,L,749,COD,Hyderabad,Tier 2,Other,"bust is very tight in L, rest is fine"
+R-104149,OD94383697,2026-09-26,WhatsApp,SKU-91250,V-08,Tiruppur,Womenswear,Top,,699,Prepaid,Hyderabad,Tier 3,Quality not as expected,
+R-104150,OD66079592,2026-09-22,App,SKU-104117,V-38,Surat,Womenswear,Dress,XL,1099,COD,Bhiwandi,Tier 3,Other,call 9012345678
+R-104151,OD66689911,2026-09-22,App,SKU-96995,V-22,Tiruppur,Men's basics,Men's T-shirt,40,549,COD,Hyderabad,Tier 3,Different from image,
+R-104152,OD67983192,2026-09-27,App,SKU-91718,V-09,Jaipur,Womenswear,Kurti,42,549,Prepaid,Bhiwandi,Tier 3,Quality not as expected,
+R-104586,OD68614525,2026-09-22,App,SKU-90561,V-06,Ludhiana,Womenswear,Top,XL,449,COD,Hyderabad,Tier 1,Size too large,
+R-104153,OD57162222,2026-09-24,App,SKU-91898,V-09,Jaipur,Womenswear,Kurta Set,38,1299,COD,Bhiwandi,Tier 1,Other,बहुत टाइट है
+R-104154,OD59917081,2026-09-24,App,SKU-91191,V-07,Jaipur,Womenswear,Kurta Set,38,1299,Prepaid,Bhiwandi,Tier 1,Other,rang utar gaya!!
+R-104155,OD21014106,2026-09-21,App,SKU-91718,V-09,Jaipur,Womenswear,Kurti,40,549,COD,Hyderabad,Tier 3,Size too small,
+R-104156,OD24184976,2026-09-26,App,SKU-94457,V-15,Jaipur,Womenswear,Kurti,40,999,Prepaid,Gurugram,Tier 1,Different from image,
+R-104009,OD38077124,2026-09-23,App,SKU-97388,V-23,Jaipur,Kidswear,Kids Frock,26,599,COD,Gurugram,Tier 2,Size too large,
+R-104157,OD16959586,2026-09-26,App,SKU-102528,V-33,Jaipur,Kidswear,Kids Frock,6-7Y,449,Prepaid,Gurugram,Tier 2,Wrong item received,
+R-104158,OD78487979,2026-09-25,App,SKU-93928,V-14,Jaipur,Womenswear,Dress,40,1099,Prepaid,Hyderabad,Tier 2,Quality not as expected,
+R-104159,OD56787896,2026-09-25,WhatsApp,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,M,549,Prepaid,Bhiwandi,Tier 3,Other,length badi hai M me bhi
+R-104160,OD80545484,2026-09-27,App,SKU-100168,V-29,Jaipur,Kidswear,Kids Frock,2-3Y,649,Prepaid,Bhiwandi,Tier 3,Size too large,
+R-104161,OD26601520,2026-09-22,App,SKU-104111,V-37,Jaipur,Kidswear,Kids Frock,10-11Y,849,COD,Hyderabad,Tier 2,Other,"bahut lamba hai. ghar ka pata Flat 302, Sai Residency, Warangal"
+R-104162,OD81441612,2026-09-21,App,SKU-98355,V-25,Jaipur,Womenswear,Kurti,M,749,Prepaid,Hyderabad,Tier 1,Other,pls return
+R-104163,OD61269271,2026-09-26,App,SKU-98834,V-26,Jaipur,Womenswear,Kurta Set,XL,949,COD,Gurugram,Tier 1,Other,too loose at the chest
+R-104164,OD90268694,2026-09-27,WhatsApp,SKU-92500,V-11,Tiruppur,Kidswear,Kids Shorts,22,449,COD,Bhiwandi,Tier 3,Wrong item received,
+R-104165,OD26056089,2026-09-22,WhatsApp,SKU-93928,V-14,Jaipur,Womenswear,Dress,38,1099,Prepaid,Hyderabad,Tier 1,Size too small,
+R-104166,OD57251026,2026-09-25,App,SKU-100581,V-29,Jaipur,Womenswear,Kurta Set,XXL,1149,Prepaid,Bhiwandi,Tier 1,Size too large,
+R-104167,OD40745304,2026-09-22,App,SKU-101171,V-31,Tiruppur,Men's basics,Men's T-shirt,M,499,COD,Gurugram,Tier 1,Size too small,
+R-104168,OD24685843,2026-09-27,App,SKU-91855,V-09,Jaipur,Womenswear,Kurta Set,36,1199,Prepaid,Hyderabad,Tier 3,Other,
+R-104169,OD83215901,2026-09-27,App,SKU-94089,V-15,Jaipur,Womenswear,Palazzo,Free Size,649,COD,Bhiwandi,Tier 2,Size too large,
+R-104170,OD49512920,2026-09-24,App,SKU-89663,V-04,Tiruppur,Kidswear,Kids Shorts,6-7Y,449,COD,Gurugram,Tier 1,Size too large,
+R-104171,OD15234501,2026-09-21,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,COD,Bhiwandi,Tier 3,Other,"very long, I am 5 ft and it drags"
+R-104172,OD31718075,2026-09-24,App,SKU-97341,V-23,Jaipur,Kidswear,Kids Frock,20,899,Prepaid,Hyderabad,Tier 3,Other,baju tight hai aur dhaga bhi nikal raha
+R-104173,OD48545664,2026-09-22,App,SKU-102476,V-33,Jaipur,Kidswear,Kids Kurta Set,22,899,COD,Bhiwandi,Tier 2,Other,too loose at the chest
+R-104174,OD56840269,2026-09-25,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Hyderabad,Tier 3,Size too small,
+R-104175,OD16958995,2026-09-27,App,SKU-94249,V-15,Jaipur,Womenswear,Kurta Set,XXL,1049,COD,Gurugram,Tier 1,Different from image,
+R-104176,OD33898008,2026-09-23,App,SKU-93527,V-13,Jaipur,Womenswear,Kurti,42,649,Prepaid,Hyderabad,Tier 1,Quality not as expected,
+R-104177,OD79677218,2026-09-24,WhatsApp,SKU-96579,V-21,Tiruppur,Kidswear,Kids Shorts,22,399,Prepaid,Gurugram,Tier 2,Other,shorts bahut tight hy!!
+R-104178,OD78325926,2026-09-24,App,SKU-89185,V-03,Tiruppur,Men's basics,Men's Track Pants,L,599,Prepaid,Bhiwandi,Tier 1,Other,size chota hai aur colour bhi alag hai
+R-104179,OD37575907,2026-09-26,App,SKU-100339,V-29,Jaipur,Womenswear,Saree,Free Size,1299,COD,Bhiwandi,Tier 1,Other,photo me gota patit thi isme nahi hai.
+R-104180,OD57972509,2026-09-24,App,SKU-94702,V-16,Tiruppur,Men's basics,Men's Track Pants,40,649,Prepaid,Hyderabad,Tier 3,Wrong item received,
+R-104181,OD50919830,2026-09-23,App,SKU-94947,V-16,Tiruppur,Kidswear,Kids Shorts,2-3Y,399,COD,Gurugram,Tier 2,Size too large,
+R-104182,OD56310620,2026-09-22,WhatsApp,SKU-101156,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,549,COD,Bhiwandi,Tier 1,Quality not as expected,
+R-104183,OD86858193,2026-09-22,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,COD,Bhiwandi,Tier 2,Size too small,
+R-104184,OD27028704,2026-09-23,App,SKU-94356,V-15,Jaipur,Womenswear,Kurti,44,699,COD,Hyderabad,Tier 1,Size too small,
+R-104185,OD42502736,2026-09-24,App,SKU-100867,V-30,Tiruppur,Womenswear,Leggings,Free Size,449,COD,Bhiwandi,Tier 3,Wrong item received,
+R-104186,OD63879046,2026-09-21,App,SKU-94367,V-15,Jaipur,Womenswear,Kurti,42,999,COD,Bhiwandi,Tier 2,Wrong item received,
+R-104187,OD95454203,2026-09-24,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,8-9Y,399,COD,Bhiwandi,Tier 1,Size too large,
+R-104188,OD75283444,2026-09-24,App,SKU-96931,V-22,Tiruppur,Womenswear,Leggings,Free Size,399,Prepaid,Bhiwandi,Tier 2,Quality not as expected,ek wash m roye aa gaye please return
+R-104189,OD27387389,2026-09-25,App,SKU-96645,V-21,Tiruppur,Men's basics,Men's T-shirt,XL,599,Prepaid,Bhiwandi,Tier 2,Other,transparent he andar ka dikh raha hai 😔
+R-104190,OD23574825,2026-09-24,App,SKU-88222,V-01,Jaipur,Womenswear,Kurta Set,38,799,COD,Hyderabad,Tier 3,Size too large,
+R-104191,OD21645480,2026-09-22,App,SKU-104052,V-37,Jaipur,Kidswear,Kids Frock,8-9Y,699,COD,Gurugram,Tier 1,Size too large,
+R-104192,OD65563244,2026-09-21,App,SKU-105210,V-40,Tiruppur,Men's basics,Men's T-shirt,L,449,COD,Bhiwandi,Tier 2,Size too large,
+R-104193,OD48217836,2026-09-23,App,SKU-91789,V-09,Jaipur,Womenswear,Kurti,40,999,COD,Hyderabad,Tier 2,Size too large,
+R-104194,OD44319224,2026-09-26,App,SKU-90522,V-06,Ludhiana,Womenswear,Top,L,399,Prepaid,Bhiwandi,Tier 2,Size too large,
+R-104195,OD35052926,2026-09-26,App,SKU-89813,V-04,Tiruppur,Men's basics,Men's T-shirt,40,549,COD,Gurugram,Tier 1,Size too large,
+R-104196,OD46632619,2026-09-25,App,SKU-95912,V-19,Kolkata,Womenswear,Leggings,XL,399,COD,Gurugram,Tier 2,Wrong item received,
+R-104197,OD45193772,2026-09-26,App,SKU-91250,V-08,Tiruppur,Womenswear,Top,38,699,COD,Hyderabad,Tier 1,Other,chest tight hai aur ek wash me rang bhi gaya
+R-104198,OD32798229,2026-09-26,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,M,749,Prepaid,Gurugram,Tier 2,Other,too small.
+R-104199,OD59248934,2026-09-21,App,SKU-99966,V-28,Surat,Womenswear,Kurti,XXL,649,Prepaid,Hyderabad,Tier 3,Other,"bust pe tight hai, baki theek hai par colour thoda alag"
+R-104200,OD58923092,2026-09-23,App,SKU-103176,V-35,Jaipur,Womenswear,Kurta Set,L,1349,Prepaid,Bhiwandi,Tier 3,Size too large,
+R-104201,OD93739362,2026-09-27,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,S,549,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104202,OD43698238,2026-09-26,App,SKU-103549,V-36,Jaipur,Womenswear,Dress,M,1249,COD,Gurugram,Tier 2,Other,bust pe bohot tight hai.
+R-104203,OD63215168,2026-09-23,WhatsApp,SKU-105260,V-40,Tiruppur,Men's basics,Men's T-shirt,M,499,Prepaid,Gurugram,Tier 3,Other,tshirt material alag hai description se
+R-104204,OD52774115,2026-09-27,WhatsApp,SKU-104702,V-39,Tiruppur,Womenswear,Top,M,449,COD,Bhiwandi,Tier 3,Other,print alag hai.
+R-104205,OD64592238,2026-09-25,App,SKU-97388,V-23,Jaipur,Kidswear,Kids Frock,24,599,COD,Bhiwandi,Tier 2,Other,frock bcche ko chota hai exchange chaiye
+R-104206,OD72313241,2026-09-25,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,L,749,Prepaid,Hyderabad,Tier 3,Quality not as expected,
+R-104207,OD28785939,2026-09-25,App,SKU-93622,V-13,Jaipur,Womenswear,Dress,40,599,COD,Gurugram,Tier 2,Size too small,
+R-104208,OD45919298,2026-09-22,App,SKU-97714,V-24,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,COD,Hyderabad,Tier 2,Size too small,tight on chest 👎
+R-104209,OD32152227,2026-09-26,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,S,749,Prepaid,Hyderabad,Tier 2,Damaged or defective,
+R-104210,OD82950444,2026-09-21,App,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,COD,Bhiwandi,Tier 3,Different from image,
+R-104211,OD52690881,2026-09-22,App,SKU-100644,V-30,Tiruppur,Men's basics,Men's T-shirt,42,449,COD,Gurugram,Tier 3,Other,lamba bahut hai aur kapda bhi halka hai
+R-104212,OD29501300,2026-09-23,App,SKU-103423,V-36,Jaipur,Womenswear,Kurta Set,40,1049,Prepaid,Gurugram,Tier 2,Size too small,40 mangaya tha par bahut chota hai
+R-104213,OD82379984,2026-09-24,App,SKU-93608,V-13,Jaipur,Womenswear,Kurti,42,999,Prepaid,Bhiwandi,Tier 1,Quality not as expected,
+R-104214,OD99617554,2026-09-23,WhatsApp,SKU-92477,V-11,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,Prepaid,Bhiwandi,Tier 1,Other,imae se bilkul alag..
+R-104215,OD25713880,2026-09-26,App,SKU-94299,V-15,Jaipur,Womenswear,Kurta Set,S,1299,COD,Bhiwandi,Tier 3,Other,S MANGAAYA PAR BAHUT BADA LAG RAHA HAI.
+R-104216,OD41483905,2026-09-24,App,SKU-91273,V-08,Tiruppur,Womenswear,Top,38,699,COD,Gurugram,Tier 3,Size too small,
+R-104217,OD98735333,2026-09-26,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,6-7Y,399,Prepaid,Gurugram,Tier 1,Size too small,
+R-104218,OD47495646,2026-09-22,App,SKU-92970,V-12,Tiruppur,Kidswear,Kids Shorts,8-9Y,399,Prepaid,Hyderabad,Tier 1,Size too large,waist loose h gir jata hai ek size chhota bhejo
+R-104749,OD56511331,2026-09-24,App,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,COD,Bhiwandi,Tier 1,Different from image,
+R-104219,OD23798868,2026-09-26,App,SKU-90561,V-06,Ludhiana,Womenswear,Top,S,449,COD,Bhiwandi,Tier 3,Quality not as expected,
+R-104220,OD15942834,2026-09-27,App,SKU-96579,V-21,Tiruppur,Kidswear,Kids Shorts,22,399,Prepaid,Hyderabad,Tier 1,Quality not as expected,
+R-104221,OD45964450,2026-09-22,App,SKU-95856,V-19,Kolkata,Kidswear,Kids Shorts,24,449,Prepaid,Hyderabad,Tier 2,Other,lambai jyada hy..
+R-104222,OD28403344,2026-09-23,App,SKU-89167,V-03,Tiruppur,Womenswear,Top,S,499,COD,Gurugram,Tier 2,Size too small,
+R-104223,OD81360249,2026-09-23,App,SKU-105126,V-39,Tiruppur,Womenswear,Leggings,36,449,COD,Gurugram,Tier 1,Delivered late,
+R-104224,OD27889683,2026-09-26,App,SKU-91136,V-07,Jaipur,Womenswear,Kurta Set,44,1449,COD,Bhiwandi,Tier 3,Size too small,
+R-104225,OD30060958,2026-09-24,App,SKU-91626,V-09,Jaipur,Womenswear,Kurti,40,799,COD,Bhiwandi,Tier 3,Other,bust pe loose hai.
+R-104226,OD96380580,2026-09-25,App,SKU-104052,V-37,Jaipur,Kidswear,Kids Frock,6-7Y,699,COD,Bhiwandi,Tier 1,Size too small,
+R-104227,OD59319977,2026-09-26,App,SKU-99966,V-28,Surat,Womenswear,Kurti,L,649,COD,Bhiwandi,Tier 2,Other,shoulders too narrow
+R-104228,OD62097670,2026-09-23,App,SKU-93453,V-13,Jaipur,Womenswear,Saree,Free Size,999,COD,Hyderabad,Tier 3,Different from image,
+R-104229,OD19752730,2026-09-22,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,Prepaid,Gurugram,Tier 1,Other,bahut lmba hai paisa wapas chahie
+R-104230,OD58869449,2026-09-27,App,SKU-102538,V-33,Jaipur,Kidswear,Kids Frock,10-11Y,699,Prepaid,Gurugram,Tier 2,Other,ek wosh me sikud gaya
+R-104231,OD52902913,2026-09-21,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,M,749,Prepaid,Hyderabad,Tier 3,Size too small,
+R-104232,OD11686508,2026-09-22,App,SKU-93587,V-13,Jaipur,Womenswear,Kurti,38,949,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104233,OD17018424,2026-09-21,App,SKU-97032,V-22,Tiruppur,Men's basics,Men's T-shirt,42,499,Prepaid,Bhiwandi,Tier 1,Other,too sall
+R-104234,OD51190208,2026-09-27,WhatsApp,SKU-101156,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,549,COD,Hyderabad,Tier 3,Other,Shrunk aftr one wash
+R-104235,OD51351791,2026-09-27,App,SKU-91752,V-09,Jaipur,Womenswear,Kurti,38,899,COD,Gurugram,Tier 1,Other,LAMBAI KAM HAI
+R-104236,OD22226147,2026-09-27,WhatsApp,SKU-93527,V-13,Jaipur,Womenswear,Kurti,36,649,COD,Bhiwandi,Tier 3,Other,लेट आया
+R-104237,OD62260996,2026-09-22,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,M,549,COD,Hyderabad,Tier 1,Size too large,
+R-104238,OD88869339,2026-09-24,App,SKU-88395,V-02,Jaipur,Womenswear,Kurti,36,999,COD,Bhiwandi,Tier 1,Wrong item received,
+R-104239,OD71514702,2026-09-27,App,SKU-103437,V-36,Jaipur,Womenswear,Kurta Set,42,1299,COD,Bhiwandi,Tier 2,Other,bust pe bahut tight hai
+R-104240,OD25352372,2026-09-27,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,4-5Y,399,COD,Hyderabad,Tier 2,Other,sleeves bht lambi hain
+R-104241,OD23675881,2026-09-27,App,SKU-104825,V-39,Tiruppur,Womenswear,Top,XL,499,Prepaid,Gurugram,Tier 2,Size too small,dekhiye size small aa raha hai ek size badaa chahiye
+R-104242,OD57403115,2026-09-23,App,SKU-102538,V-33,Jaipur,Kidswear,Kids Frock,2-3Y,699,Prepaid,Gurugram,Tier 1,Other,hole ater one use
+R-104243,OD57762186,2026-09-27,App,SKU-102893,V-34,Tiruppur,Womenswear,Leggings,XL,499,COD,Gurugram,Tier 1,Changed my mind,पसंद नहीं आया
+R-104244,OD58554917,2026-09-26,App,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,COD,Hyderabad,Tier 2,Other,photo me bright pink dikh raha tha ye pheeka hai
+R-104245,OD16362664,2026-09-26,App,SKU-95055,V-17,Tiruppur,Kidswear,Kids Shorts,26,449,Prepaid,Gurugram,Tier 1,Size too small,
+R-104246,OD12806825,2026-09-24,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,M,749,Prepaid,Bhiwandi,Tier 3,Size too small,
+R-104247,OD11131271,2026-09-25,App,SKU-100954,V-30,Tiruppur,Womenswear,Nightwear,40,799,COD,Bhiwandi,Tier 3,Quality not as expected,
+R-104248,OD74098923,2026-09-21,App,SKU-104111,V-37,Jaipur,Kidswear,Kids Frock,6-7Y,849,Prepaid,Bhiwandi,Tier 3,Size too small,
+R-104249,OD96207389,2026-09-23,App,SKU-94501,V-16,Tiruppur,Womenswear,Nightwear,42,599,COD,Gurugram,Tier 1,Other,siz issue
+R-104250,OD54625145,2026-09-24,App,SKU-102528,V-33,Jaipur,Kidswear,Kids Frock,6-7Y,449,COD,Hyderabad,Tier 1,Size too small,
+R-104251,OD80131886,2026-09-26,App,SKU-98603,V-25,Jaipur,Kidswear,Kids Frock,22,499,COD,Gurugram,Tier 2,Other,do din m phat gaya
+R-104252,OD93414429,2026-09-23,App,SKU-97088,V-22,Tiruppur,Men's basics,Men's T-shirt,42,549,COD,Bhiwandi,Tier 3,Other,"poor stitching, threads coming out"
+R-104253,OD34734282,2026-09-25,App,SKU-98561,V-25,Jaipur,Kidswear,Kids Frock,28,799,Prepaid,Gurugram,Tier 3,Size too small,
+R-104254,OD29422259,2026-09-27,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,COD,Bhiwandi,Tier 3,Other,lambai kam hai
+R-104255,OD16532953,2026-09-24,App,SKU-104496,V-38,Surat,Womenswear,Kurti,M,499,Prepaid,Hyderabad,Tier 1,Other,late aaya aur size bhi bada hai
+R-104256,OD86068447,2026-09-26,App,SKU-101156,V-31,Tiruppur,Men's basics,Men's T-shirt,L,549,COD,Gurugram,Tier 2,Other,dhulne ke baad sikud gaya exchange chahiye.
+R-104257,OD74691414,2026-09-23,App,SKU-104436,V-38,Surat,Womenswear,Kurti,XL,699,COD,Gurugram,Tier 3,Different from image,
+R-104258,OD96892412,2026-09-21,App,SKU-102142,V-32,Jaipur,Womenswear,Dress,S,999,COD,Hyderabad,Tier 1,Size too large,
+R-104259,OD81189772,2026-09-24,App,SKU-94089,V-15,Jaipur,Womenswear,Palazzo,Free Size,649,Prepaid,Hyderabad,Tier 2,Other,kulhe pe bahut tight hai
+R-104260,OD46356419,2026-09-23,App,SKU-97088,V-22,Tiruppur,Men's basics,Men's T-shirt,38,549,COD,Hyderabad,Tier 1,Other,too short in length
+R-104261,OD52620877,2026-09-27,App,SKU-100644,V-30,Tiruppur,Men's basics,Men's T-shirt,40,449,COD,Bhiwandi,Tier 2,Other,Colour faded after first wash
+R-104262,OD26467918,2026-09-22,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,COD,Bhiwandi,Tier 3,Size too large,
+R-104263,OD64452979,2026-09-26,App,SKU-103717,V-36,Jaipur,Kidswear,Kids Kurta Set,24,599,COD,Gurugram,Tier 3,Size too small,
+R-104264,OD38049016,2026-09-21,App,SKU-96138,V-20,Ludhiana,Womenswear,Top,40,449,COD,Bhiwandi,Tier 1,Quality not as expected,
+R-104265,OD32106535,2026-09-26,WhatsApp,SKU-89813,V-04,Tiruppur,Men's basics,Men's T-shirt,42,549,COD,Hyderabad,Tier 1,Other,"photo me lambi dikh rahi thi, ye bahut choti hai"
+R-104266,OD70033204,2026-09-21,App,SKU-93587,V-13,Jaipur,Womenswear,Kurti,38,949,Prepaid,Bhiwandi,Tier 3,Size too large,
+R-104267,OD86077006,2026-09-21,WhatsApp,SKU-96579,V-21,Tiruppur,Kidswear,Kids Shorts,28,399,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104268,OD29883860,2026-09-24,App,SKU-88400,V-02,Jaipur,Womenswear,Kurti,44,449,COD,Bhiwandi,Tier 1,Other,size is running small
+R-104269,OD11778997,2026-09-24,App,SKU-105452,V-40,Tiruppur,Men's basics,Men's Track Pants,38,649,COD,Hyderabad,Tier 2,Different from image,IMAGE SE BILKUL ALAG
+R-104270,OD38719349,2026-09-26,App,SKU-98561,V-25,Jaipur,Kidswear,Kids Frock,28,799,Prepaid,Bhiwandi,Tier 1,Other,size చిన్నగా ఉంది
+R-104271,OD29248408,2026-09-22,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,499,COD,Gurugram,Tier 1,Size too small,
+R-104272,OD84981115,2026-09-24,WhatsApp,SKU-98049,V-24,Tiruppur,Womenswear,Top,XXL,499,Prepaid,Bhiwandi,Tier 2,Other,सीने पर बहुत टाइट है
+R-104273,OD46299381,2026-09-22,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,6-7Y,399,COD,Gurugram,Tier 2,Other,photo se alag hai aur kapda bhi patla
+R-104274,OD43754400,2026-09-26,WhatsApp,SKU-100168,V-29,Jaipur,Kidswear,Kids Frock,6-7Y,649,Prepaid,Hyderabad,Tier 1,Other,USED PRODUCT BHEJA HY
+R-104275,OD96483939,2026-09-27,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,COD,Hyderabad,Tier 2,Other,Dhila dhala hai
+R-104276,OD32169302,2026-09-24,App,SKU-99442,V-27,Jaipur,Womenswear,Kurti,XL,999,COD,Gurugram,Tier 2,Other,"XL is too big, need one size down"
+R-104277,OD17838538,2026-09-23,WhatsApp,SKU-105617,V-40,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,Prepaid,Hyderabad,Tier 2,Other,Size is running large
+R-104278,OD38404636,2026-09-25,App,SKU-91300,V-08,Tiruppur,Womenswear,Top,42,549,COD,Hyderabad,Tier 3,Size too small,
+R-104279,OD96084568,2026-09-27,App,SKU-95912,V-19,Kolkata,Womenswear,Leggings,XL,399,COD,Bhiwandi,Tier 2,Size too small,
+R-104280,OD50753929,2026-09-24,WhatsApp,SKU-88395,V-02,Jaipur,Womenswear,Kurti,40,999,Prepaid,Bhiwandi,Tier 1,Other,bhaiya dhaga nikal raha hy
+R-104281,OD67667854,2026-09-25,App,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,Prepaid,Gurugram,Tier 2,Quality not as expected,
+R-104282,OD55369295,2026-09-24,App,SKU-96273,V-20,Ludhiana,Womenswear,Nightwear,38,699,COD,Bhiwandi,Tier 2,Size too large,
+R-104283,OD43449573,2026-09-22,App,SKU-93587,V-13,Jaipur,Womenswear,Kurti,40,949,COD,Bhiwandi,Tier 2,Size too small,
+R-104284,OD63333357,2026-09-22,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,COD,Gurugram,Tier 1,Size too small,
+R-104285,OD76561807,2026-09-23,App,SKU-90148,V-05,Tiruppur,Womenswear,Nightwear,M,699,Prepaid,Bhiwandi,Tier 2,Size too small,sir baju bahut tight h
+R-104286,OD91562499,2026-09-23,App,SKU-100632,V-30,Tiruppur,Men's basics,Men's T-shirt,42,599,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104287,OD16396410,2026-09-22,App,SKU-91086,V-07,Jaipur,Womenswear,Kurta Set,38,949,COD,Bhiwandi,Tier 1,Other,kalar bilkul alag h foto m mustard tha ye peela hai
+R-104288,OD64919667,2026-09-22,App,SKU-91936,V-09,Jaipur,Womenswear,Kurta Set,44,1499,COD,Hyderabad,Tier 2,Other,bust pe loos hai.
+R-104289,OD77935446,2026-09-23,App,SKU-103266,V-36,Jaipur,Womenswear,Palazzo,L,749,Prepaid,Bhiwandi,Tier 1,Size too large,
+R-104290,OD30126745,2026-09-21,App,SKU-88335,V-01,Jaipur,Womenswear,Kurta Set,44,799,Prepaid,Bhiwandi,Tier 3,Other,ek wosh me roye aa gaye
+R-104291,OD31459909,2026-09-25,App,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,L,399,COD,Hyderabad,Tier 3,Quality not as expected,
+R-104292,OD52846163,2026-09-21,App,SKU-95339,V-17,Tiruppur,Kidswear,Kids T-shirt,24,399,Prepaid,Hyderabad,Tier 2,Changed my mind,
+R-104293,OD45896460,2026-09-24,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,M,749,Prepaid,Bhiwandi,Tier 2,Size too small,
+R-104294,OD31753863,2026-09-27,WhatsApp,SKU-90307,V-06,Ludhiana,Men's basics,Men's Track Pants,S,599,Prepaid,Bhiwandi,Tier 2,Other,Kulhe pe bhut tite hai please return.
+R-104295,OD72743005,2026-09-25,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,Prepaid,Bhiwandi,Tier 1,Other,design photo jaisa nai hai
+R-104296,OD76031842,2026-09-26,App,SKU-94089,V-15,Jaipur,Womenswear,Palazzo,Free Size,649,COD,Bhiwandi,Tier 1,Other,pet par tihgt hai
+R-104297,OD20510607,2026-09-24,App,SKU-100644,V-30,Tiruppur,Men's basics,Men's T-shirt,40,449,COD,Hyderabad,Tier 3,Other,kamar pe tight hai aur silai bhi kharab hai
+R-104298,OD84513072,2026-09-25,App,SKU-100644,V-30,Tiruppur,Men's basics,Men's T-shirt,42,449,Prepaid,Hyderabad,Tier 1,Quality not as expected,
+R-104299,OD22180971,2026-09-27,App,SKU-105613,V-40,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,COD,Bhiwandi,Tier 3,Other,saiz chota h
+R-104300,OD84888736,2026-09-24,App,SKU-100096,V-28,Surat,Womenswear,Saree,Free Size,749,COD,Hyderabad,Tier 3,Different from image,
+R-104301,OD72078434,2026-09-26,App,SKU-103549,V-36,Jaipur,Womenswear,Dress,XL,1249,COD,Gurugram,Tier 3,Other,stain on the cloth on arrival
+R-104302,OD92091446,2026-09-26,App,SKU-101897,V-32,Jaipur,Kidswear,Kids Kurta Set,22,799,COD,Gurugram,Tier 3,Delivered late,Arrived too late for the event.
+R-104303,OD87006346,2026-09-23,WhatsApp,SKU-101156,V-31,Tiruppur,Men's basics,Men's T-shirt,L,549,COD,Bhiwandi,Tier 3,Other,ek wash me sikud gaya 😔
+R-104304,OD24153755,2026-09-23,WhatsApp,SKU-101156,V-31,Tiruppur,Men's basics,Men's T-shirt,L,549,Prepaid,Bhiwandi,Tier 3,Other,Dhone ke baad chotaa ho gaya
+R-104305,OD81074502,2026-09-25,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,COD,Bhiwandi,Tier 2,Other,"very long, I am 5 ft and it drags.."
+R-104306,OD60058469,2026-09-23,App,SKU-101156,V-31,Tiruppur,Men's basics,Men's T-shirt,L,549,COD,Hyderabad,Tier 1,Quality not as expected,
+R-104307,OD16696101,2026-09-23,App,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,L,399,COD,Gurugram,Tier 2,Other,धोने के बाद छोटा हो गया
+R-104308,OD27450847,2026-09-26,App,SKU-103423,V-36,Jaipur,Womenswear,Kurta Set,40,1049,COD,Bhiwandi,Tier 2,Size too large,
+R-104309,OD20334095,2026-09-26,App,SKU-93648,V-13,Jaipur,Womenswear,Dress,38,1299,Prepaid,Hyderabad,Tier 2,Other,Time par nhi aaya
+R-104310,OD77319545,2026-09-26,App,SKU-91503,V-08,Tiruppur,Kidswear,Kids T-shirt,24,499,Prepaid,Gurugram,Tier 2,Other,bacche ko chota hai aur print bhi alag hai
+R-104311,OD67021273,2026-09-27,App,SKU-95339,V-17,Tiruppur,Kidswear,Kids T-shirt,26,399,Prepaid,Bhiwandi,Tier 3,Delivered late,
+R-104312,OD25921520,2026-09-23,App,SKU-91789,V-09,Jaipur,Womenswear,Kurti,40,999,Prepaid,Gurugram,Tier 1,Other,do not need it anmyore
+R-104313,OD32287279,2026-09-24,WhatsApp,SKU-98846,V-26,Jaipur,Womenswear,Saree,Free Size,1249,COD,Bhiwandi,Tier 1,Other,"pehli baar order kiya, embroidery nahi hai jo foto me thi 😔"
+R-104314,OD46373448,2026-09-25,App,SKU-99494,V-27,Jaipur,Womenswear,Kurti,XXL,949,COD,Hyderabad,Tier 3,Size too small,
+R-104315,OD11437775,2026-09-21,App,SKU-104378,V-38,Surat,Womenswear,Kurti,M,449,COD,Gurugram,Tier 3,Other,armhole too tgiht
+R-104316,OD22655785,2026-09-24,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Bhiwandi,Tier 2,Size too small,
+R-104317,OD76793433,2026-09-23,App,SKU-96402,V-20,Ludhiana,Womenswear,Nightwear,38,699,Prepaid,Gurugram,Tier 2,Quality not as expected,
+R-104318,OD22214523,2026-09-26,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,10-11Y,499,COD,Bhiwandi,Tier 1,Size too large,
+R-104319,OD22135964,2026-09-23,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,COD,Bhiwandi,Tier 1,Other,.
+R-104320,OD85909388,2026-09-22,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Bhiwandi,Tier 2,Size too small,
+R-104321,OD56491366,2026-09-25,WhatsApp,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,10-11Y,399,Prepaid,Gurugram,Tier 3,Other,kamar pe tight hai. pickup ke liye mera number 91234 56780
+R-104322,OD39742063,2026-09-26,App,SKU-96840,V-21,Tiruppur,Womenswear,Leggings,30,499,COD,Hyderabad,Tier 2,Delivered late,
+R-104323,OD93449549,2026-09-22,App,SKU-104378,V-38,Surat,Womenswear,Kurti,L,449,COD,Bhiwandi,Tier 1,Size too large,
+R-104324,OD79672999,2026-09-21,WhatsApp,SKU-99883,V-28,Surat,Womenswear,Kurti,M,599,Prepaid,Bhiwandi,Tier 3,Changed my mind,
+R-104325,OD21908140,2026-09-25,WhatsApp,SKU-94367,V-15,Jaipur,Womenswear,Kurti,38,999,Prepaid,Bhiwandi,Tier 2,Size too small,
+R-104326,OD13444987,2026-09-22,WhatsApp,SKU-98166,V-25,Jaipur,Womenswear,Saree,Free Size,1299,COD,Bhiwandi,Tier 1,Quality not as expected,
+R-104327,OD36815021,2026-09-27,App,SKU-96840,V-21,Tiruppur,Womenswear,Leggings,34,499,COD,Bhiwandi,Tier 2,Size too small,
+R-104328,OD81521778,2026-09-27,App,SKU-99940,V-28,Surat,Womenswear,Kurti,M,549,Prepaid,Gurugram,Tier 3,Other,Dekhiye upar se tight he niche se theek hy 😔
+R-104329,OD14424261,2026-09-24,App,SKU-102310,V-33,Jaipur,Kidswear,Kids Kurta Set,26,799,Prepaid,Gurugram,Tier 1,Size too large,
+R-104330,OD66187801,2026-09-21,App,SKU-105613,V-40,Tiruppur,Kidswear,Kids T-shirt,2-3Y,449,COD,Bhiwandi,Tier 1,Other,print alag hai aur size bhi chota
+R-104331,OD90612372,2026-09-27,WhatsApp,SKU-90665,V-07,Jaipur,Womenswear,Kurti,L,749,Prepaid,Gurugram,Tier 2,Size too small,
+R-104332,OD84607001,2026-09-21,WhatsApp,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,Prepaid,Bhiwandi,Tier 2,Other,small size.
+R-104333,OD35697377,2026-09-25,App,SKU-96902,V-22,Tiruppur,Womenswear,Leggings,Free Size,449,Prepaid,Gurugram,Tier 3,Other,👎
+R-104334,OD47855599,2026-09-26,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Gurugram,Tier 2,Size too small,
+R-104335,OD73278002,2026-09-24,WhatsApp,SKU-102625,V-33,Jaipur,Kidswear,Kids Frock,4-5Y,549,COD,Hyderabad,Tier 2,Other,2 piece ka order tha ek hi aya
+R-104336,OD43442607,2026-09-22,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,4-5Y,399,Prepaid,Bhiwandi,Tier 3,Other,
+R-104337,OD68079030,2026-09-23,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,Prepaid,Bhiwandi,Tier 1,Size too large,
+R-104338,OD37715160,2026-09-24,WhatsApp,SKU-96144,V-20,Ludhiana,Womenswear,Top,40,699,COD,Bhiwandi,Tier 3,Size too large,
+R-104339,OD87643094,2026-09-26,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,4-5Y,399,Prepaid,Hyderabad,Tier 2,Different from image,
+R-104340,OD16968535,2026-09-25,WhatsApp,SKU-92500,V-11,Tiruppur,Kidswear,Kids Shorts,24,449,COD,Hyderabad,Tier 1,Changed my mind,
+R-104341,OD96346027,2026-09-22,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,COD,Hyderabad,Tier 1,Size too small,
+R-104342,OD42401918,2026-09-21,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,L,749,COD,Hyderabad,Tier 1,Size too small,
+R-104343,OD51708175,2026-09-23,App,SKU-88129,V-01,Jaipur,Womenswear,Saree,Free Size,949,COD,Gurugram,Tier 2,Delivered late,
+R-104344,OD91013638,2026-09-25,App,SKU-91503,V-08,Tiruppur,Kidswear,Kids T-shirt,28,499,COD,Gurugram,Tier 3,Other,SHOULDER FIT NAHI HO RAHA CHOTA HAI
+R-104345,OD24385832,2026-09-26,App,SKU-93827,V-14,Jaipur,Womenswear,Palazzo,Free Size,799,COD,Gurugram,Tier 3,Size too small,
+R-104346,OD67417109,2026-09-25,App,SKU-91250,V-08,Tiruppur,Womenswear,Top,42,699,COD,Bhiwandi,Tier 3,Other,stitching lose hai side se
+R-104347,OD64124108,2026-09-23,App,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,COD,Gurugram,Tier 1,Other,ek wash m rang nikal gaya refund kar do
+R-104348,OD74936190,2026-09-21,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,6-7Y,399,Prepaid,Hyderabad,Tier 3,Other,sleeves too long 😔
+R-104349,OD38982128,2026-09-22,App,SKU-101683,V-32,Jaipur,Kidswear,Kids Frock,6-7Y,699,COD,Hyderabad,Tier 2,Size too small,
+R-104350,OD37103368,2026-09-23,App,SKU-96138,V-20,Ludhiana,Womenswear,Top,44,449,Prepaid,Bhiwandi,Tier 3,Different from image,
+R-104351,OD77207234,2026-09-25,WhatsApp,SKU-103654,V-36,Jaipur,Kidswear,Kids Kurta Set,26,599,Prepaid,Gurugram,Tier 2,Other,print alag he
+R-104352,OD35956840,2026-09-24,App,SKU-88951,V-03,Tiruppur,Womenswear,Top,L,649,COD,Gurugram,Tier 3,Damaged or defective,2 piece ka order tha ek hi aaya.
+R-104353,OD98815545,2026-09-26,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,L,749,COD,Gurugram,Tier 1,Other,"L IS TOO SMALL, NEED ONE SIZE UP."
+R-104354,OD88423280,2026-09-22,App,SKU-90243,V-05,Tiruppur,Kidswear,Kids T-shirt,28,399,COD,Gurugram,Tier 2,Size too large,
+R-104355,OD41122943,2026-09-27,App,SKU-90580,V-06,Ludhiana,Womenswear,Nightwear,36,549,COD,Hyderabad,Tier 2,Quality not as expected,
+R-104356,OD91054284,2026-09-26,WhatsApp,SKU-88878,V-03,Tiruppur,Womenswear,Leggings,S,499,COD,Bhiwandi,Tier 3,Other,कमर पे टाइट है
+R-104357,OD35727214,2026-09-23,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,M,749,Prepaid,Hyderabad,Tier 2,Other,size ka problem hy exchange chahiye
+R-104358,OD82939742,2026-09-23,App,SKU-91542,V-08,Tiruppur,Kidswear,Kids T-shirt,20,399,Prepaid,Bhiwandi,Tier 3,Other,siz issuue
+R-104359,OD79743593,2026-09-23,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,2-3Y,499,Prepaid,Hyderabad,Tier 1,Size too small,
+R-104360,OD52080171,2026-09-22,WhatsApp,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,COD,Bhiwandi,Tier 1,Other,used product bheja hai.
+R-104361,OD92910138,2026-09-25,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,6-7Y,399,COD,Gurugram,Tier 1,Other,Chest pe dhila h
+R-104362,OD19718107,2026-09-26,App,SKU-102215,V-32,Jaipur,Womenswear,Dress,XL,1199,Prepaid,Bhiwandi,Tier 3,Quality not as expected,
+R-104363,OD14625720,2026-09-21,WhatsApp,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,Prepaid,Hyderabad,Tier 3,Other,smalll size
+R-104364,OD76989096,2026-09-27,App,SKU-88400,V-02,Jaipur,Womenswear,Kurti,38,449,COD,Bhiwandi,Tier 1,Quality not as expected,
+R-104365,OD20294843,2026-09-26,App,SKU-93297,V-13,Jaipur,Womenswear,Palazzo,32,699,COD,Gurugram,Tier 1,Quality not as expected,
+R-104366,OD47313396,2026-09-25,App,SKU-102310,V-33,Jaipur,Kidswear,Kids Kurta Set,22,799,COD,Gurugram,Tier 2,Changed my mind,
+R-104367,OD29024468,2026-09-26,App,SKU-104702,V-39,Tiruppur,Womenswear,Top,L,449,COD,Hyderabad,Tier 1,Size too large,
+R-104368,OD83323265,2026-09-25,App,SKU-94420,V-15,Jaipur,Womenswear,Kurti,38,449,COD,Bhiwandi,Tier 2,Size too large,
+R-104369,OD36255228,2026-09-23,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Bhiwandi,Tier 1,Size too small,
+R-104370,OD64511692,2026-09-25,App,SKU-101171,V-31,Tiruppur,Men's basics,Men's T-shirt,M,499,COD,Bhiwandi,Tier 2,Other,"customer care ko 3 baar call kiya koi nahi uthata, whatsapp pe bhi reply nahi, mujhe bas return karna hai, aap log pickup kab bhejoge"
+R-104371,OD86548346,2026-09-24,WhatsApp,SKU-97066,V-22,Tiruppur,Men's basics,Men's T-shirt,40,499,Prepaid,Hyderabad,Tier 1,Other,"kapda dekhne me acha hai, design bhi theek hai, par ek hi baar dhoya aur tshirt itni chhoti ho gayi ki mere chote bhai ko aati hai ab, paise barbaad ho gaye, dobara nahi lunga is brand se"
+R-104372,OD99750334,2026-09-21,App,SKU-98900,V-26,Jaipur,Womenswear,Dress,XL,1099,COD,Hyderabad,Tier 1,Other,Size is running smlal..
+R-104373,OD67892703,2026-09-26,App,SKU-93527,V-13,Jaipur,Womenswear,Kurti,38,649,COD,Gurugram,Tier 3,Different from image,bahut dhila hai
+R-104374,OD22611724,2026-09-22,App,SKU-91650,V-09,Jaipur,Womenswear,Kurti,36,499,Prepaid,Gurugram,Tier 2,Other,stitching is bad and it is also loose at the waist
+R-104375,OD43950849,2026-09-24,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,S,549,COD,Bhiwandi,Tier 2,Size too large,
+R-104376,OD83182041,2026-09-27,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,10-11Y,399,Prepaid,Bhiwandi,Tier 2,Other,ab nahi chhahiye
+R-104377,OD87692184,2026-09-25,WhatsApp,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,Prepaid,Gurugram,Tier 1,Other,stan on the cloth on arrival
+R-104378,OD93205610,2026-09-21,App,SKU-90718,V-07,Jaipur,Womenswear,Kurti,L,949,COD,Hyderabad,Tier 2,Different from image,
+R-104379,OD26450526,2026-09-27,App,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,COD,Bhiwandi,Tier 3,Different from image,
+R-104380,OD99003978,2026-09-24,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,M,749,Prepaid,Hyderabad,Tier 1,Size too small,
+R-104381,OD79607011,2026-09-24,App,SKU-89341,V-04,Tiruppur,Kidswear,Kids T-shirt,10-11Y,399,COD,Bhiwandi,Tier 1,Size too small,
+R-104382,OD33413186,2026-09-21,App,SKU-101750,V-32,Jaipur,Kidswear,Kids Frock,6-7Y,599,COD,Hyderabad,Tier 1,Other,"I ordered this for my daughter's school function. The delivery boy came on time and the packing was good, but when she wore it the frock was almost to her ankles and the shoulders kept slipping. She is 6 and I ordered 6-7Y. Please send a smaller size."
+R-104383,OD99804180,2026-09-22,App,SKU-88159,V-01,Jaipur,Womenswear,Saree,Free Size,1299,Prepaid,Gurugram,Tier 3,Other,cloth too thin for this price
+R-104384,OD97979522,2026-09-25,App,SKU-99284,V-27,Jaipur,Womenswear,Palazzo,Free Size,549,Prepaid,Bhiwandi,Tier 1,Other,
+R-104385,OD99231128,2026-09-22,WhatsApp,SKU-101927,V-32,Jaipur,Kidswear,Kids Kurta Set,24,949,COD,Bhiwandi,Tier 2,Other,too small for my son
+R-104386,OD21330869,2026-09-27,App,SKU-91542,V-08,Tiruppur,Kidswear,Kids T-shirt,26,399,Prepaid,Bhiwandi,Tier 3,Other,"pehli baar order kiya, stitching loose hai side se!!"
+R-104387,OD67447425,2026-09-21,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,XL,749,COD,Bhiwandi,Tier 1,Size too large,
+R-104388,OD58835276,2026-09-23,WhatsApp,SKU-92431,V-11,Tiruppur,Kidswear,Kids T-shirt,4-5Y,499,Prepaid,Hyderabad,Tier 2,Other,FOUND CHEAPER ELSEWHERE
+R-104389,OD83213313,2026-09-22,App,SKU-103549,V-36,Jaipur,Womenswear,Dress,M,1249,COD,Hyderabad,Tier 2,Size too large,
+R-104390,OD91835117,2026-09-23,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,COD,Hyderabad,Tier 1,Other,bete ko loose hai agle saal aayega paisa wapas chahiye
+R-104391,OD31106933,2026-09-22,App,SKU-99777,V-28,Surat,Womenswear,Dress,XL,949,COD,Gurugram,Tier 2,Other,size is running small.
+R-104392,OD68860706,2026-09-26,WhatsApp,SKU-90665,V-07,Jaipur,Womenswear,Kurti,L,749,Prepaid,Gurugram,Tier 1,Other,L mangaya tha par bahut chhota hai
+R-104393,OD41752096,2026-09-23,App,SKU-89422,V-04,Tiruppur,Kidswear,Kids T-shirt,10-11Y,399,COD,Hyderabad,Tier 1,Size too large,10-11Y mangaya par bahut bada lag raha hai!!
+R-104394,OD13672142,2026-09-27,WhatsApp,SKU-100168,V-29,Jaipur,Kidswear,Kids Frock,4-5Y,649,COD,Hyderabad,Tier 3,Size too small,
+R-104395,OD56419012,2026-09-27,App,SKU-97412,V-23,Jaipur,Kidswear,Kids Frock,24,799,COD,Hyderabad,Tier 3,Size too small,colour bhi alag hai photo se
+R-104396,OD92322527,2026-09-25,App,SKU-99975,V-28,Surat,Womenswear,Saree,Free Size,1299,COD,Hyderabad,Tier 2,Quality not as expected,ek wash me roye aa gaye.
+R-104397,OD77023178,2026-09-22,App,SKU-93805,V-14,Jaipur,Womenswear,Palazzo,Free Size,549,COD,Gurugram,Tier 2,Wrong item received,
+R-104398,OD28342954,2026-09-24,App,SKU-100644,V-30,Tiruppur,Men's basics,Men's T-shirt,42,449,COD,Bhiwandi,Tier 1,Other,"tight hai,
+kamar pe bhi aur hips pe bhi"
+R-104399,OD55423341,2026-09-23,App,SKU-94420,V-15,Jaipur,Womenswear,Kurti,38,449,COD,Gurugram,Tier 2,Other,ordered by mistake
+R-104400,OD25885193,2026-09-27,App,SKU-103176,V-35,Jaipur,Womenswear,Kurta Set,M,1349,COD,Hyderabad,Tier 1,Quality not as expected,
+R-104401,OD87214724,2026-09-24,App,SKU-104257,V-38,Surat,Womenswear,Dress,S,1099,COD,Hyderabad,Tier 2,Size too large,
+R-104402,OD81812667,2026-09-23,App,SKU-100326,V-29,Jaipur,Womenswear,Saree,Free Size,749,COD,Gurugram,Tier 3,Other,dhulne ke baad sikud gaya
+R-104403,OD49266742,2026-09-22,App,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,Prepaid,Gurugram,Tier 2,Different from image,
+R-104404,OD94164887,2026-09-21,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,COD,Bhiwandi,Tier 3,Size too small,
+R-104405,OD39536370,2026-09-22,App,SKU-104790,V-39,Tiruppur,Womenswear,Top,XXL,399,Prepaid,Bhiwandi,Tier 3,Size too small,
+R-104406,OD84538825,2026-09-26,App,SKU-98355,V-25,Jaipur,Womenswear,Kurti,M,749,Prepaid,Bhiwandi,Tier 3,Quality not as expected,
+R-104407,OD60017581,2026-09-23,App,SKU-97095,V-22,Tiruppur,Men's basics,Men's T-shirt,44,449,Prepaid,Bhiwandi,Tier 1,Other,seene par fit nai ho raha
+R-104408,OD64236692,2026-09-21,WhatsApp,SKU-93740,V-14,Jaipur,Womenswear,Kurti,40,549,Prepaid,Gurugram,Tier 3,Other,"40 order kiya tha, qwality achi nahin hai refund kar do"
+R-104409,OD78235421,2026-09-25,App,SKU-98432,V-25,Jaipur,Womenswear,Kurti,S,799,COD,Gurugram,Tier 2,Other,
+R-104410,OD90385552,2026-09-26,App,SKU-95185,V-17,Tiruppur,Men's basics,Men's Track Pants,38,649,Prepaid,Hyderabad,Tier 2,Size too small,
+R-104411,OD23975423,2026-09-21,App,SKU-96197,V-20,Ludhiana,Womenswear,Top,42,649,Prepaid,Hyderabad,Tier 1,Other,"pickup address: 14, Shanti Nagar, SBI ATM ke paas, Kota 324001. size bada hai"
+R-104412,OD63096299,2026-09-26,App,SKU-103423,V-36,Jaipur,Womenswear,Kurta Set,36,1049,Prepaid,Hyderabad,Tier 2,Size too small,
+R-104413,OD76985094,2026-09-27,App,SKU-90446,V-06,Ludhiana,Womenswear,Top,XXL,399,COD,Bhiwandi,Tier 2,Other,length choti hai 😔
+R-104414,OD18412201,2026-09-24,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,COD,Hyderabad,Tier 2,Size too small,
+R-104415,OD41852218,2026-09-27,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,Prepaid,Bhiwandi,Tier 3,Size too small,
+R-104416,OD54272683,2026-09-27,App,SKU-95792,V-19,Kolkata,Kidswear,Kids Shorts,22,399,COD,Hyderabad,Tier 2,Other,Not as shown.
+R-104417,OD51025494,2026-09-25,WhatsApp,SKU-89567,V-04,Tiruppur,Womenswear,Leggings,Free Size,399,COD,Gurugram,Tier 3,Size too small,
+R-104418,OD40820144,2026-09-26,WhatsApp,SKU-93782,V-14,Jaipur,Womenswear,Kurti,44,999,Prepaid,Gurugram,Tier 2,Quality not as expected,
+R-104419,OD24794910,2026-09-23,WhatsApp,SKU-98003,V-24,Tiruppur,Womenswear,Top,M,549,COD,Gurugram,Tier 3,Other,bust area me fasa hua lagta hai
+R-104420,OD16514363,2026-09-25,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,Prepaid,Bhiwandi,Tier 1,Other,size is running small
+R-104421,OD28766450,2026-09-26,App,SKU-94249,V-15,Jaipur,Womenswear,Kurta Set,M,1049,COD,Bhiwandi,Tier 2,Size too large,
+R-104422,OD62135939,2026-09-25,WhatsApp,SKU-89663,V-04,Tiruppur,Kidswear,Kids Shorts,8-9Y,449,COD,Bhiwandi,Tier 2,Other,theek nahi tha
+R-104423,OD78519667,2026-09-21,App,SKU-100245,V-29,Jaipur,Kidswear,Kids Frock,4-5Y,699,COD,Hyderabad,Tier 3,Other,size bada he
+R-104424,OD65161279,2026-09-26,App,SKU-96144,V-20,Ludhiana,Womenswear,Top,38,699,COD,Gurugram,Tier 1,Size too large,
+R-104425,OD92947792,2026-09-23,App,SKU-104257,V-38,Surat,Womenswear,Dress,L,1099,Prepaid,Hyderabad,Tier 3,Delivered late,
+R-104426,OD67134670,2026-09-22,App,SKU-93608,V-13,Jaipur,Womenswear,Kurti,38,999,COD,Hyderabad,Tier 1,Size too large,
+R-104427,OD97981934,2026-09-23,App,SKU-93988,V-14,Jaipur,Womenswear,Dress,38,1099,COD,Hyderabad,Tier 3,Quality not as expected,
+R-104428,OD54174077,2026-09-23,WhatsApp,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,COD,Bhiwandi,Tier 1,Other,Too small for my son 🙏
+R-104429,OD51877445,2026-09-26,App,SKU-95679,V-18,Jaipur,Womenswear,Palazzo,28,749,COD,Gurugram,Tier 2,Other,Too loose around the hips
+R-104430,OD75830931,2026-09-26,WhatsApp,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,Prepaid,Gurugram,Tier 2,Other,रंग फोटो जैसा नहीं है
+R-104431,OD44250033,2026-09-23,App,SKU-99777,V-28,Surat,Womenswear,Dress,L,949,COD,Hyderabad,Tier 3,Size too large,
+R-104432,OD39456299,2026-09-22,App,SKU-93793,V-14,Jaipur,Womenswear,Kurti,38,649,Prepaid,Hyderabad,Tier 1,Quality not as expected,
+R-104433,OD16323442,2026-09-24,App,SKU-93042,V-12,Tiruppur,Kidswear,Kids Shorts,8-9Y,399,Prepaid,Bhiwandi,Tier 3,Other,
+R-104434,OD64147879,2026-09-22,WhatsApp,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,Prepaid,Hyderabad,Tier 3,Size too small,
+R-104435,OD69474244,2026-09-27,App,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,399,Prepaid,Hyderabad,Tier 3,Quality not as expected,
+R-104436,OD64840405,2026-09-24,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,M,749,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104437,OD25718332,2026-09-26,App,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,Prepaid,Hyderabad,Tier 1,Different from image,
+R-104438,OD70149654,2026-09-25,App,SKU-102585,V-33,Jaipur,Kidswear,Kids Frock,4-5Y,799,Prepaid,Bhiwandi,Tier 1,Different from image,
+R-104439,OD61239768,2026-09-25,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,6-7Y,399,Prepaid,Bhiwandi,Tier 3,Other,upar se bahut dhilla hai!!
+R-104440,OD41670868,2026-09-21,App,SKU-105613,V-40,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,Prepaid,Bhiwandi,Tier 2,Quality not as expected,
+R-104441,OD98966993,2026-09-24,App,SKU-88404,V-02,Jaipur,Womenswear,Kurti,40,499,Prepaid,Gurugram,Tier 2,Size too small,
+R-104442,OD78369395,2026-09-26,App,SKU-96995,V-22,Tiruppur,Men's basics,Men's T-shirt,40,549,COD,Gurugram,Tier 1,Size too small,"pehli baar order kiya, saiz chota nikla"
+R-104443,OD90006785,2026-09-26,App,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,COD,Hyderabad,Tier 3,Different from image,
+R-104444,OD72759924,2026-09-22,App,SKU-97388,V-23,Jaipur,Kidswear,Kids Frock,26,599,COD,Hyderabad,Tier 2,Size too large,
+R-104445,OD20141513,2026-09-25,App,SKU-102952,V-34,Tiruppur,Womenswear,Leggings,XXL,399,COD,Gurugram,Tier 3,Size too large,
+R-104446,OD37742863,2026-09-23,WhatsApp,SKU-103067,V-34,Tiruppur,Kidswear,Kids Shorts,24,399,Prepaid,Bhiwandi,Tier 2,Delivered late,
+R-104447,OD94062283,2026-09-26,App,SKU-105617,V-40,Tiruppur,Kidswear,Kids T-shirt,8-9Y,499,COD,Bhiwandi,Tier 1,Damaged or defective,
+R-104448,OD90435106,2026-09-26,App,SKU-95242,V-17,Tiruppur,Men's basics,Men's Track Pants,40,599,COD,Bhiwandi,Tier 2,Other,"poor stitching, threads cominng out 😞"
+R-104449,OD20462257,2026-09-26,App,SKU-98846,V-26,Jaipur,Womenswear,Saree,Free Size,1249,Prepaid,Gurugram,Tier 2,Quality not as expected,
+R-104450,OD22106627,2026-09-26,App,SKU-98166,V-25,Jaipur,Womenswear,Saree,Free Size,1299,COD,Bhiwandi,Tier 2,Quality not as expected,
+R-104451,OD86378032,2026-09-22,App,SKU-99914,V-28,Surat,Womenswear,Kurti,XXL,549,COD,Hyderabad,Tier 2,Quality not as expected,
+R-104452,OD11306241,2026-09-26,App,SKU-92818,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,399,Prepaid,Bhiwandi,Tier 3,Other,size chota hai exchange ke liye call karo 9876543210
+R-104453,OD86783451,2026-09-25,App,SKU-105297,V-40,Tiruppur,Men's basics,Men's T-shirt,M,449,Prepaid,Gurugram,Tier 1,Quality not as expected,
+R-104454,OD34738338,2026-09-25,App,SKU-100190,V-29,Jaipur,Kidswear,Kids Frock,8-9Y,549,COD,Bhiwandi,Tier 1,Quality not as expected,
+R-104455,OD63558853,2026-09-23,App,SKU-88298,V-01,Jaipur,Womenswear,Kurta Set,38,899,COD,Gurugram,Tier 3,Other,too tight at the waist
+R-104456,OD44235235,2026-09-25,App,SKU-88792,V-03,Tiruppur,Womenswear,Leggings,M,399,COD,Gurugram,Tier 1,Other,"length choti hai, kapda bhi transparent"
+R-104457,OD57686044,2026-09-25,App,SKU-103717,V-36,Jaipur,Kidswear,Kids Kurta Set,24,599,COD,Gurugram,Tier 1,Size too large,
+R-104458,OD63967625,2026-09-25,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,COD,Gurugram,Tier 1,Size too large,
+R-104459,OD82110548,2026-09-26,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,COD,Bhiwandi,Tier 2,Size too small,
+R-104460,OD88581525,2026-09-26,WhatsApp,SKU-89663,V-04,Tiruppur,Kidswear,Kids Shorts,6-7Y,449,COD,Hyderabad,Tier 1,Other,na
+R-104461,OD68217013,2026-09-25,WhatsApp,SKU-99966,V-28,Surat,Womenswear,Kurti,S,649,COD,Bhiwandi,Tier 1,Other,length choti he
+R-104462,OD71323152,2026-09-22,App,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,COD,Hyderabad,Tier 2,Other,"looks dull, photo showed a birght shade"
+R-104463,OD11753580,2026-09-22,App,SKU-91650,V-09,Jaipur,Womenswear,Kurti,38,499,COD,Gurugram,Tier 2,Other,Packet khula hua tha nd kapda ganda tha.
+R-104464,OD10814940,2026-09-24,App,SKU-100062,V-28,Surat,Womenswear,Saree,Free Size,949,COD,Gurugram,Tier 1,Quality not as expected,
+R-104465,OD57927468,2026-09-23,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,COD,Gurugram,Tier 3,Different from image,
+R-104466,OD81632916,2026-09-22,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,L,749,Prepaid,Bhiwandi,Tier 3,Other,chotaa pad gaya please return.
+R-104467,OD52761545,2026-09-22,WhatsApp,SKU-92729,V-11,Tiruppur,Men's basics,Men's Track Pants,L,649,COD,Gurugram,Tier 1,Other,"galat item aaya, mujhe call karo 98111 22233 shaam 6 baje ke baad"
+R-104468,OD60191696,2026-09-26,App,SKU-92818,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,399,Prepaid,Hyderabad,Tier 1,Other,Baby ko taighht hai!!
+R-104469,OD23813462,2026-09-26,App,SKU-94590,V-16,Tiruppur,Men's basics,Men's Track Pants,40,699,Prepaid,Bhiwandi,Tier 1,Other,Size chhota nikla.
+R-104470,OD87907358,2026-09-25,App,SKU-93827,V-14,Jaipur,Womenswear,Palazzo,Free Size,799,Prepaid,Bhiwandi,Tier 2,Size too small,
+R-104471,OD14877234,2026-09-26,App,SKU-101375,V-31,Tiruppur,Womenswear,Leggings,Free Size,399,COD,Bhiwandi,Tier 2,Size too small,taiht hy nahin aaya..
+R-104472,OD95421560,2026-09-22,WhatsApp,SKU-99494,V-27,Jaipur,Womenswear,Kurti,M,949,COD,Bhiwandi,Tier 1,Other,"M likha hy par chota hai, dusre brand ka M aata hai mujhe"
+R-104473,OD40744073,2026-09-22,App,SKU-99189,V-26,Jaipur,Womenswear,Kurti,44,849,COD,Gurugram,Tier 1,Damaged or defective,
+R-104474,OD99144118,2026-09-26,App,SKU-102222,V-33,Jaipur,Kidswear,Kids Kurta Set,22,649,Prepaid,Hyderabad,Tier 1,Other,tight hai aur rang bhi nikal raha hai
+R-104475,OD50828986,2026-09-23,App,SKU-100404,V-29,Jaipur,Womenswear,Saree,Free Size,849,Prepaid,Hyderabad,Tier 2,Other,screeen pe green tha asli me mehendi color hai jaldi pickup karo 🙏
+R-104476,OD26920858,2026-09-25,App,SKU-103437,V-36,Jaipur,Womenswear,Kurta Set,40,1299,COD,Gurugram,Tier 3,Wrong item received,
+R-104477,OD88646810,2026-09-21,App,SKU-99940,V-28,Surat,Womenswear,Kurti,L,549,Prepaid,Bhiwandi,Tier 2,Size too small,
+R-104478,OD19524619,2026-09-24,App,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,L,399,Prepaid,Hyderabad,Tier 3,Other,ek wash me sikud gaya
+R-104479,OD96023076,2026-09-26,App,SKU-89515,V-04,Tiruppur,Womenswear,Leggings,Free Size,399,Prepaid,Bhiwandi,Tier 1,Different from image,
+R-104480,OD34525319,2026-09-27,App,SKU-92394,V-11,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,Prepaid,Bhiwandi,Tier 2,Size too small,
+R-104481,OD31740312,2026-09-22,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,L,749,COD,Gurugram,Tier 3,Size too small,
+R-104482,OD98166367,2026-09-26,App,SKU-91626,V-09,Jaipur,Womenswear,Kurti,40,799,Prepaid,Bhiwandi,Tier 2,Size too small,
+R-104483,OD41163454,2026-09-24,App,SKU-91273,V-08,Tiruppur,Womenswear,Top,36,699,Prepaid,Gurugram,Tier 1,Other,बहुत लंबा है
+R-104484,OD67477298,2026-09-25,App,SKU-92431,V-11,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,Prepaid,Bhiwandi,Tier 3,Other,mam size ka prblem hai exchange chahie
+R-104778,OD55354087,2026-09-23,App,SKU-101329,V-31,Tiruppur,Womenswear,Leggings,Free Size,399,COD,Hyderabad,Tier 2,Other,design photo jaisa nahi hai paisa wapas chahiye
+R-104485,OD78041331,2026-09-23,App,SKU-98603,V-25,Jaipur,Kidswear,Kids Frock,28,499,Prepaid,Gurugram,Tier 1,Other,
+R-104486,OD82788309,2026-09-25,App,SKU-91250,V-08,Tiruppur,Womenswear,Top,40,699,COD,Bhiwandi,Tier 3,Size too large,
+R-104487,OD42595389,2026-09-24,App,SKU-104873,V-39,Tiruppur,Womenswear,Top,M,499,Prepaid,Hyderabad,Tier 1,Size too small,
+R-104488,OD31200970,2026-09-22,App,SKU-98285,V-25,Jaipur,Womenswear,Saree,Free Size,1449,COD,Bhiwandi,Tier 3,Damaged or defective,
+R-104489,OD54903503,2026-09-24,App,SKU-99307,V-27,Jaipur,Womenswear,Palazzo,Free Size,499,COD,Bhiwandi,Tier 3,Other,সাইজ ছোট হয়েছে
+R-104490,OD38173501,2026-09-24,App,SKU-101750,V-32,Jaipur,Kidswear,Kids Frock,6-7Y,599,COD,Gurugram,Tier 2,Other,bete ko chhota pad gaya 6-7Y mangaya tha
+R-104491,OD59168226,2026-09-23,App,SKU-89062,V-03,Tiruppur,Womenswear,Top,L,449,COD,Gurugram,Tier 3,Other,L mangaya tha par chest pe bahut tight he
+R-104492,OD28528112,2026-09-27,App,SKU-96787,V-21,Tiruppur,Womenswear,Leggings,34,399,COD,Gurugram,Tier 3,Size too small,
+R-104493,OD34697383,2026-09-23,App,SKU-102741,V-33,Jaipur,Womenswear,Saree,Free Size,1399,Prepaid,Hyderabad,Tier 3,Different from image,
+R-104494,OD29524721,2026-09-25,WhatsApp,SKU-100096,V-28,Surat,Womenswear,Saree,Free Size,749,COD,Bhiwandi,Tier 1,Other,shade is not the same as shown..
+R-104495,OD19451346,2026-09-22,App,SKU-105613,V-40,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,COD,Bhiwandi,Tier 1,Other,too tight at the waist..
+R-104496,OD68071572,2026-09-25,App,SKU-105054,V-39,Tiruppur,Womenswear,Leggings,32,449,Prepaid,Hyderabad,Tier 1,Size too small,
+R-104497,OD99701469,2026-09-24,App,SKU-103936,V-37,Jaipur,Womenswear,Saree,Free Size,1199,COD,Bhiwandi,Tier 2,Different from image,
+R-104498,OD37231065,2026-09-26,App,SKU-93928,V-14,Jaipur,Womenswear,Dress,40,1099,Prepaid,Gurugram,Tier 1,Quality not as expected,
+R-104499,OD82594203,2026-09-26,App,SKU-93297,V-13,Jaipur,Womenswear,Palazzo,32,699,COD,Hyderabad,Tier 2,Size too small,
+R-104500,OD21394192,2026-09-24,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,L,749,COD,Gurugram,Tier 3,Other,Chest pr tight aa raha hai.
+R-104501,OD62186288,2026-09-24,App,SKU-95279,V-17,Tiruppur,Womenswear,Leggings,Free Size,449,Prepaid,Bhiwandi,Tier 1,Other,leggings ki lambai bhut kam h ek size bada bhej do
+R-104502,OD82022519,2026-09-22,App,SKU-90580,V-06,Ludhiana,Womenswear,Nightwear,36,549,Prepaid,Hyderabad,Tier 1,Size too small,
+R-104503,OD14753222,2026-09-26,App,SKU-99876,V-28,Surat,Womenswear,Dress,XL,1249,Prepaid,Hyderabad,Tier 2,Other,do not need it anymore!!
+R-104504,OD50072184,2026-09-26,App,SKU-92431,V-11,Tiruppur,Kidswear,Kids T-shirt,4-5Y,499,COD,Hyderabad,Tier 1,Size too large,
+R-104505,OD84581548,2026-09-26,App,SKU-96462,V-21,Tiruppur,Kidswear,Kids Shorts,22,449,COD,Gurugram,Tier 2,Other,"POOR STITCHING, THREADS COMING OUT"
+R-104506,OD85857341,2026-09-26,App,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,399,COD,Hyderabad,Tier 2,Quality not as expected,
+R-104507,OD49293659,2026-09-26,WhatsApp,SKU-101836,V-32,Jaipur,Kidswear,Kids Kurta Set,26,999,COD,Gurugram,Tier 1,Size too small,
+R-104508,OD68371365,2026-09-23,App,SKU-93648,V-13,Jaipur,Womenswear,Dress,36,1299,Prepaid,Bhiwandi,Tier 1,Other,-
+R-104509,OD98558304,2026-09-27,App,SKU-102585,V-33,Jaipur,Kidswear,Kids Frock,8-9Y,799,COD,Hyderabad,Tier 3,Quality not as expected,
+R-104510,OD14735723,2026-09-26,App,SKU-93297,V-13,Jaipur,Womenswear,Palazzo,30,699,COD,Hyderabad,Tier 3,Other,size chart ke hisab se liya tha phir bhi chota hai
+R-104511,OD43462261,2026-09-24,App,SKU-103207,V-35,Jaipur,Womenswear,Saree,Free Size,1049,Prepaid,Bhiwandi,Tier 2,Other,Fabric is see through
+R-104512,OD37525556,2026-09-22,App,SKU-91117,V-07,Jaipur,Womenswear,Kurta Set,42,799,Prepaid,Hyderabad,Tier 1,Other,kurta set galti se order ho gaya
+R-104513,OD64972912,2026-09-26,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,S,599,COD,Hyderabad,Tier 3,Size too large,
+R-104514,OD38968303,2026-09-24,App,SKU-99385,V-27,Jaipur,Womenswear,Palazzo,Free Size,449,COD,Bhiwandi,Tier 3,Size too small,
+R-104515,OD64812986,2026-09-21,App,SKU-95084,V-17,Tiruppur,Kidswear,Kids Shorts,24,399,Prepaid,Bhiwandi,Tier 1,Other,lambai jyada hai
+R-104516,OD49628928,2026-09-23,App,SKU-99442,V-27,Jaipur,Womenswear,Kurti,XXL,999,COD,Hyderabad,Tier 2,Other,लंबाई कम है
+R-104517,OD35939149,2026-09-25,WhatsApp,SKU-103717,V-36,Jaipur,Kidswear,Kids Kurta Set,24,599,COD,Hyderabad,Tier 1,Other,armhole too tigght
+R-104518,OD72063518,2026-09-25,App,SKU-90396,V-06,Ludhiana,Womenswear,Top,L,699,COD,Gurugram,Tier 1,Other,-
+R-104519,OD19532547,2026-09-24,App,SKU-100029,V-28,Surat,Womenswear,Saree,Free Size,949,COD,Bhiwandi,Tier 3,Other,transparent hy andar ka dikh raha hai return kar do pls
+R-104520,OD14637814,2026-09-22,App,SKU-102476,V-33,Jaipur,Kidswear,Kids Kurta Set,22,899,COD,Bhiwandi,Tier 2,Other,sleves are too short.
+R-104521,OD59550796,2026-09-26,App,SKU-93622,V-13,Jaipur,Womenswear,Dress,40,599,COD,Hyderabad,Tier 3,Size too small,
+R-104522,OD34897072,2026-09-22,App,SKU-90775,V-07,Jaipur,Womenswear,Saree,Free Size,1399,COD,Hyderabad,Tier 2,Different from image,
+R-104523,OD61212125,2026-09-22,WhatsApp,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,Prepaid,Hyderabad,Tier 2,Size too large,
+R-104524,OD36102768,2026-09-21,App,SKU-99602,V-27,Jaipur,Womenswear,Dress,36,599,COD,Hyderabad,Tier 3,Quality not as expected,
+R-104525,OD55324279,2026-09-24,App,SKU-88298,V-01,Jaipur,Womenswear,Kurta Set,44,899,COD,Gurugram,Tier 1,Other,"44 is too big, need one size down"
+R-104526,OD18693445,2026-09-27,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Gurugram,Tier 1,Other,bust pr bohot tight hai
+R-104527,OD15322139,2026-09-26,WhatsApp,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,COD,Gurugram,Tier 1,Other,SHUOLDER PR TIGHT HAI.
+R-104528,OD46691273,2026-09-22,WhatsApp,SKU-96645,V-21,Tiruppur,Men's basics,Men's T-shirt,M,599,COD,Hyderabad,Tier 3,Other,"size ""M"" likha hai, par aata ""S"" jaisa hai"
+R-104529,OD46114139,2026-09-24,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,8-9Y,399,COD,Gurugram,Tier 1,Size too small,
+R-104530,OD52801016,2026-09-22,App,SKU-94249,V-15,Jaipur,Womenswear,Kurta Set,M,1049,Prepaid,Hyderabad,Tier 1,Size too large,
+R-104531,OD23857969,2026-09-27,App,SKU-102625,V-33,Jaipur,Kidswear,Kids Frock,4-5Y,549,Prepaid,Bhiwandi,Tier 2,Other,-
+R-104532,OD39318425,2026-09-22,App,SKU-92226,V-10,Tiruppur,Kidswear,Kids T-shirt,6-7Y,399,COD,Bhiwandi,Tier 2,Quality not as expected,
+R-104533,OD92206699,2026-09-23,App,SKU-93527,V-13,Jaipur,Womenswear,Kurti,40,649,Prepaid,Hyderabad,Tier 3,Size too small,
+R-104534,OD68263801,2026-09-27,App,SKU-94356,V-15,Jaipur,Womenswear,Kurti,36,699,Prepaid,Bhiwandi,Tier 3,Other,labmai kam hai
+R-104535,OD61990985,2026-09-24,App,SKU-102897,V-34,Tiruppur,Womenswear,Leggings,M,399,Prepaid,Bhiwandi,Tier 3,Other,"M likha hy par chota hai, dusre brand ka M aata hai mujhe ek size bada bhej do."
+R-104536,OD50701094,2026-09-23,App,SKU-96931,V-22,Tiruppur,Womenswear,Leggings,Free Size,399,Prepaid,Hyderabad,Tier 2,Other,"pasand nahi aaya, size bhi bada hai"
+R-104537,OD53768206,2026-09-23,App,SKU-99405,V-27,Jaipur,Womenswear,Kurti,M,999,Prepaid,Hyderabad,Tier 1,Other,
+R-104538,OD28375017,2026-09-21,WhatsApp,SKU-103423,V-36,Jaipur,Womenswear,Kurta Set,38,1049,Prepaid,Bhiwandi,Tier 2,Other,do din mein phat gaya
+R-104539,OD15753158,2026-09-26,App,SKU-92361,V-11,Tiruppur,Kidswear,Kids T-shirt,8-9Y,399,COD,Gurugram,Tier 2,Different from image,
+R-104540,OD78446747,2026-09-22,App,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,L,399,COD,Hyderabad,Tier 2,Other,ek wosh me sikud gaya exchange chahie!!
+R-104541,OD92208627,2026-09-21,App,SKU-101742,V-32,Jaipur,Kidswear,Kids Frock,4-5Y,799,COD,Hyderabad,Tier 1,Other,"4-5Y order kiya tha, bete ko loose hai agle saal aayega!!"
+R-104542,OD20752779,2026-09-26,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,COD,Bhiwandi,Tier 3,Other,bete ko chotaa pad gaya 6-7Y mangaya tha
+R-104543,OD30594478,2026-09-23,WhatsApp,SKU-102625,V-33,Jaipur,Kidswear,Kids Frock,2-3Y,549,COD,Hyderabad,Tier 2,Size too small,
+R-104544,OD52219717,2026-09-25,App,SKU-91542,V-08,Tiruppur,Kidswear,Kids T-shirt,20,399,Prepaid,Gurugram,Tier 1,Quality not as expected,
+R-104545,OD40051614,2026-09-24,App,SKU-93740,V-14,Jaipur,Womenswear,Kurti,40,549,Prepaid,Gurugram,Tier 2,Other,size bada he return kar do pls
+R-104546,OD94633846,2026-09-24,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Bhiwandi,Tier 1,Other,seene pe fit nahi ho raha
+R-104547,OD77262068,2026-09-27,App,SKU-102528,V-33,Jaipur,Kidswear,Kids Frock,8-9Y,449,Prepaid,Bhiwandi,Tier 2,Size too small,
+R-104548,OD13128460,2026-09-22,App,SKU-98561,V-25,Jaipur,Kidswear,Kids Frock,28,799,COD,Hyderabad,Tier 2,Size too small,
+R-104549,OD68013449,2026-09-23,App,SKU-94249,V-15,Jaipur,Womenswear,Kurta Set,L,1049,Prepaid,Hyderabad,Tier 2,Other, 
+R-104254,OD29422259,2026-09-27,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,COD,Bhiwandi,Tier 3,Other,lambai kam hai
+R-104550,OD28075330,2026-09-27,App,SKU-102707,V-33,Jaipur,Womenswear,Saree,Free Size,1049,Prepaid,Bhiwandi,Tier 2,Quality not as expected,
+R-104551,OD68720491,2026-09-25,App,SKU-96144,V-20,Ludhiana,Womenswear,Top,40,699,COD,Bhiwandi,Tier 3,Other,upar se tight h niche se theek hai please return
+R-104552,OD90470408,2026-09-21,App,SKU-96592,V-21,Tiruppur,Men's basics,Men's T-shirt,L,549,COD,Hyderabad,Tier 2,Size too small,
+R-104553,OD32308341,2026-09-26,App,SKU-98938,V-26,Jaipur,Womenswear,Dress,M,849,Prepaid,Gurugram,Tier 1,Other,
+R-104554,OD17245389,2026-09-26,App,SKU-88574,V-02,Jaipur,Womenswear,Palazzo,32,749,COD,Gurugram,Tier 1,Size too small,
+R-104555,OD40483697,2026-09-26,App,SKU-98561,V-25,Jaipur,Kidswear,Kids Frock,28,799,COD,Bhiwandi,Tier 3,Different from image,
+R-104556,OD44665638,2026-09-22,App,SKU-103428,V-36,Jaipur,Womenswear,Kurta Set,40,1249,Prepaid,Hyderabad,Tier 1,Other,too short in length!!
+R-104557,OD59859223,2026-09-23,App,SKU-98486,V-25,Jaipur,Womenswear,Kurti,L,999,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104558,OD43278694,2026-09-21,App,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,COD,Hyderabad,Tier 3,Other,
+R-104559,OD53095247,2026-09-25,App,SKU-100029,V-28,Surat,Womenswear,Saree,Free Size,949,Prepaid,Bhiwandi,Tier 1,Different from image,
+R-104560,OD16221755,2026-09-22,App,SKU-98529,V-25,Jaipur,Kidswear,Kids Frock,24,699,COD,Hyderabad,Tier 2,Other,2 order kar diye the ek rakhna hai.
+R-104561,OD75666410,2026-09-21,App,SKU-98846,V-26,Jaipur,Womenswear,Saree,Free Size,1249,Prepaid,Hyderabad,Tier 3,Damaged or defective,
+R-104562,OD37465803,2026-09-22,App,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,COD,Bhiwandi,Tier 1,Other,रंग फोटो जैसा नहीं है
+R-104563,OD15152743,2026-09-25,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,Prepaid,Bhiwandi,Tier 1,Other, 
+R-104564,OD19023264,2026-09-24,App,SKU-98285,V-25,Jaipur,Womenswear,Saree,Free Size,1449,Prepaid,Bhiwandi,Tier 3,Other,sttain on the cloth on arrival
+R-104565,OD14721228,2026-09-21,App,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,Prepaid,Bhiwandi,Tier 3,Other,shade is not the same as showwn
+R-104566,OD55461124,2026-09-22,App,SKU-90775,V-07,Jaipur,Womenswear,Saree,Free Size,1399,COD,Bhiwandi,Tier 2,Different from image,
+R-104567,OD44043432,2026-09-21,App,SKU-91033,V-07,Jaipur,Womenswear,Dress,40,949,COD,Bhiwandi,Tier 1,Other,10 din me aaya ab zarurat nahi paisa wapas chahiye
+R-104568,OD66566917,2026-09-25,App,SKU-99189,V-26,Jaipur,Womenswear,Kurti,44,849,COD,Hyderabad,Tier 3,Size too large,
+R-104569,OD49508066,2026-09-24,App,SKU-105397,V-40,Tiruppur,Men's basics,Men's Track Pants,40,599,Prepaid,Hyderabad,Tier 2,Other,kamar pe dhila hai
+R-104570,OD51648815,2026-09-21,App,SKU-104378,V-38,Surat,Womenswear,Kurti,M,449,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104571,OD61757603,2026-09-27,WhatsApp,SKU-95339,V-17,Tiruppur,Kidswear,Kids T-shirt,24,399,Prepaid,Bhiwandi,Tier 1,Other,Bht lamba hai chota size de do 🙏
+R-104572,OD29482084,2026-09-26,App,SKU-104194,V-38,Surat,Womenswear,Dress,L,1299,Prepaid,Hyderabad,Tier 1,Other,??
+R-104573,OD59101978,2026-09-22,App,SKU-96522,V-21,Tiruppur,Kidswear,Kids Shorts,24,399,Prepaid,Hyderabad,Tier 3,Size too large,
+R-104574,OD14669660,2026-09-23,App,SKU-95384,V-17,Tiruppur,Kidswear,Kids T-shirt,24,449,Prepaid,Gurugram,Tier 1,Size too small,
+R-104575,OD97097368,2026-09-22,WhatsApp,SKU-105628,V-40,Tiruppur,Kidswear,Kids T-shirt,4-5Y,399,Prepaid,Bhiwandi,Tier 3,Other,chest pe tight aa raha hai.
+R-104576,OD52453364,2026-09-26,WhatsApp,SKU-99940,V-28,Surat,Womenswear,Kurti,M,549,COD,Bhiwandi,Tier 3,Other,tight hai nai aya
+R-104577,OD21948600,2026-09-25,App,SKU-95339,V-17,Tiruppur,Kidswear,Kids T-shirt,26,399,COD,Bhiwandi,Tier 1,Changed my mind,
+R-104578,OD13258711,2026-09-22,App,SKU-93608,V-13,Jaipur,Womenswear,Kurti,40,999,Prepaid,Gurugram,Tier 3,Different from image,
+R-104579,OD81732054,2026-09-23,App,SKU-97886,V-24,Tiruppur,Womenswear,Top,XL,499,Prepaid,Gurugram,Tier 1,Quality not as expected,
+R-104580,OD98763071,2026-09-22,App,SKU-90249,V-06,Ludhiana,Men's basics,Men's Track Pants,M,649,COD,Hyderabad,Tier 3,Delivered late,
+R-104581,OD38056434,2026-09-26,App,SKU-94356,V-15,Jaipur,Womenswear,Kurti,36,699,COD,Bhiwandi,Tier 3,Size too small,
+R-104582,OD12434767,2026-09-22,App,SKU-100954,V-30,Tiruppur,Womenswear,Nightwear,40,799,Prepaid,Hyderabad,Tier 3,Size too small,
+R-104583,OD64029195,2026-09-25,App,SKU-105260,V-40,Tiruppur,Men's basics,Men's T-shirt,M,499,Prepaid,Hyderabad,Tier 1,Quality not as expected,
+R-104584,OD41175898,2026-09-23,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,COD,Gurugram,Tier 3,Size too large,
+R-104585,OD60693988,2026-09-25,App,SKU-96144,V-20,Ludhiana,Womenswear,Top,38,699,Prepaid,Gurugram,Tier 3,Other,top bust pe choti h button nai lag rahe
+R-104586,OD68614525,2026-09-22,App,SKU-90561,V-06,Ludhiana,Womenswear,Top,XL,449,COD,Hyderabad,Tier 1,Size too large,
+R-104587,OD94336743,2026-09-26,App,SKU-95856,V-19,Kolkata,Kidswear,Kids Shorts,24,449,COD,Hyderabad,Tier 1,Size too large,
+R-104588,OD32553004,2026-09-24,WhatsApp,SKU-96747,V-21,Tiruppur,Men's basics,Men's T-shirt,M,549,Prepaid,Bhiwandi,Tier 3,Size too small,
+R-104589,OD53856425,2026-09-26,App,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,399,Prepaid,Gurugram,Tier 3,Size too large,
+R-104590,OD49304035,2026-09-23,WhatsApp,SKU-92145,V-10,Tiruppur,Men's basics,Men's T-shirt,42,499,COD,Hyderabad,Tier 3,Size too large,
+R-104591,OD49310285,2026-09-23,App,SKU-102585,V-33,Jaipur,Kidswear,Kids Frock,2-3Y,799,COD,Bhiwandi,Tier 3,Other,image se bilkul alag
+R-104592,OD84846927,2026-09-23,App,SKU-90561,V-06,Ludhiana,Womenswear,Top,L,449,COD,Hyderabad,Tier 3,Other,not as sohwn.
+R-104593,OD86586347,2026-09-21,App,SKU-90403,V-06,Ludhiana,Womenswear,Top,XXL,449,Prepaid,Gurugram,Tier 1,Quality not as expected,
+R-104594,OD95051409,2026-09-27,WhatsApp,SKU-90686,V-07,Jaipur,Womenswear,Kurti,L,749,Prepaid,Hyderabad,Tier 3,Size too small,
+R-104595,OD12410268,2026-09-21,App,SKU-93955,V-14,Jaipur,Womenswear,Dress,42,899,Prepaid,Bhiwandi,Tier 1,Other,"42 is too big, need one size down"
+R-104596,OD95218990,2026-09-27,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,S,549,Prepaid,Hyderabad,Tier 1,Other,bahut chota aya
+R-104597,OD99437340,2026-09-25,App,SKU-92210,V-10,Tiruppur,Kidswear,Kids T-shirt,10-11Y,499,COD,Gurugram,Tier 2,Other,colour faded after first wash.
+R-104598,OD89248898,2026-09-26,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,S,599,COD,Hyderabad,Tier 3,Size too large,
+R-104599,OD67574727,2026-09-22,App,SKU-91300,V-08,Tiruppur,Womenswear,Top,38,549,COD,Bhiwandi,Tier 1,Different from image,
+R-104600,OD85792486,2026-09-26,App,SKU-99658,V-27,Jaipur,Womenswear,Dress,38,849,COD,Bhiwandi,Tier 2,Size too large,
+R-104601,OD18843289,2026-09-25,App,SKU-98900,V-26,Jaipur,Womenswear,Dress,M,1099,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104602,OD66659895,2026-09-21,App,SKU-102782,V-34,Tiruppur,Men's basics,Men's Track Pants,42,649,COD,Bhiwandi,Tier 2,Different from image,
+R-104603,OD65262905,2026-09-22,App,SKU-96787,V-21,Tiruppur,Womenswear,Leggings,32,399,COD,Hyderabad,Tier 3,Quality not as expected,
+R-104604,OD18410220,2026-09-25,App,SKU-100499,V-29,Jaipur,Womenswear,Kurta Set,XL,949,Prepaid,Bhiwandi,Tier 1,Other,Dhone pe colour chhoot raha hai
+R-104605,OD41593041,2026-09-24,WhatsApp,SKU-98511,V-25,Jaipur,Kidswear,Kids Frock,22,849,COD,Gurugram,Tier 2,Other,"22 order kiya tha, chesst par dhila h"
+R-104606,OD81550348,2026-09-27,App,SKU-96233,V-20,Ludhiana,Womenswear,Top,44,649,Prepaid,Bhiwandi,Tier 3,Other,fitting bahut tight h
+R-104607,OD78746885,2026-09-22,App,SKU-95912,V-19,Kolkata,Womenswear,Leggings,L,399,COD,Gurugram,Tier 3,Other,waist bhut tyt h baith nahi sakti.
+R-104608,OD38404863,2026-09-24,App,SKU-92876,V-12,Tiruppur,Kidswear,Kids Shorts,4-5Y,399,Prepaid,Bhiwandi,Tier 2,Size too small,kamra m fit nahi aa raha refund kar do
+R-104609,OD52111455,2026-09-26,App,SKU-89422,V-04,Tiruppur,Kidswear,Kids T-shirt,6-7Y,399,COD,Gurugram,Tier 2,Size too small,
+R-104610,OD28151898,2026-09-21,App,SKU-102707,V-33,Jaipur,Womenswear,Saree,Free Size,1049,COD,Bhiwandi,Tier 1,Quality not as expected,
+R-104611,OD59240436,2026-09-24,App,SKU-97088,V-22,Tiruppur,Men's basics,Men's T-shirt,42,549,Prepaid,Gurugram,Tier 2,Different from image,
+R-104612,OD65271862,2026-09-22,App,SKU-93740,V-14,Jaipur,Womenswear,Kurti,36,549,COD,Bhiwandi,Tier 2,Size too large,
+R-104613,OD50122512,2026-09-23,App,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,COD,Bhiwandi,Tier 2,Different from image,
+R-104614,OD50036788,2026-09-23,WhatsApp,SKU-93527,V-13,Jaipur,Womenswear,Kurti,36,649,Prepaid,Gurugram,Tier 3,Other,return
+R-104615,OD67634299,2026-09-25,App,SKU-90446,V-06,Ludhiana,Womenswear,Top,S,399,COD,Hyderabad,Tier 2,Other,Length is too long for me
+R-104616,OD77858457,2026-09-24,App,SKU-90561,V-06,Ludhiana,Womenswear,Top,L,449,Prepaid,Gurugram,Tier 3,Other,theek nahi laga
+R-104617,OD90556828,2026-09-24,App,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,COD,Gurugram,Tier 3,Other,"pehli baar order kiya, photo mein maroon tha ye laal hai.."
+R-104618,OD90735143,2026-09-22,App,SKU-97066,V-22,Tiruppur,Men's basics,Men's T-shirt,40,499,Prepaid,Gurugram,Tier 3,Size too small,
+R-104619,OD27861999,2026-09-21,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,M,549,COD,Gurugram,Tier 1,Size too large,
+R-104620,OD14615128,2026-09-23,App,SKU-88298,V-01,Jaipur,Womenswear,Kurta Set,40,899,COD,Hyderabad,Tier 2,Other,packet khula hua tha & kapda ganda tha
+R-104621,OD38350988,2026-09-22,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,L,749,Prepaid,Hyderabad,Tier 3,Size too small,
+R-104622,OD65051477,2026-09-26,WhatsApp,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,COD,Hyderabad,Tier 2,Other,"fit was fine, shrank after washing"
+R-104623,OD35826589,2026-09-25,App,SKU-91503,V-08,Tiruppur,Kidswear,Kids T-shirt,28,499,Prepaid,Hyderabad,Tier 1,Other,கலர் வேற மாதிரி இருக்கு
+R-104624,OD93080739,2026-09-21,WhatsApp,SKU-93527,V-13,Jaipur,Womenswear,Kurti,44,649,Prepaid,Hyderabad,Tier 1,Other,"size bada hai, late bhi aaya, ab nahi chahiye"
+R-104625,OD31714163,2026-09-21,App,SKU-99883,V-28,Surat,Womenswear,Kurti,M,599,COD,Hyderabad,Tier 2,Size too small,
+R-104626,OD12076604,2026-09-27,App,SKU-99966,V-28,Surat,Womenswear,Kurti,XXL,649,Prepaid,Hyderabad,Tier 2,Other,"colour alag; photo me ""wine"" tha, ye brown hai, bilkul alag"
+R-104627,OD59037954,2026-09-26,WhatsApp,SKU-101897,V-32,Jaipur,Kidswear,Kids Kurta Set,22,799,COD,Bhiwandi,Tier 2,Other,Pet dikh raha hai itna chta hai
+R-104628,OD47816418,2026-09-21,App,SKU-92145,V-10,Tiruppur,Men's basics,Men's T-shirt,38,499,COD,Bhiwandi,Tier 1,Other,bhaiya oversize lag raha he
+R-104629,OD67519393,2026-09-27,WhatsApp,SKU-103995,V-37,Jaipur,Kidswear,Kids Frock,2-3Y,849,COD,Gurugram,Tier 2,Different from image,
+R-104630,OD16528909,2026-09-27,App,SKU-89322,V-03,Tiruppur,Men's basics,Men's Track Pants,S,499,COD,Bhiwandi,Tier 1,Changed my mind,
+R-104631,OD77120791,2026-09-25,WhatsApp,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,499,COD,Hyderabad,Tier 1,Size too small,
+R-104632,OD25674778,2026-09-22,App,SKU-99494,V-27,Jaipur,Womenswear,Kurti,S,949,COD,Hyderabad,Tier 1,Size too large,
+R-104633,OD52603906,2026-09-24,App,SKU-92818,V-12,Tiruppur,Kidswear,Kids T-shirt,8-9Y,399,Prepaid,Bhiwandi,Tier 3,Size too large,
+R-104634,OD12803144,2026-09-26,App,SKU-90598,V-06,Ludhiana,Womenswear,Nightwear,44,799,COD,Gurugram,Tier 2,Size too small,
+R-104635,OD40778314,2026-09-22,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,L,749,COD,Bhiwandi,Tier 2,Size too small,
+R-104636,OD79508416,2026-09-21,App,SKU-102222,V-33,Jaipur,Kidswear,Kids Kurta Set,22,649,COD,Bhiwandi,Tier 1,Size too small,
+R-104637,OD57224150,2026-09-24,App,SKU-93753,V-14,Jaipur,Womenswear,Kurti,44,749,COD,Gurugram,Tier 3,Quality not as expected,
+R-104638,OD14787049,2026-09-21,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,COD,Gurugram,Tier 2,Size too large,
+R-104639,OD68315537,2026-09-23,App,SKU-88923,V-03,Tiruppur,Womenswear,Leggings,S,399,Prepaid,Gurugram,Tier 1,Quality not as expected,
+R-104640,OD15790949,2026-09-26,App,SKU-94008,V-15,Jaipur,Womenswear,Palazzo,Free Size,449,Prepaid,Bhiwandi,Tier 3,Size too small,
+R-104641,OD96631945,2026-09-21,WhatsApp,SKU-100581,V-29,Jaipur,Womenswear,Kurta Set,L,1149,Prepaid,Bhiwandi,Tier 1,Other,bhaiya tight hai nahi aya
+R-104642,OD90108659,2026-09-25,App,SKU-93293,V-13,Jaipur,Womenswear,Palazzo,28,599,COD,Gurugram,Tier 3,Changed my mind,
+R-104643,OD98425080,2026-09-23,App,SKU-90319,V-06,Ludhiana,Men's basics,Men's Track Pants,XL,749,COD,Hyderabad,Tier 2,Size too small,
+R-104644,OD37579050,2026-09-24,App,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,COD,Hyderabad,Tier 1,Different from image,
+R-104645,OD33848494,2026-09-25,App,SKU-93608,V-13,Jaipur,Womenswear,Kurti,38,999,COD,Gurugram,Tier 3,Size too small,
+R-104646,OD48175807,2026-09-25,App,SKU-101664,V-31,Tiruppur,Kidswear,Kids Shorts,4-5Y,449,COD,Bhiwandi,Tier 2,Size too small,
+R-104647,OD22998025,2026-09-27,App,SKU-100644,V-30,Tiruppur,Men's basics,Men's T-shirt,40,449,COD,Hyderabad,Tier 1,Size too small,
+R-104648,OD89345398,2026-09-25,WhatsApp,SKU-92431,V-11,Tiruppur,Kidswear,Kids T-shirt,4-5Y,499,COD,Hyderabad,Tier 1,Changed my mind,
+R-104649,OD75909282,2026-09-21,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,S,549,COD,Bhiwandi,Tier 3,Size too large,
+R-104650,OD14587437,2026-09-24,App,SKU-96077,V-19,Kolkata,Men's basics,Men's T-shirt,M,449,COD,Bhiwandi,Tier 2,Size too small,
+R-104651,OD69262624,2026-09-26,App,SKU-94420,V-15,Jaipur,Womenswear,Kurti,36,449,COD,Bhiwandi,Tier 2,Other,length choti hai
+R-104652,OD53483902,2026-09-25,WhatsApp,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,S,549,COD,Hyderabad,Tier 3,Other,
+R-104653,OD25461020,2026-09-25,App,SKU-101836,V-32,Jaipur,Kidswear,Kids Kurta Set,22,999,COD,Bhiwandi,Tier 2,Size too large,
+R-104654,OD76012562,2026-09-22,App,SKU-102215,V-32,Jaipur,Womenswear,Dress,S,1199,COD,Hyderabad,Tier 2,Changed my mind,
+R-104655,OD26398160,2026-09-24,App,SKU-97412,V-23,Jaipur,Kidswear,Kids Frock,28,799,Prepaid,Gurugram,Tier 2,Size too small,shoulders too narrow
+R-104656,OD43712844,2026-09-26,App,SKU-95612,V-18,Jaipur,Womenswear,Palazzo,30,799,COD,Gurugram,Tier 2,Other,कापड खूप पातळ आहे
+R-104657,OD34461344,2026-09-24,WhatsApp,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,499,Prepaid,Hyderabad,Tier 3,Other,small for age.
+R-104658,OD50629894,2026-09-27,WhatsApp,SKU-92676,V-11,Tiruppur,Men's basics,Men's Track Pants,XL,649,Prepaid,Gurugram,Tier 3,Other,pattern different from image
+R-104659,OD66029256,2026-09-26,App,SKU-99463,V-27,Jaipur,Womenswear,Kurti,XL,649,COD,Bhiwandi,Tier 2,Quality not as expected,
+R-104660,OD53103340,2026-09-27,App,SKU-98773,V-26,Jaipur,Womenswear,Kurta Set,XL,1399,COD,Gurugram,Tier 1,Size too large,
+R-104661,OD85830484,2026-09-21,App,SKU-96138,V-20,Ludhiana,Womenswear,Top,38,449,Prepaid,Gurugram,Tier 3,Other,धोने के बाद छोटा हो गया
+R-104662,OD89371865,2026-09-23,App,SKU-102417,V-33,Jaipur,Kidswear,Kids Kurta Set,26,949,COD,Bhiwandi,Tier 2,Quality not as expected,
+R-104663,OD53618177,2026-09-21,App,SKU-90396,V-06,Ludhiana,Womenswear,Top,M,699,COD,Hyderabad,Tier 1,Other,kapda patla hai aur photo se colour bhi alag
+R-104664,OD47808392,2026-09-24,App,SKU-91086,V-07,Jaipur,Womenswear,Kurta Set,42,949,Prepaid,Bhiwandi,Tier 3,Quality not as expected,
+R-104665,OD21622531,2026-09-22,App,SKU-98670,V-26,Jaipur,Womenswear,Kurta Set,L,949,COD,Bhiwandi,Tier 2,Other,"L mangaya tha, packet me M nikla"
+R-104666,OD42841683,2026-09-21,App,SKU-88298,V-01,Jaipur,Womenswear,Kurta Set,42,899,COD,Bhiwandi,Tier 2,Other,रंग फोटो जैसा नहीं है
+R-104667,OD76886181,2026-09-25,App,SKU-98529,V-25,Jaipur,Kidswear,Kids Frock,26,699,COD,Bhiwandi,Tier 1,Size too large,
+R-104668,OD78781954,2026-09-21,App,SKU-93793,V-14,Jaipur,Womenswear,Kurti,42,649,Prepaid,Bhiwandi,Tier 2,Other,length is short for 42
+R-104669,OD43050042,2026-09-24,App,SKU-89167,V-03,Tiruppur,Womenswear,Top,L,499,Prepaid,Gurugram,Tier 1,Wrong item received,
+R-104670,OD42098796,2026-09-27,App,SKU-100499,V-29,Jaipur,Womenswear,Kurta Set,S,949,Prepaid,Bhiwandi,Tier 2,Other,"bust is very tight in S, rest is fine."
+R-104671,OD51042716,2026-09-23,App,SKU-91191,V-07,Jaipur,Womenswear,Kurta Set,40,1299,COD,Bhiwandi,Tier 2,Other,set me dupatta nhi tha paisa wapas chahiiye.
+R-104672,OD37882281,2026-09-24,App,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,Prepaid,Gurugram,Tier 2,Quality not as expected,
+R-104673,OD74874147,2026-09-27,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,M,549,COD,Hyderabad,Tier 2,Size too large,
+R-104674,OD24896760,2026-09-21,WhatsApp,SKU-103437,V-36,Jaipur,Womenswear,Kurta Set,36,1299,COD,Hyderabad,Tier 3,Other,
+R-104675,OD10075331,2026-09-22,App,SKU-103437,V-36,Jaipur,Womenswear,Kurta Set,40,1299,Prepaid,Hyderabad,Tier 1,Quality not as expected,bust pe tight hai
+R-104676,OD66525973,2026-09-22,App,SKU-92394,V-11,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,COD,Gurugram,Tier 2,Other,bete ko chhota pad gaya 6-7Y mangaya tha.
+R-104677,OD32762657,2026-09-27,App,SKU-90471,V-06,Ludhiana,Womenswear,Top,XXL,449,COD,Bhiwandi,Tier 1,Size too small,
+R-104678,OD88760386,2026-09-24,App,SKU-97282,V-23,Jaipur,Kidswear,Kids Frock,20,799,COD,Bhiwandi,Tier 1,Size too small,
+R-104679,OD21029100,2026-09-24,App,SKU-98561,V-25,Jaipur,Kidswear,Kids Frock,24,799,COD,Hyderabad,Tier 1,Damaged or defective,
+R-104680,OD98361627,2026-09-24,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,S,599,Prepaid,Gurugram,Tier 3,Other,बहुत लंबा है
+R-104681,OD34493846,2026-09-21,WhatsApp,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,Prepaid,Gurugram,Tier 2,Other,shade is not the same as shown
+R-104682,OD20528698,2026-09-26,WhatsApp,SKU-88404,V-02,Jaipur,Womenswear,Kurti,38,499,Prepaid,Gurugram,Tier 3,Other,रंग फोटो जैसा नहीं है 🙏
+R-104683,OD32661544,2026-09-22,App,SKU-88400,V-02,Jaipur,Womenswear,Kurti,40,449,COD,Hyderabad,Tier 2,Other,not pure cotton as mentioned
+R-104684,OD31836501,2026-09-26,App,SKU-92477,V-11,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,COD,Hyderabad,Tier 1,Changed my mind,
+R-104685,OD53881454,2026-09-26,App,SKU-89567,V-04,Tiruppur,Womenswear,Leggings,Free Size,399,Prepaid,Hyderabad,Tier 2,Size too small,
+R-104686,OD29832658,2026-09-23,App,SKU-93289,V-13,Jaipur,Womenswear,Palazzo,28,699,Prepaid,Gurugram,Tier 1,Size too small,
+R-104687,OD87240995,2026-09-23,WhatsApp,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,Prepaid,Bhiwandi,Tier 2,Other,very tight fitting.
+R-104688,OD74733910,2026-09-27,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,Prepaid,Gurugram,Tier 3,Other,problem hai
+R-104689,OD32035058,2026-09-23,App,SKU-92205,V-10,Tiruppur,Kidswear,Kids T-shirt,2-3Y,399,Prepaid,Bhiwandi,Tier 1,Other,refund kab milega
+R-104690,OD35281695,2026-09-24,WhatsApp,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,399,COD,Gurugram,Tier 2,Other,Dhulne ke baad sikud gaya
+R-104691,OD34185946,2026-09-21,App,SKU-100062,V-28,Surat,Womenswear,Saree,Free Size,949,COD,Gurugram,Tier 2,Other,blouse piece chota hai saree ke saath
+R-104692,OD91872006,2026-09-24,App,SKU-102707,V-33,Jaipur,Womenswear,Saree,Free Size,1049,COD,Hyderabad,Tier 3,Different from image,
+R-104693,OD25402825,2026-09-23,App,SKU-103654,V-36,Jaipur,Kidswear,Kids Kurta Set,22,599,COD,Hyderabad,Tier 1,Different from image,
+R-104694,OD42850578,2026-09-25,App,SKU-99101,V-26,Jaipur,Womenswear,Kurti,40,499,COD,Hyderabad,Tier 2,Other,"bust pe tyt hai, baki theek hai par colour thoda alag"
+R-104695,OD77702294,2026-09-27,WhatsApp,SKU-101156,V-31,Tiruppur,Men's basics,Men's T-shirt,L,549,Prepaid,Bhiwandi,Tier 2,Other,Tent jaisa lag raha hai chota siz de do
+R-104696,OD15693507,2026-09-21,App,SKU-102538,V-33,Jaipur,Kidswear,Kids Frock,6-7Y,699,Prepaid,Bhiwandi,Tier 2,Other,bete ko loose hai agle saal aayega
+R-104697,OD74281941,2026-09-23,App,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,Prepaid,Hyderabad,Tier 3,Other,Pic me bright pink dikh raha tha ye pheeka h 🙏
+R-104698,OD25213467,2026-09-26,App,SKU-98355,V-25,Jaipur,Womenswear,Kurti,XL,749,COD,Hyderabad,Tier 3,Size too small,
+R-104699,OD24158767,2026-09-26,App,SKU-93297,V-13,Jaipur,Womenswear,Palazzo,32,699,COD,Bhiwandi,Tier 1,Quality not as expected,सिलाई खराब है
+R-104700,OD75933249,2026-09-25,App,SKU-91117,V-07,Jaipur,Womenswear,Kurta Set,36,799,COD,Bhiwandi,Tier 1,Different from image,
+R-104701,OD34937496,2026-09-25,App,SKU-99876,V-28,Surat,Womenswear,Dress,XL,1249,COD,Bhiwandi,Tier 1,Other,very tight fitting
+R-104702,OD30323005,2026-09-24,App,SKU-104894,V-39,Tiruppur,Womenswear,Nightwear,L,749,Prepaid,Hyderabad,Tier 3,Different from image,
+R-104703,OD17442740,2026-09-27,App,SKU-98511,V-25,Jaipur,Kidswear,Kids Frock,22,849,COD,Hyderabad,Tier 3,Other,
+R-104704,OD50594517,2026-09-22,App,SKU-96233,V-20,Ludhiana,Womenswear,Top,38,649,COD,Hyderabad,Tier 1,Size too small,Dekhiye chest tite hai saans nahi aa rahi ek size bada bhej do
+R-104705,OD20398222,2026-09-23,App,SKU-88532,V-02,Jaipur,Womenswear,Kurta Set,38,1299,COD,Bhiwandi,Tier 2,Delivered late,kapda patla hai
+R-104706,OD46684392,2026-09-24,App,SKU-95679,V-18,Jaipur,Womenswear,Palazzo,36,749,COD,Hyderabad,Tier 2,Other,
+R-104707,OD60650603,2026-09-27,WhatsApp,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,COD,Hyderabad,Tier 2,Other,Screen par green tha asli me mehendi colour hai
+R-104708,OD31979543,2026-09-23,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,M,549,Prepaid,Gurugram,Tier 3,Size too large,
+R-104709,OD95438242,2026-09-23,App,SKU-93622,V-13,Jaipur,Womenswear,Dress,44,599,Prepaid,Gurugram,Tier 3,Size too small,
+R-104710,OD12002023,2026-09-23,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,M,549,Prepaid,Gurugram,Tier 1,Other,bht lamba h
+R-104711,OD51030034,2026-09-25,WhatsApp,SKU-93587,V-13,Jaipur,Womenswear,Kurti,40,949,COD,Bhiwandi,Tier 1,Damaged or defective,
+R-104712,OD68011506,2026-09-22,App,SKU-94134,V-15,Jaipur,Womenswear,Palazzo,Free Size,549,Prepaid,Gurugram,Tier 2,Size too small,
+R-104713,OD45903527,2026-09-21,App,SKU-92394,V-11,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,Prepaid,Bhiwandi,Tier 2,Other,hole atfer one use
+R-104714,OD93837223,2026-09-23,App,SKU-104974,V-39,Tiruppur,Womenswear,Nightwear,L,649,Prepaid,Gurugram,Tier 3,Other,"size bada hai, late bhi aaya, ab nhi chahie"
+R-104715,OD18245410,2026-09-25,App,SKU-102476,V-33,Jaipur,Kidswear,Kids Kurta Set,20,899,COD,Bhiwandi,Tier 3,Size too large,
+R-104716,OD57491146,2026-09-24,App,SKU-92676,V-11,Tiruppur,Men's basics,Men's Track Pants,L,649,COD,Gurugram,Tier 2,Other,"damaged piece, torn at the side when it arrived"
+R-104717,OD60670352,2026-09-23,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,XL,749,COD,Hyderabad,Tier 2,Size too large,
+R-104718,OD28137687,2026-09-23,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,2-3Y,399,COD,Gurugram,Tier 3,Size too large,
+R-104719,OD88933517,2026-09-22,WhatsApp,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,COD,Bhiwandi,Tier 2,Other,colour alag hai phhoto se
+R-104720,OD34551599,2026-09-22,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,499,COD,Bhiwandi,Tier 1,Size too small,
+R-104721,OD50763046,2026-09-24,WhatsApp,SKU-91789,V-09,Jaipur,Womenswear,Kurti,36,999,COD,Bhiwandi,Tier 1,Size too large,
+R-104722,OD30082682,2026-09-25,App,SKU-101156,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,549,Prepaid,Gurugram,Tier 2,Quality not as expected,
+R-104723,OD52607275,2026-09-25,App,SKU-93693,V-13,Jaipur,Womenswear,Dress,40,899,COD,Bhiwandi,Tier 1,Size too large,
+R-104724,OD98212626,2026-09-26,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,499,COD,Gurugram,Tier 1,Other,pet dikh raha h itna chota hai.
+R-104725,OD80760210,2026-09-26,App,SKU-88532,V-02,Jaipur,Womenswear,Kurta Set,40,1299,Prepaid,Gurugram,Tier 2,Size too small,
+R-104726,OD11647182,2026-09-27,App,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,COD,Bhiwandi,Tier 1,Other,colour different from picture
+R-104727,OD79700673,2026-09-22,WhatsApp,SKU-92303,V-10,Tiruppur,Kidswear,Kids Shorts,26,399,Prepaid,Hyderabad,Tier 2,Other,"pehli baar order kiya, hips pr taight hai niche nahi aa raha 👎"
+R-104728,OD95482915,2026-09-25,App,SKU-96592,V-21,Tiruppur,Men's basics,Men's T-shirt,M,549,COD,Gurugram,Tier 1,Other,सिलाई खराब है
+R-104729,OD78139235,2026-09-26,App,SKU-96197,V-20,Ludhiana,Womenswear,Top,42,649,COD,Hyderabad,Tier 2,Size too large,
+R-104730,OD73933322,2026-09-22,App,SKU-101156,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,549,Prepaid,Gurugram,Tier 2,Size too small,
+R-104731,OD86591674,2026-09-26,App,SKU-97066,V-22,Tiruppur,Men's basics,Men's T-shirt,42,499,Prepaid,Gurugram,Tier 3,Size too small,
+R-104732,OD63081296,2026-09-27,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,Prepaid,Hyderabad,Tier 2,Other,length zyada hai zameen par lag raha hai
+R-104733,OD56815775,2026-09-21,App,SKU-100850,V-30,Tiruppur,Womenswear,Leggings,Free Size,449,COD,Bhiwandi,Tier 3,Other,leggnigs bohot dhila h
+R-104734,OD36616200,2026-09-21,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,499,COD,Hyderabad,Tier 2,Size too small,
+R-104735,OD17290227,2026-09-25,App,SKU-96787,V-21,Tiruppur,Womenswear,Leggings,34,399,Prepaid,Bhiwandi,Tier 2,Quality not as expected,
+R-104736,OD49699072,2026-09-24,App,SKU-98529,V-25,Jaipur,Kidswear,Kids Frock,20,699,COD,Gurugram,Tier 3,Size too small,
+R-104737,OD32426503,2026-09-22,App,SKU-96138,V-20,Ludhiana,Womenswear,Top,38,449,COD,Hyderabad,Tier 2,Size too large,
+R-104738,OD16207064,2026-09-22,App,SKU-103009,V-34,Tiruppur,Kidswear,Kids Shorts,26,449,COD,Bhiwandi,Tier 1,Size too small,
+R-104739,OD34211020,2026-09-26,App,SKU-90561,V-06,Ludhiana,Womenswear,Top,L,449,COD,Hyderabad,Tier 3,Size too small,
+R-104740,OD44808150,2026-09-26,App,SKU-96389,V-20,Ludhiana,Womenswear,Nightwear,42,599,COD,Bhiwandi,Tier 1,Size too small,
+R-104741,OD45183553,2026-09-22,App,SKU-92818,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,399,Prepaid,Gurugram,Tier 3,Other,bhaiya mummy ko pasand nahi aaya
+R-104742,OD22923376,2026-09-27,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,Prepaid,Gurugram,Tier 2,Other,sir se nahi ghus raha gala chota he
+R-104743,OD87442935,2026-09-24,App,SKU-93793,V-14,Jaipur,Womenswear,Kurti,42,649,COD,Hyderabad,Tier 1,Quality not as expected,
+R-104744,OD67451202,2026-09-24,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,6-7Y,399,COD,Bhiwandi,Tier 3,Size too small,
+R-104745,OD35093131,2026-09-21,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,M,749,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104746,OD68733873,2026-09-21,App,SKU-96840,V-21,Tiruppur,Womenswear,Leggings,30,499,COD,Gurugram,Tier 3,Other,👎👎👎
+R-104747,OD20454289,2026-09-23,App,SKU-97088,V-22,Tiruppur,Men's basics,Men's T-shirt,42,549,COD,Gurugram,Tier 2,Other,tshirt bht tite hai bada saiz bhejo.
+R-104748,OD26167893,2026-09-21,WhatsApp,SKU-88298,V-01,Jaipur,Womenswear,Kurta Set,36,899,Prepaid,Gurugram,Tier 1,Size too small,
+R-104749,OD56511331,2026-09-24,App,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,COD,Bhiwandi,Tier 1,Different from image,
+R-104750,OD10118693,2026-09-21,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Gurugram,Tier 1,Size too small,
+R-104751,OD72329690,2026-09-24,App,SKU-89399,V-04,Tiruppur,Kidswear,Kids T-shirt,2-3Y,449,COD,Bhiwandi,Tier 2,Other,phoo me bright pink dikh raha tha ye pheeka hai
+R-104752,OD57434522,2026-09-22,WhatsApp,SKU-97088,V-22,Tiruppur,Men's basics,Men's T-shirt,38,549,COD,Hyderabad,Tier 2,Quality not as expected,
+R-104753,OD52022119,2026-09-21,WhatsApp,SKU-90665,V-07,Jaipur,Womenswear,Kurti,L,749,COD,Gurugram,Tier 3,Other,ek wash mein roye aa gaye
+R-104754,OD33625292,2026-09-26,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,Prepaid,Hyderabad,Tier 1,Size too small,
+R-104755,OD52767626,2026-09-23,App,SKU-105613,V-40,Tiruppur,Kidswear,Kids T-shirt,10-11Y,449,COD,Gurugram,Tier 3,Delivered late,
+R-104756,OD86111528,2026-09-26,App,SKU-103223,V-35,Jaipur,Womenswear,Saree,Free Size,749,COD,Bhiwandi,Tier 1,Different from image,
+R-104757,OD15762051,2026-09-26,App,SKU-90718,V-07,Jaipur,Womenswear,Kurti,S,949,COD,Gurugram,Tier 3,Size too small,
+R-104758,OD89617380,2026-09-21,App,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,L,399,Prepaid,Bhiwandi,Tier 3,Quality not as expected,
+R-104759,OD96664043,2026-09-22,App,SKU-94420,V-15,Jaipur,Womenswear,Kurti,44,449,COD,Hyderabad,Tier 3,Other,"44 likha h par chota hai, dusre brand ka 44 aata hai mujhe"
+R-104760,OD39138220,2026-09-23,App,SKU-98529,V-25,Jaipur,Kidswear,Kids Frock,20,699,Prepaid,Gurugram,Tier 3,Other,EK WOSH ME ROYE AA GAYE
+R-104761,OD67152894,2026-09-27,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,L,749,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104762,OD14978146,2026-09-24,App,SKU-99234,V-27,Jaipur,Womenswear,Palazzo,Free Size,799,Prepaid,Gurugram,Tier 2,Other,साइज़ छोटा है 👎
+R-104763,OD86517282,2026-09-22,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,S,599,COD,Bhiwandi,Tier 2,Other,sir itna lambaa hai ki katwana padgea.
+R-104764,OD97285147,2026-09-25,App,SKU-99966,V-28,Surat,Womenswear,Kurti,L,649,Prepaid,Gurugram,Tier 2,Other,itna patla kapda hai ki slip pehenni padegi
+R-104765,OD45836175,2026-09-26,App,SKU-94457,V-15,Jaipur,Womenswear,Kurti,42,999,Prepaid,Bhiwandi,Tier 1,Other,size chhota hai ek siz bada bhej do
+R-104766,OD16431112,2026-09-21,App,SKU-90396,V-06,Ludhiana,Womenswear,Top,S,699,COD,Bhiwandi,Tier 1,Other,chest pe tyt aa raha hai
+R-104767,OD28492151,2026-09-24,App,SKU-93297,V-13,Jaipur,Womenswear,Palazzo,30,699,COD,Gurugram,Tier 2,Other,bahut dihla hai
+R-104768,OD46362734,2026-09-25,App,SKU-102625,V-33,Jaipur,Kidswear,Kids Frock,6-7Y,549,COD,Bhiwandi,Tier 1,Size too small,
+R-104769,OD70802221,2026-09-21,App,SKU-102417,V-33,Jaipur,Kidswear,Kids Kurta Set,24,949,COD,Bhiwandi,Tier 2,Other,"5 saal ke bcche ko nahi aaya, chota h!!"
+R-104770,OD34269844,2026-09-22,App,SKU-99966,V-28,Surat,Womenswear,Kurti,L,649,Prepaid,Gurugram,Tier 1,Size too small,
+R-104771,OD98056475,2026-09-22,App,SKU-92477,V-11,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,Prepaid,Bhiwandi,Tier 1,Different from image,
+R-104772,OD32297257,2026-09-26,App,SKU-94756,V-16,Tiruppur,Womenswear,Leggings,L,399,Prepaid,Hyderabad,Tier 1,Size too small,fitting bahot taihgt hai
+R-104773,OD49751296,2026-09-25,App,SKU-94320,V-15,Jaipur,Womenswear,Kurta Set,S,799,COD,Hyderabad,Tier 3,Other,model pe loose dikh raha tha mujhe tight hai
+R-104774,OD38905744,2026-09-22,App,SKU-90188,V-05,Tiruppur,Womenswear,Nightwear,L,849,COD,Bhiwandi,Tier 1,Size too small,
+R-104775,OD22446407,2026-09-24,App,SKU-94320,V-15,Jaipur,Womenswear,Kurta Set,L,799,COD,Bhiwandi,Tier 2,Size too large,
+R-104776,OD46595628,2026-09-24,WhatsApp,SKU-104702,V-39,Tiruppur,Womenswear,Top,M,449,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104777,OD96266750,2026-09-22,App,SKU-100190,V-29,Jaipur,Kidswear,Kids Frock,4-5Y,549,Prepaid,Gurugram,Tier 3,Quality not as expected,
+R-104778,OD55354087,2026-09-23,App,SKU-101329,V-31,Tiruppur,Womenswear,Leggings,Free Size,399,COD,Hyderabad,Tier 2,Other,design photo jaisa nahi hai paisa wapas chahiye
+R-104779,OD76192421,2026-09-25,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,M,549,COD,Bhiwandi,Tier 3,Other,"too long, touches the floor"
+R-104780,OD16784860,2026-09-26,App,SKU-93587,V-13,Jaipur,Womenswear,Kurti,42,949,COD,Gurugram,Tier 2,Other,"42 is too small, need one size up"
+R-104781,OD34058968,2026-09-23,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,Prepaid,Gurugram,Tier 3,Size too small,
+R-104782,OD13676919,2026-09-22,App,SKU-93527,V-13,Jaipur,Womenswear,Kurti,36,649,COD,Hyderabad,Tier 3,Other,.
+R-104783,OD73114912,2026-09-26,App,SKU-99494,V-27,Jaipur,Womenswear,Kurti,XL,949,Prepaid,Bhiwandi,Tier 3,Quality not as expected,
+R-104784,OD34047801,2026-09-22,WhatsApp,SKU-99777,V-28,Surat,Womenswear,Dress,M,949,COD,Bhiwandi,Tier 2,Wrong item received,
+R-104785,OD49046412,2026-09-25,App,SKU-92477,V-11,Tiruppur,Kidswear,Kids T-shirt,2-3Y,449,COD,Hyderabad,Tier 2,Wrong item received,
+R-104786,OD32691905,2026-09-21,WhatsApp,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,Prepaid,Gurugram,Tier 3,Other,do din me phat gaya!!
+R-104787,OD52290873,2026-09-26,App,SKU-99803,V-28,Surat,Womenswear,Dress,XL,949,COD,Gurugram,Tier 2,Quality not as expected,hello kapda bilkul halka hy..
+R-104788,OD87197348,2026-09-21,App,SKU-96787,V-21,Tiruppur,Womenswear,Leggings,30,399,Prepaid,Gurugram,Tier 1,Other,बहुत लंबा है
+R-104789,OD46902939,2026-09-25,App,SKU-104295,V-38,Surat,Womenswear,Dress,M,799,COD,Gurugram,Tier 1,Other,dhila dhala hy
+R-104790,OD82339327,2026-09-25,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,M,749,Prepaid,Bhiwandi,Tier 3,Size too small,
+R-104791,OD17537449,2026-09-22,App,SKU-88266,V-01,Jaipur,Womenswear,Kurta Set,40,949,COD,Gurugram,Tier 3,Size too small,
+R-104792,OD50190467,2026-09-22,App,SKU-90718,V-07,Jaipur,Womenswear,Kurti,XL,949,Prepaid,Gurugram,Tier 3,Other,paisa wapas do
+R-104793,OD89476913,2026-09-24,App,SKU-101171,V-31,Tiruppur,Men's basics,Men's T-shirt,L,499,Prepaid,Gurugram,Tier 1,Size too large,
+R-104794,OD88803823,2026-09-25,App,SKU-99494,V-27,Jaipur,Womenswear,Kurti,M,949,COD,Hyderabad,Tier 2,Size too large,
+R-104795,OD30909642,2026-09-24,App,SKU-102008,V-32,Jaipur,Womenswear,Saree,Free Size,1249,Prepaid,Bhiwandi,Tier 3,Quality not as expected,
+R-104796,OD99208277,2026-09-25,App,SKU-98938,V-26,Jaipur,Womenswear,Dress,M,849,Prepaid,Gurugram,Tier 1,Different from image,
+R-104797,OD67446857,2026-09-22,App,SKU-103654,V-36,Jaipur,Kidswear,Kids Kurta Set,22,599,COD,Gurugram,Tier 2,Size too small,
+R-104798,OD29587132,2026-09-22,App,SKU-99876,V-28,Surat,Womenswear,Dress,XXL,1249,COD,Hyderabad,Tier 1,Other,small size..
+R-104799,OD45284859,2026-09-27,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,6-7Y,399,COD,Gurugram,Tier 3,Other,MANN BADAL GAYA 🙏
+R-104800,OD66346239,2026-09-27,App,SKU-92461,V-11,Tiruppur,Kidswear,Kids T-shirt,6-7Y,399,COD,Bhiwandi,Tier 1,Quality not as expected,
+R-104103,OD34069934,2026-09-27,App,SKU-93404,V-13,Jaipur,Womenswear,Saree,Free Size,1249,Prepaid,Bhiwandi,Tier 3,Other,😞
+R-104801,OD40269431,2026-09-24,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,8-9Y,449,Prepaid,Hyderabad,Tier 2,Other,chest pe dhia hai
+R-104802,OD75687348,2026-09-26,App,SKU-101519,V-31,Tiruppur,Womenswear,Leggings,Free Size,449,COD,Hyderabad,Tier 3,Quality not as expected,
+R-104803,OD91142445,2026-09-24,App,SKU-91300,V-08,Tiruppur,Womenswear,Top,40,549,Prepaid,Bhiwandi,Tier 1,Quality not as expected,
+R-104804,OD91496490,2026-09-27,App,SKU-90396,V-06,Ludhiana,Womenswear,Top,L,699,COD,Hyderabad,Tier 1,Other,taight hy nahi aya.
+R-104805,OD23125904,2026-09-21,App,SKU-91626,V-09,Jaipur,Womenswear,Kurti,44,799,Prepaid,Bhiwandi,Tier 3,Size too small,
+R-104806,OD20710838,2026-09-27,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,6-7Y,399,COD,Bhiwandi,Tier 3,Size too small,
+R-104807,OD41059915,2026-09-24,App,SKU-101578,V-31,Tiruppur,Kidswear,Kids Shorts,4-5Y,449,COD,Bhiwandi,Tier 1,Size too large,
+R-104808,OD73189177,2026-09-21,App,SKU-93955,V-14,Jaipur,Womenswear,Dress,40,899,COD,Bhiwandi,Tier 2,Size too large,
+R-104809,OD77202741,2026-09-27,WhatsApp,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,M,549,Prepaid,Hyderabad,Tier 2,Size too large,
+R-104810,OD58584036,2026-09-25,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,S,549,COD,Hyderabad,Tier 2,Size too large,
+R-104811,OD34062168,2026-09-21,WhatsApp,SKU-96902,V-22,Tiruppur,Womenswear,Leggings,Free Size,449,Prepaid,Gurugram,Tier 2,Other,kapda patla he aur photo se colour bhi alag
+R-104812,OD70979220,2026-09-27,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,499,COD,Gurugram,Tier 1,Size too small,
+R-104813,OD99428819,2026-09-27,WhatsApp,SKU-89744,V-04,Tiruppur,Men's basics,Men's T-shirt,44,449,COD,Bhiwandi,Tier 1,Other,galat colour bheja aur size bhi chota hai
+R-104814,OD53389736,2026-09-22,App,SKU-96068,V-19,Kolkata,Men's basics,Men's T-shirt,XL,549,Prepaid,Gurugram,Tier 3,Other,size is running lareg.
+R-104815,OD85910801,2026-09-26,WhatsApp,SKU-94249,V-15,Jaipur,Womenswear,Kurta Set,M,1049,COD,Bhiwandi,Tier 2,Other,చాలా లూజ్ గా ఉంది
+R-104816,OD59370832,2026-09-25,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,L,749,Prepaid,Hyderabad,Tier 1,Other,kharab
+R-104817,OD33207628,2026-09-22,WhatsApp,SKU-99463,V-27,Jaipur,Womenswear,Kurti,L,649,COD,Hyderabad,Tier 2,Other,Chotaa pad gaya
+R-104818,OD32506761,2026-09-27,App,SKU-94367,V-15,Jaipur,Womenswear,Kurti,40,999,Prepaid,Gurugram,Tier 3,Different from image,
+R-104819,OD81634906,2026-09-21,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,4-5Y,399,Prepaid,Gurugram,Tier 1,Other,too big for my kid
+R-104820,OD31854295,2026-09-23,App,SKU-90522,V-06,Ludhiana,Womenswear,Top,M,399,COD,Bhiwandi,Tier 2,Other,M mangaya tha par bahot chota he
+R-104821,OD63388338,2026-09-25,App,SKU-98506,V-25,Jaipur,Womenswear,Kurti,M,899,COD,Gurugram,Tier 2,Size too small,
+R-104822,OD82879097,2026-09-24,App,SKU-97760,V-24,Tiruppur,Kidswear,Kids T-shirt,4-5Y,499,COD,Gurugram,Tier 2,Size too small,
+R-104823,OD77505175,2026-09-22,App,SKU-96931,V-22,Tiruppur,Womenswear,Leggings,Free Size,399,COD,Hyderabad,Tier 1,Other, 
+R-104824,OD47213832,2026-09-27,App,SKU-96138,V-20,Ludhiana,Womenswear,Top,38,449,Prepaid,Hyderabad,Tier 1,Other,dekhiye size chota nikla jaldi pickup karo
+R-104825,OD52986392,2026-09-24,App,SKU-94356,V-15,Jaipur,Womenswear,Kurti,38,699,Prepaid,Gurugram,Tier 1,Other,kurti ki lenth bahut kam h
+R-104826,OD60376278,2026-09-24,App,SKU-99876,V-28,Surat,Womenswear,Dress,L,1249,Prepaid,Bhiwandi,Tier 1,Other,length is short for L
+R-104827,OD88828041,2026-09-23,App,SKU-104052,V-37,Jaipur,Kidswear,Kids Frock,4-5Y,699,COD,Hyderabad,Tier 3,Other,"silai khuli hai, refund is UPI pe bhejo 9876501234@upi"
+R-104828,OD14383183,2026-09-21,App,SKU-97879,V-24,Tiruppur,Kidswear,Kids T-shirt,8-9Y,499,COD,Bhiwandi,Tier 1,Size too small,
+R-104829,OD17846621,2026-09-22,App,SKU-103067,V-34,Tiruppur,Kidswear,Kids Shorts,22,399,COD,Bhiwandi,Tier 3,Other,"looks dull, photo showed a bright shade"
+R-104830,OD95112336,2026-09-21,App,SKU-102222,V-33,Jaipur,Kidswear,Kids Kurta Set,28,649,Prepaid,Hyderabad,Tier 2,Different from image,
+R-104831,OD17882678,2026-09-23,WhatsApp,SKU-92551,V-11,Tiruppur,Kidswear,Kids Shorts,24,399,COD,Hyderabad,Tier 2,Changed my mind,
+R-104832,OD63169463,2026-09-22,WhatsApp,SKU-103437,V-36,Jaipur,Womenswear,Kurta Set,40,1299,COD,Hyderabad,Tier 2,Different from image,"LOOKS DULL, PHOTO SHOWED A BRIGHT SHADE"
+R-104833,OD32590572,2026-09-24,App,SKU-88585,V-02,Jaipur,Womenswear,Palazzo,32,699,Prepaid,Bhiwandi,Tier 1,Size too large,
+R-104834,OD54888293,2026-09-27,App,SKU-100737,V-30,Tiruppur,Womenswear,Leggings,Free Size,499,COD,Bhiwandi,Tier 3,Quality not as expected,
+R-104835,OD42199929,2026-09-24,App,SKU-88159,V-01,Jaipur,Womenswear,Saree,Free Size,1299,COD,Bhiwandi,Tier 1,Other,sir pic me maroon tha ye laal hai
+R-104836,OD13204317,2026-09-24,App,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,499,COD,Bhiwandi,Tier 2,Size too large,
+R-104837,OD66637707,2026-09-25,App,SKU-96197,V-20,Ludhiana,Womenswear,Top,38,649,COD,Hyderabad,Tier 2,Delivered late,
+R-104838,OD22139681,2026-09-21,App,SKU-99150,V-26,Jaipur,Womenswear,Kurti,38,849,COD,Bhiwandi,Tier 3,Size too small,
+R-104956,OD66403553,2026-09-26,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,Prepaid,Gurugram,Tier 2,Size too large,
+R-104839,OD57433608,2026-09-27,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,M,549,COD,Hyderabad,Tier 2,Other,साइज़ बड़ा है
+R-104840,OD48577521,2026-09-21,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,L,749,COD,Gurugram,Tier 2,Other,"pehli baar aapke app se order kiya tha, meri behen ki shaadi thi isliye 3 kurti mangayi thi, do theek hai par ye wali L size me bhi bust pe itni tight hai ki button band nahi hote, maine hamesha L hi pehna hai, kripya XL bhej do ya paisa wapas kar do"
+R-104841,OD24710839,2026-09-21,App,SKU-95612,V-18,Jaipur,Womenswear,Palazzo,30,799,Prepaid,Hyderabad,Tier 1,Other,rang phooto jaisa nahin hai
+R-104842,OD42029024,2026-09-23,App,SKU-103822,V-37,Jaipur,Womenswear,Dress,44,1099,COD,Gurugram,Tier 3,Other,bahut lambaa hai
+R-104843,OD26624264,2026-09-23,App,SKU-89708,V-04,Tiruppur,Kidswear,Kids Shorts,4-5Y,399,Prepaid,Gurugram,Tier 2,Different from image,
+R-104844,OD58900786,2026-09-27,WhatsApp,SKU-90665,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Hyderabad,Tier 3,Size too small,
+R-104845,OD87809401,2026-09-23,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Bhiwandi,Tier 1,Size too small,
+R-104846,OD52254920,2026-09-26,App,SKU-94299,V-15,Jaipur,Womenswear,Kurta Set,S,1299,COD,Bhiwandi,Tier 2,Different from image,
+R-104847,OD77679581,2026-09-22,App,SKU-91300,V-08,Tiruppur,Womenswear,Top,40,549,COD,Gurugram,Tier 3,Other,pattern different from image..
+R-104848,OD41577439,2026-09-22,App,SKU-93753,V-14,Jaipur,Womenswear,Kurti,38,749,COD,Hyderabad,Tier 2,Other,"TOO TIGHT AT THE BUST, BUTTONS ARE PULLING"
+R-104849,OD36093458,2026-09-23,App,SKU-102585,V-33,Jaipur,Kidswear,Kids Frock,8-9Y,799,Prepaid,Bhiwandi,Tier 2,Different from image,
+R-104850,OD15509629,2026-09-25,App,SKU-93988,V-14,Jaipur,Womenswear,Dress,42,1099,Prepaid,Bhiwandi,Tier 3,Size too large,
+R-104851,OD35411965,2026-09-27,App,SKU-95646,V-18,Jaipur,Womenswear,Palazzo,34,549,Prepaid,Bhiwandi,Tier 1,Damaged or defective,
+R-104852,OD96342498,2026-09-24,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,4-5Y,399,Prepaid,Gurugram,Tier 3,Size too small,tight on chest
+R-104853,OD94955053,2026-09-21,App,SKU-96938,V-22,Tiruppur,Womenswear,Leggings,Free Size,449,COD,Bhiwandi,Tier 3,Quality not as expected,
+R-104854,OD46859461,2026-09-22,App,SKU-99914,V-28,Surat,Womenswear,Kurti,L,549,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104855,OD12726100,2026-09-25,App,SKU-99975,V-28,Surat,Womenswear,Saree,Free Size,1299,COD,Hyderabad,Tier 1,Different from image,
+R-104856,OD55776319,2026-09-25,App,SKU-96645,V-21,Tiruppur,Men's basics,Men's T-shirt,M,599,COD,Bhiwandi,Tier 3,Other,fiting sahi nhi h
+R-104857,OD76994893,2026-09-23,App,SKU-94299,V-15,Jaipur,Womenswear,Kurta Set,XL,1299,COD,Bhiwandi,Tier 3,Other,Quality achi nahin hai
+R-104858,OD64484975,2026-09-23,WhatsApp,SKU-91117,V-07,Jaipur,Womenswear,Kurta Set,38,799,Prepaid,Bhiwandi,Tier 1,Other,
+R-104859,OD71495602,2026-09-23,App,SKU-104257,V-38,Surat,Womenswear,Dress,M,1099,COD,Gurugram,Tier 1,Size too small,
+R-104860,OD76910469,2026-09-26,WhatsApp,SKU-101788,V-32,Jaipur,Kidswear,Kids Kurta Set,24,799,Prepaid,Gurugram,Tier 1,Other,कपड़ा बहुत पतला है
+R-104861,OD86426058,2026-09-23,App,SKU-99101,V-26,Jaipur,Womenswear,Kurti,40,499,Prepaid,Hyderabad,Tier 2,Quality not as expected,
+R-104862,OD24519733,2026-09-23,App,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,COD,Gurugram,Tier 1,Other,sir foto me maroon tha ye laal hai
+R-104863,OD96027500,2026-09-22,App,SKU-92361,V-11,Tiruppur,Kidswear,Kids T-shirt,8-9Y,399,Prepaid,Gurugram,Tier 2,Other,chest pe dhila hy
+R-104864,OD88548730,2026-09-24,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,L,749,Prepaid,Bhiwandi,Tier 2,Size too small,
+R-104865,OD44566213,2026-09-21,App,SKU-90775,V-07,Jaipur,Womenswear,Saree,Free Size,1399,COD,Bhiwandi,Tier 1,Different from image,
+R-104866,OD41515413,2026-09-22,App,SKU-104825,V-39,Tiruppur,Womenswear,Top,L,499,Prepaid,Gurugram,Tier 2,Size too small,
+R-104867,OD18743376,2026-09-23,App,SKU-91273,V-08,Tiruppur,Womenswear,Top,38,699,Prepaid,Gurugram,Tier 3,Other,Baazu mein fasta h
+R-104868,OD37563230,2026-09-22,App,SKU-99861,V-28,Surat,Womenswear,Dress,XL,1049,COD,Hyderabad,Tier 1,Size too small,
+R-104869,OD81686262,2026-09-24,WhatsApp,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,399,Prepaid,Bhiwandi,Tier 3,Other,pani me dalte hi chota ho gaya
+R-104870,OD42465002,2026-09-22,App,SKU-100632,V-30,Tiruppur,Men's basics,Men's T-shirt,42,599,COD,Gurugram,Tier 3,Different from image,
+R-104871,OD83826452,2026-09-22,App,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,399,COD,Bhiwandi,Tier 2,Quality not as expected,
+R-104872,OD64714559,2026-09-25,WhatsApp,SKU-91060,V-07,Jaipur,Womenswear,Dress,42,699,Prepaid,Hyderabad,Tier 3,Size too large,
+R-104873,OD96982374,2026-09-25,App,SKU-99046,V-26,Jaipur,Womenswear,Kurti,44,499,COD,Bhiwandi,Tier 2,Other,shoulder niche gir raha he
+R-104874,OD81944804,2026-09-27,App,SKU-101040,V-30,Tiruppur,Womenswear,Nightwear,40,749,Prepaid,Hyderabad,Tier 1,Other,fit nahi aaya
+R-104875,OD91350778,2026-09-21,App,SKU-93782,V-14,Jaipur,Womenswear,Kurti,44,999,Prepaid,Hyderabad,Tier 1,Changed my mind,
+R-104876,OD83993075,2026-09-23,App,SKU-101742,V-32,Jaipur,Kidswear,Kids Frock,2-3Y,799,Prepaid,Bhiwandi,Tier 3,Size too large,
+R-104877,OD48800295,2026-09-25,WhatsApp,SKU-99914,V-28,Surat,Womenswear,Kurti,L,549,COD,Bhiwandi,Tier 3,Other,mann bdaal gaya
+R-104878,OD30472736,2026-09-25,App,SKU-97979,V-24,Tiruppur,Womenswear,Top,M,399,Prepaid,Hyderabad,Tier 2,Size too small,top chotaa pad gaya
+R-104879,OD66772689,2026-09-22,App,SKU-102276,V-33,Jaipur,Kidswear,Kids Kurta Set,22,849,COD,Hyderabad,Tier 3,Quality not as expected,
+R-104880,OD77114241,2026-09-26,WhatsApp,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,COD,Bhiwandi,Tier 1,Size too small,
+R-104881,OD84711412,2026-09-24,App,SKU-89759,V-04,Tiruppur,Men's basics,Men's T-shirt,42,599,COD,Bhiwandi,Tier 1,Other,mam kamar pe tyt hai
+R-104882,OD23465019,2026-09-25,App,SKU-104052,V-37,Jaipur,Kidswear,Kids Frock,2-3Y,699,COD,Hyderabad,Tier 2,Different from image,
+R-104883,OD70811385,2026-09-24,App,SKU-102023,V-32,Jaipur,Womenswear,Saree,Free Size,849,COD,Gurugram,Tier 1,Changed my mind,
+R-104884,OD44882285,2026-09-23,WhatsApp,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,COD,Bhiwandi,Tier 1,Other,"Looks dull, photo showed a bright shade 😡"
+R-104885,OD89295616,2026-09-21,App,SKU-95479,V-18,Jaipur,Womenswear,Saree,Free Size,849,Prepaid,Hyderabad,Tier 3,Different from image,
+R-104886,OD40801734,2026-09-27,App,SKU-90471,V-06,Ludhiana,Womenswear,Top,L,449,COD,Gurugram,Tier 1,Other,shoulders too narrow
+R-104887,OD70264611,2026-09-27,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,XL,749,COD,Bhiwandi,Tier 3,Other,कमर पे टाइट है 😡
+R-104888,OD55339887,2026-09-24,App,SKU-95563,V-18,Jaipur,Womenswear,Saree,Free Size,1199,COD,Gurugram,Tier 3,Quality not as expected,
+R-104889,OD49322294,2026-09-26,WhatsApp,SKU-90471,V-06,Ludhiana,Womenswear,Top,XXL,449,COD,Hyderabad,Tier 2,Damaged or defective,
+R-104890,OD93706120,2026-09-25,App,SKU-96389,V-20,Ludhiana,Womenswear,Nightwear,42,599,COD,Hyderabad,Tier 1,Quality not as expected,
+R-104891,OD43186270,2026-09-26,App,SKU-90446,V-06,Ludhiana,Womenswear,Top,M,399,COD,Bhiwandi,Tier 3,Different from image,
+R-104892,OD24236429,2026-09-21,WhatsApp,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,Prepaid,Bhiwandi,Tier 1,Other,sir se nahi ghus raha gala chota hai ek size bada bhej do!!
+R-104893,OD24856959,2026-09-27,App,SKU-101156,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,549,COD,Gurugram,Tier 2,Quality not as expected,
+R-104894,OD52111375,2026-09-23,App,SKU-90148,V-05,Tiruppur,Womenswear,Nightwear,M,699,COD,Bhiwandi,Tier 1,Damaged or defective,
+R-104895,OD45781867,2026-09-24,WhatsApp,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,COD,Hyderabad,Tier 2,Other,Shade is not the same as shown
+R-104896,OD12878896,2026-09-23,App,SKU-89744,V-04,Tiruppur,Men's basics,Men's T-shirt,42,449,Prepaid,Hyderabad,Tier 2,Other,कमर पे टाइट है
+R-104897,OD73033437,2026-09-24,App,SKU-104825,V-39,Tiruppur,Womenswear,Top,L,499,COD,Hyderabad,Tier 3,Other,बहुत टाइट है
+R-104898,OD16794323,2026-09-24,App,SKU-91191,V-07,Jaipur,Womenswear,Kurta Set,40,1299,Prepaid,Gurugram,Tier 2,Size too small,
+R-104899,OD82906299,2026-09-22,App,SKU-95454,V-18,Jaipur,Womenswear,Saree,Free Size,1249,COD,Bhiwandi,Tier 2,Different from image,
+R-104900,OD10841984,2026-09-23,App,SKU-96902,V-22,Tiruppur,Womenswear,Leggings,Free Size,449,Prepaid,Gurugram,Tier 1,Other,Does not fit
+R-104901,OD60605525,2026-09-24,WhatsApp,SKU-100190,V-29,Jaipur,Kidswear,Kids Frock,10-11Y,549,COD,Hyderabad,Tier 1,Size too small,
+R-104902,OD34243319,2026-09-25,WhatsApp,SKU-92761,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,499,COD,Bhiwandi,Tier 3,Size too small,
+R-104903,OD84664468,2026-09-27,App,SKU-102741,V-33,Jaipur,Womenswear,Saree,Free Size,1399,Prepaid,Gurugram,Tier 1,Other,itna patla kapda hai ki slip pehenni padegi
+R-104904,OD89523737,2026-09-26,App,SKU-90403,V-06,Ludhiana,Womenswear,Top,M,449,Prepaid,Bhiwandi,Tier 1,Different from image,
+R-104905,OD15801510,2026-09-23,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,COD,Hyderabad,Tier 3,Size too small,
+R-104906,OD67175778,2026-09-26,App,SKU-102668,V-33,Jaipur,Womenswear,Saree,Free Size,1149,COD,Hyderabad,Tier 1,Quality not as expected,
+R-104907,OD18529305,2026-09-22,App,SKU-99876,V-28,Surat,Womenswear,Dress,M,1249,COD,Hyderabad,Tier 2,Quality not as expected,
+R-104908,OD95745770,2026-09-27,App,SKU-97032,V-22,Tiruppur,Men's basics,Men's T-shirt,,499,COD,Bhiwandi,Tier 1,Different from image,
+R-104909,OD36714513,2026-09-21,App,SKU-100168,V-29,Jaipur,Kidswear,Kids Frock,6-7Y,649,COD,Gurugram,Tier 2,Other,bahut lamba hy.
+R-104910,OD73113183,2026-09-23,App,SKU-90522,V-06,Ludhiana,Womenswear,Top,L,399,COD,Gurugram,Tier 1,Other,used product bheja hai.
+R-104911,OD45456862,2026-09-25,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,Prepaid,Gurugram,Tier 2,Other,"6-7Y order kiya tha, chota pad gaya."
+R-104912,OD99605654,2026-09-23,App,SKU-105081,V-39,Tiruppur,Womenswear,Leggings,30,499,COD,Gurugram,Tier 3,Quality not as expected,
+R-104913,OD94247159,2026-09-24,App,SKU-92676,V-11,Tiruppur,Men's basics,Men's Track Pants,XL,649,Prepaid,Gurugram,Tier 1,Damaged or defective,packet khula hua tha aur kapda ganda tha
+R-104914,OD22019533,2026-09-26,App,SKU-91086,V-07,Jaipur,Womenswear,Kurta Set,42,949,COD,Bhiwandi,Tier 2,Other,Bahut lamba hai.
+R-104915,OD44780680,2026-09-24,App,SKU-100644,V-30,Tiruppur,Men's basics,Men's T-shirt,38,449,COD,Hyderabad,Tier 3,Wrong item received,
+R-104916,OD69527059,2026-09-23,App,SKU-97162,V-23,Jaipur,Womenswear,Palazzo,M,549,COD,Hyderabad,Tier 1,Size too large,
+R-104917,OD17453588,2026-09-21,App,SKU-100737,V-30,Tiruppur,Womenswear,Leggings,Free Size,499,Prepaid,Bhiwandi,Tier 2,Other,too short in length
+R-104918,OD55627219,2026-09-25,App,SKU-98511,V-25,Jaipur,Kidswear,Kids Frock,24,849,COD,Bhiwandi,Tier 2,Size too small,
+R-104919,OD70112883,2026-09-24,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,COD,Hyderabad,Tier 1,Other,4-5Y likha hai par 4 saal ke bacche ko chhota hai
+R-104920,OD72808437,2026-09-25,App,SKU-102361,V-33,Jaipur,Kidswear,Kids Kurta Set,22,699,Prepaid,Gurugram,Tier 2,Other,bachhe ke hisab se chota size he 😡
+R-104921,OD69788431,2026-09-25,App,SKU-103717,V-36,Jaipur,Kidswear,Kids Kurta Set,24,599,COD,Hyderabad,Tier 2,Other,Saiz issue
+R-104922,OD42479642,2026-09-24,App,SKU-91626,V-09,Jaipur,Womenswear,Kurti,44,799,Prepaid,Bhiwandi,Tier 2,Different from image,
+R-104923,OD16378595,2026-09-26,App,SKU-93404,V-13,Jaipur,Womenswear,Saree,Free Size,1249,Prepaid,Hyderabad,Tier 1,Wrong item received,
+R-104924,OD98027570,2026-09-22,App,SKU-99494,V-27,Jaipur,Womenswear,Kurti,XL,949,COD,Hyderabad,Tier 2,Other,kurti ki length bahot kam hai
+R-104925,OD94361187,2026-09-22,App,SKU-91718,V-09,Jaipur,Womenswear,Kurti,44,549,Prepaid,Gurugram,Tier 1,Other,achha nahi laga
+R-104926,OD94832072,2026-09-25,App,SKU-99876,V-28,Surat,Womenswear,Dress,M,1249,COD,Bhiwandi,Tier 3,Size too large,bust pe loose hai
+R-104927,OD90570331,2026-09-22,App,SKU-100190,V-29,Jaipur,Kidswear,Kids Frock,4-5Y,549,Prepaid,Hyderabad,Tier 3,Wrong item received,
+R-104928,OD49491068,2026-09-21,App,SKU-99789,V-28,Surat,Womenswear,Dress,L,1049,Prepaid,Hyderabad,Tier 3,Other,sir siz issue..
+R-104929,OD81906311,2026-09-21,App,SKU-101137,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,399,COD,Hyderabad,Tier 2,Quality not as expected,
+R-104930,OD52889231,2026-09-22,App,SKU-88159,V-01,Jaipur,Womenswear,Saree,Free Size,1299,Prepaid,Hyderabad,Tier 1,Delivered late,
+R-104931,OD30472995,2026-09-26,App,SKU-97032,V-22,Tiruppur,Men's basics,Men's T-shirt,44,499,COD,Bhiwandi,Tier 1,Size too small,
+R-104932,OD41435563,2026-09-24,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,COD,Bhiwandi,Tier 2,Size too small,
+R-104933,OD94461482,2026-09-23,App,SKU-101156,V-31,Tiruppur,Men's basics,Men's T-shirt,XL,549,COD,Gurugram,Tier 1,Quality not as expected,
+R-104934,OD83492112,2026-09-26,App,SKU-90369,V-06,Ludhiana,Men's basics,Men's Track Pants,M,499,COD,Bhiwandi,Tier 2,Other,pic me dark blue tha aya light refund kar do
+R-104935,OD87150076,2026-09-24,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,S,749,COD,Gurugram,Tier 1,Quality not as expected,
+R-104936,OD93162853,2026-09-22,App,SKU-90396,V-06,Ludhiana,Womenswear,Top,M,699,COD,Gurugram,Tier 2,Different from image,
+R-104937,OD65160892,2026-09-21,App,SKU-102276,V-33,Jaipur,Kidswear,Kids Kurta Set,26,849,COD,Bhiwandi,Tier 3,Other,lamba bhut hy aur kapda bhi halka hai
+R-104938,OD51803786,2026-09-25,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,COD,Bhiwandi,Tier 2,Other,LENGTH BADI HE M ME BHI
+R-104939,OD27355206,2026-09-25,App,SKU-101836,V-32,Jaipur,Kidswear,Kids Kurta Set,26,999,Prepaid,Gurugram,Tier 2,Size too large,
+R-104940,OD64970893,2026-09-26,WhatsApp,SKU-102310,V-33,Jaipur,Kidswear,Kids Kurta Set,24,799,COD,Gurugram,Tier 2,Other,chest pe tighht aa raha hy.
+R-104941,OD12839126,2026-09-25,App,SKU-101578,V-31,Tiruppur,Kidswear,Kids Shorts,10-11Y,449,COD,Gurugram,Tier 1,Size too large,
+R-104942,OD93886450,2026-09-22,WhatsApp,SKU-104637,V-38,Surat,Womenswear,Saree,Free Size,749,COD,Bhiwandi,Tier 1,Other,image se bilkul alag.
+R-104943,OD99958815,2026-09-25,App,SKU-100168,V-29,Jaipur,Kidswear,Kids Frock,4-5Y,649,Prepaid,Gurugram,Tier 2,Other,rang pic jaisa nahi he
+R-104944,OD19694036,2026-09-25,WhatsApp,SKU-103674,V-36,Jaipur,Kidswear,Kids Kurta Set,24,649,Prepaid,Hyderabad,Tier 2,Other,साइज लहान आहे
+R-104945,OD63625246,2026-09-24,App,SKU-96747,V-21,Tiruppur,Men's basics,Men's T-shirt,L,549,Prepaid,Bhiwandi,Tier 3,Size too small,
+R-104946,OD41547289,2026-09-21,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,M,749,Prepaid,Bhiwandi,Tier 1,Changed my mind,
+R-104947,OD55247943,2026-09-25,WhatsApp,SKU-99861,V-28,Surat,Womenswear,Dress,S,1049,Prepaid,Bhiwandi,Tier 2,Other,late aaya function nikl gaya return kar do pls
+R-104948,OD47985323,2026-09-24,App,SKU-96462,V-21,Tiruppur,Kidswear,Kids Shorts,24,449,Prepaid,Hyderabad,Tier 1,Other,too big for my kid
+R-104949,OD51541783,2026-09-25,App,SKU-90307,V-06,Ludhiana,Men's basics,Men's Track Pants,XL,599,COD,Gurugram,Tier 3,Size too small,
+R-104950,OD13915144,2026-09-27,App,SKU-92818,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,399,Prepaid,Bhiwandi,Tier 2,Damaged or defective,
+R-104951,OD39813138,2026-09-21,App,SKU-98938,V-26,Jaipur,Womenswear,Dress,XL,849,Prepaid,Gurugram,Tier 1,Size too small,
+R-104952,OD98976391,2026-09-21,WhatsApp,SKU-105210,V-40,Tiruppur,Men's basics,Men's T-shirt,M,449,COD,Bhiwandi,Tier 1,Other,बहुत टाइट है
+R-104953,OD80746324,2026-09-26,App,SKU-100850,V-30,Tiruppur,Womenswear,Leggings,Free Size,449,COD,Bhiwandi,Tier 2,Other,lenth chhoti h bda siz bhejo
+R-104954,OD61140861,2026-09-22,App,SKU-93740,V-14,Jaipur,Womenswear,Kurti,38,549,COD,Bhiwandi,Tier 1,Wrong item received,
+R-104955,OD18444470,2026-09-24,App,SKU-88125,V-01,Jaipur,Womenswear,Dress,38,1249,Prepaid,Bhiwandi,Tier 3,Other,🙏
+R-104956,OD66403553,2026-09-26,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,M,599,Prepaid,Gurugram,Tier 2,Size too large,
+R-104957,OD89551234,2026-09-26,App,SKU-92205,V-10,Tiruppur,Kidswear,Kids T-shirt,8-9Y,399,COD,Bhiwandi,Tier 2,Other,bahut dhila hai aur quality bhi bekar
+R-104958,OD63948892,2026-09-25,App,SKU-99966,V-28,Surat,Womenswear,Kurti,XL,649,Prepaid,Bhiwandi,Tier 2,Other,XL liya tha ek dhulai me chotaa ho gaya paisa wapas chahiye..
+R-104959,OD15628001,2026-09-22,App,SKU-103654,V-36,Jaipur,Kidswear,Kids Kurta Set,26,599,Prepaid,Hyderabad,Tier 2,Other,pic me bright pink dikh raha tha ye pheeka hai..
+R-104960,OD31385512,2026-09-27,App,SKU-95249,V-17,Tiruppur,Womenswear,Leggings,Free Size,449,Prepaid,Hyderabad,Tier 2,Other,-
+R-104961,OD42561203,2026-09-22,App,SKU-101788,V-32,Jaipur,Kidswear,Kids Kurta Set,22,799,Prepaid,Bhiwandi,Tier 1,Size too small,Kamar ka size chota hai 22 mein
+R-104962,OD55324508,2026-09-23,App,SKU-101927,V-32,Jaipur,Kidswear,Kids Kurta Set,22,949,COD,Hyderabad,Tier 2,Other,chest pr tight aa raha hai badaa size bhejo
+R-104963,OD94377868,2026-09-22,App,SKU-105356,V-40,Tiruppur,Men's basics,Men's T-shirt,M,549,COD,Bhiwandi,Tier 1,Size too large,
+R-104964,OD78798227,2026-09-26,App,SKU-104873,V-39,Tiruppur,Womenswear,Top,L,499,COD,Hyderabad,Tier 1,Changed my mind,size chota tha isliye
+R-104965,OD44032943,2026-09-25,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,M,749,Prepaid,Hyderabad,Tier 3,Size too small,
+R-104966,OD50648652,2026-09-26,App,SKU-90665,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Bhiwandi,Tier 2,Size too small,
+R-104967,OD75848940,2026-09-21,App,SKU-95856,V-19,Kolkata,Kidswear,Kids Shorts,24,449,COD,Gurugram,Tier 2,Size too large,
+R-104968,OD38447322,2026-09-21,App,SKU-99975,V-28,Surat,Womenswear,Saree,Free Size,1299,COD,Hyderabad,Tier 2,Quality not as expected,
+R-104969,OD57046551,2026-09-22,App,SKU-99861,V-28,Surat,Womenswear,Dress,L,1049,Prepaid,Bhiwandi,Tier 1,Size too small,
+R-104970,OD88377653,2026-09-22,App,SKU-100279,V-29,Jaipur,Kidswear,Kids Frock,8-9Y,849,Prepaid,Bhiwandi,Tier 1,Different from image,
+R-104971,OD50000172,2026-09-24,App,SKU-95430,V-17,Tiruppur,Kidswear,Kids T-shirt,22,399,COD,Hyderabad,Tier 3,Size too small,
+R-104972,OD62986574,2026-09-27,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,M,749,COD,Gurugram,Tier 1,Other,"M order kiya tha, upar se taight hy niche se theek hai paisa wapas chiye."
+R-104973,OD61879619,2026-09-21,App,SKU-94420,V-15,Jaipur,Womenswear,Kurti,44,449,COD,Bhiwandi,Tier 2,Damaged or defective,
+R-104974,OD33200544,2026-09-22,WhatsApp,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,8-9Y,399,Prepaid,Hyderabad,Tier 1,Size too small,
+R-104975,OD76494363,2026-09-24,App,SKU-93608,V-13,Jaipur,Womenswear,Kurti,38,999,COD,Gurugram,Tier 1,Other,shoulders too wide
+R-104976,OD62251186,2026-09-22,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,6-7Y,399,COD,Bhiwandi,Tier 1,Damaged or defective,
+R-104977,OD66138074,2026-09-21,App,SKU-104111,V-37,Jaipur,Kidswear,Kids Frock,2-3Y,849,COD,Bhiwandi,Tier 2,Size too large,
+R-104978,OD16977194,2026-09-27,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,S,599,COD,Gurugram,Tier 2,Other,"Very long, I am 5 ft and it drags"
+R-104979,OD80480290,2026-09-25,App,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,6-7Y,449,Prepaid,Gurugram,Tier 3,Other,rang pic jaisa nahi hai
+R-104980,OD25091946,2026-09-22,App,SKU-104873,V-39,Tiruppur,Womenswear,Top,XL,499,COD,Hyderabad,Tier 3,Size too large,
+R-104981,OD26922597,2026-09-21,App,SKU-104746,V-39,Tiruppur,Womenswear,Top,M,599,COD,Bhiwandi,Tier 3,Other,dusra le liya please return.
+R-104982,OD75008231,2026-09-24,App,SKU-100632,V-30,Tiruppur,Men's basics,Men's T-shirt,40,599,Prepaid,Hyderabad,Tier 2,Size too small,
+R-104685,OD53881454,2026-09-26,App,SKU-89567,V-04,Tiruppur,Womenswear,Leggings,Free Size,399,Prepaid,Hyderabad,Tier 2,Size too small,
+R-104983,OD58116387,2026-09-23,WhatsApp,SKU-103266,V-36,Jaipur,Womenswear,Palazzo,M,749,Prepaid,Hyderabad,Tier 2,Other,colour bleeds in water
+R-104984,OD96254787,2026-09-24,WhatsApp,SKU-90775,V-07,Jaipur,Womenswear,Saree,Free Size,1399,COD,Hyderabad,Tier 2,Quality not as expected,
+R-104985,OD46729096,2026-09-25,App,SKU-105645,V-19,Kolkata,Kidswear,School Shirt,6-7Y,399,COD,Gurugram,Tier 2,Changed my mind,
+R-104986,OD51859044,2026-09-23,WhatsApp,SKU-93793,V-14,Jaipur,Womenswear,Kurti,38,649,COD,Hyderabad,Tier 1,Other,bhaiya badaa aa gaya
+R-104987,OD82295649,2026-09-24,App,SKU-103750,V-37,Jaipur,Womenswear,Dress,40,1099,Prepaid,Bhiwandi,Tier 1,Changed my mind,
+R-104988,OD92408587,2026-09-26,App,SKU-97066,V-22,Tiruppur,Men's basics,Men's T-shirt,42,499,Prepaid,Bhiwandi,Tier 2,Other,"colour alag hai, whatsapp karo 9000011111 pe"
+R-104989,OD93933317,2026-09-25,App,SKU-99940,V-28,Surat,Womenswear,Kurti,M,549,Prepaid,Hyderabad,Tier 3,Other,sir chota pad gaya.
+R-104990,OD86344715,2026-09-27,App,SKU-94356,V-15,Jaipur,Womenswear,Kurti,38,699,Prepaid,Gurugram,Tier 1,Other,kadnhe se bada he.
+R-104991,OD55916450,2026-09-23,WhatsApp,SKU-96938,V-22,Tiruppur,Womenswear,Leggings,,449,Prepaid,Bhiwandi,Tier 3,Size too small,
+R-104992,OD48593403,2026-09-21,App,SKU-93753,V-14,Jaipur,Womenswear,Kurti,38,749,Prepaid,Gurugram,Tier 2,Other,kandhe se bada hai exchange chahiye 😔
+R-104993,OD60218487,2026-09-23,App,SKU-97107,V-23,Jaipur,Womenswear,Palazzo,S,599,COD,Bhiwandi,Tier 1,Other,bahut lamba hai.
+R-104994,OD38999412,2026-09-22,App,SKU-100644,V-30,Tiruppur,Men's basics,Men's T-shirt,42,449,Prepaid,Bhiwandi,Tier 3,Size too large,
+R-104995,OD33543648,2026-09-27,App,SKU-98432,V-25,Jaipur,Womenswear,Kurti,S,799,COD,Bhiwandi,Tier 1,Different from image,
+R-104996,OD71981809,2026-09-25,App,SKU-90686,V-07,Jaipur,Womenswear,Kurti,XL,749,Prepaid,Hyderabad,Tier 1,Other,size chhota nikla
+R-104997,OD83211539,2026-09-26,WhatsApp,SKU-92775,V-12,Tiruppur,Kidswear,Kids T-shirt,4-5Y,449,COD,Bhiwandi,Tier 3,Size too small,
+R-104998,OD32851131,2026-09-26,App,SKU-100439,V-29,Jaipur,Womenswear,Kurta Set,M,799,Prepaid,Gurugram,Tier 1,Other,ab nai chhaiye..
+R-104999,OD66907526,2026-09-23,App,SKU-90799,V-07,Jaipur,Womenswear,Saree,Free Size,1049,COD,Hyderabad,Tier 2,Different from image,
+R-105000,OD71679895,2026-09-23,App,SKU-101957,V-32,Jaipur,Womenswear,Saree,Free Size,1149,COD,Hyderabad,Tier 2,Quality not as expected,

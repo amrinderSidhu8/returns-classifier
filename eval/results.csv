@@ -1,0 +1,442 @@
+return_id,category,size_ordered,other_text,true_reason,reason,correct,secondary_reason,confidence,evidence,multiple_reasons,status,problem,scenario,language
+R-104003,Nightwear,42,achha nahi laga,unclear,changed_mind,False,,high,achha nahi laga,False,ok,,vague_or_junk,hinglish
+R-104008,Nightwear,38,Size is running small,fit,fit,True,,high,Size is running small,False,ok,,template,english
+R-104010,Kids T-shirt,6-7Y,2 ordder kar diye the ek rakhna hai,changed_mind,changed_mind,True,,high,2 ordder kar diye the ek rakhna hai,False,ok,,template,hinglish
+R-104011,Kids Shorts,20,delivery bohot late thi,delivery,delivery,True,,high,delivery bohot late thi,False,ok,,template,hinglish
+R-104013,Kurti,L,L mangaya par bahut bada lag raha he,fit,fit,True,,high,bahut bada lag raha he,False,ok,,template,hinglish
+R-104017,Kids Frock,28,Zip broke on day two,quality,quality,True,,high,Zip broke on day two,False,ok,,template,english
+R-104018,Dress,36,waist is too big.,fit,fit,True,,high,waist is too big,False,ok,,template,english
+R-104020,Men's T-shirt,44,waist is too big,fit,fit,True,,high,waist is too big,False,ok,,template,english
+R-104021,Kids T-shirt,4-5Y,bete ko loose he agle saal aayeag ek saiz chotaa bhejo,fit,fit,True,,high,bete ko loose he,False,ok,,template,hinglish
+R-104022,Kurti,40,kurti bahut tight hai,fit,fit,True,,high,kurti bahut tight hai,False,ok,,template,hinglish
+R-104025,Men's Track Pants,42,"42 likha hai par chota hai, dusre brand ka 42 aata hy mujhe",fit,fit,True,,high,42 likha hai par chota hai,False,ok,,template,hinglish
+R-104026,Palazzo,Free Size,સાઈઝ નાની છે,fit,fit,True,,high,સાઈઝ નાની છે,False,ok,,other_indian_script,other_script
+R-104027,Leggings,Free Size,very tight fitting,fit,fit,True,,high,very tight fitting,False,ok,,template,english
+R-104028,Dress,40,too small and the colour is not what was shown,fit,fit,True,not_as_shown,high,too small,True,ok,,two_reasons,english
+R-104030,Kurti,M,"pehle wala M theek tha, is baar ka M chota hai",fit,fit,True,,high,is baar ka M chota hai,False,ok,,boundary_label,hinglish
+R-104033,Kids Kurta Set,20,sleeves bohot lambi hai,fit,fit,True,,high,sleeves bohot lambi hai,False,ok,,template,hinglish
+R-104034,Saree,Free Size,"silai kharab, colour bhi photo jaisa nahi",quality,quality,True,not_as_shown,high,silai kharab,True,ok,,two_reasons,hinglish
+R-104038,Saree,Free Size,Bhaiya 2 piece ka order tha ek hi aya,wrong_or_damaged,wrong_or_damaged,True,,high,Bhaiya 2 piece ka order tha ek hi aya,False,ok,,template,hinglish
+R-104040,Men's T-shirt,L,Tshirt dhone ke baad chhota ho gaya.,quality,quality,True,,high,Tshirt dhone ke baad chhota ho gaya.,False,ok,,template,hinglish
+R-104041,Men's T-shirt,38,kandhe se chota hai ek size badaa bhej do,fit,fit,True,,high,kandhe se chota hai,False,ok,,template,hinglish
+R-104042,Kurta Set,40,लंबाई कम है,fit,fit,True,,high,लंबाई कम है,False,ok,,template,devanagari
+R-104043,Men's T-shirt,S,"Length choti hai, kapda bhi transparent!!",fit,fit,True,quality,high,Length choti hai,True,ok,,two_reasons,hinglish
+R-104044,Top,38,कपड़ा बहुत पतला है,quality,quality,True,,high,कपड़ा बहुत पतला है,False,ok,,template,devanagari
+R-104048,Top,36,Length is short for 36!!,fit,fit,True,,high,Length is short,False,ok,,template,english
+R-104049,Kurta Set,40,waist bahut tight hai baith nahi sakti,fit,fit,True,,high,waist bahut tight hai,False,ok,,template,hinglish
+R-104052,Kurti,38,बहुत टाइट है,fit,fit,True,,high,बहुत टाइट है,False,ok,,template,devanagari
+R-104054,Kids Kurta Set,24,size is running small,fit,fit,True,,high,size is running small,False,ok,,template,english
+R-104055,Saree,Free Size,CHEAP MATERIAL 😡,quality,quality,True,,high,CHEAP MATERIAL,False,ok,,template,english
+R-104057,Leggings,Free Size,hips pe tight hai niche nai aa raha,fit,fit,True,,high,hips pe tight hai,False,ok,,template,hinglish
+R-104058,Palazzo,M,SIR ITNA LAMBA HE KI KATWANA PADEGA!!,fit,fit,True,,high,SIR ITNA LAMBA HE KI KATWANA PADEGA!!,False,ok,,template,hinglish
+R-104059,Palazzo,Free Size,palazzo hips pe tyt hai niche nahi aa raha jaldi pickup karo,fit,fit,True,,high,palazzo hips pe tyt hai,False,ok,,template,hinglish
+R-104061,Men's Track Pants,42,😡😡,unclear,unclear,True,,high,,False,skipped_junk,,symbols_or_emoji,none
+R-104063,Leggings,Free Size,free size bola tha par mujhe nahi aata,fit,fit,True,,high,mujhe nahi aata,False,ok,,boundary_label,hinglish
+R-104065,Kids Frock,4-5Y,size isuse,fit,fit,True,,high,size isuse,False,ok,,template,hinglish
+R-104066,Leggings,Free Size,tight hai nahi aaya,fit,fit,True,,high,tight hai,False,ok,,template,hinglish
+R-104069,Dress,40,colour bilkul alag hai photo me mustard tha ye peela hai..,not_as_shown,not_as_shown,True,,high,colour bilkul alag hai photo me mustard tha ye peela hai..,False,ok,,template,hinglish
+R-104072,Kids Kurta Set,20,hello baazu m fasta he.,fit,fit,True,,high,baazu m fasta he,False,ok,,template,hinglish
+R-104074,Kids Shorts,4-5Y,Received a different item,wrong_or_damaged,wrong_or_damaged,True,,high,Received a different item,False,ok,,template,english
+R-104075,Kids Frock,4-5Y,frock bahut lambaa hai pair me aata hai,fit,fit,True,,high,frock bahut lambaa hai,False,ok,,template,hinglish
+R-104076,Kurta Set,S,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104079,Dress,44,"colour alag hai, upar se bust pe tight",not_as_shown,not_as_shown,True,fit,high,colour alag hai,True,ok,,two_reasons,hinglish
+R-104084,Saree,Free Size,colour alag hy photo se,not_as_shown,not_as_shown,True,,high,colour alag hy photo se,False,ok,,template,hinglish
+R-104085,Palazzo,S,length is too long for me,fit,fit,True,,high,length is too long for me,False,ok,,template,english
+R-104091,Men's Track Pants,XL,बहुत टाइट है,fit,fit,True,,high,बहुत टाइट है,False,ok,,template,devanagari
+R-104092,Men's T-shirt,XL,hello fit nahi aaya 😡,fit,fit,True,,high,fit nahi aaya,False,ok,,template,hinglish
+R-104095,Kids Frock,20,cohta pad gaya,fit,fit,True,,high,cohta pad gaya,False,ok,,template,hinglish
+R-104098,Kids Frock,4-5Y,phata hua aaya aur late bhi,wrong_or_damaged,wrong_or_damaged,True,delivery,high,phata hua aaya,True,ok,,two_reasons,hinglish
+R-104101,Men's T-shirt,XL,साइज़ छोटा है,fit,fit,True,,high,साइज़ छोटा है,False,ok,,template,devanagari
+R-104103,Saree,Free Size,😞,unclear,unclear,True,,high,,False,skipped_junk,,symbols_or_emoji,none
+R-104104,Kurti,S,size சின்னதா இருக்கு,fit,fit,True,,high,size சின்னதா இருக்கு,False,ok,,other_indian_script,other_script
+R-104105,Kurta Set,XXL,"XXL is too small, need one size up..",fit,fit,True,,high,XXL is too small,False,ok,,template,english
+R-104107,Top,38,upar se bohot dheela hai.,fit,fit,True,,high,upar se bohot dheela hai.,False,ok,,template,hinglish
+R-104108,School Shirt,2-3Y,bacche ko bahut bada hai,fit,fit,True,,high,bahut bada hai,False,ok,,template,hinglish
+R-104109,Palazzo,34,...,unclear,unclear,True,,high,,False,skipped_junk,,symbols_or_emoji,none
+R-104115,Men's Track Pants,42,Photo se alag he & kpda bhi patla.,not_as_shown,not_as_shown,True,quality,high,Photo se alag he,True,ok,,two_reasons,hinglish
+R-104117,Kurti,L,issue,unclear,unclear,True,,high,,False,ok,,vague_or_junk,english
+R-104118,Men's T-shirt,L,"fit was fine, shrakn after washing 😞",quality,quality,True,,high,shrakn after washing,False,ok,,template,english
+R-104120,Kids T-shirt,20,length chhoti hai,fit,fit,True,,high,length chhoti hai,False,ok,,template,hinglish
+R-104129,Kids Kurta Set,24,tight on chest,fit,fit,True,,high,tight on chest,False,ok,,template,english
+R-104130,Nightwear,44,SAIZ KA PROBLEM HAI,fit,fit,True,,high,SAIZ KA PROBLEM HAI,False,ok,,template,hinglish
+R-104131,Kurti,40,Wrong product received,wrong_or_damaged,wrong_or_damaged,True,,high,Wrong product received,False,ok,,template,english
+R-104133,Kids Kurta Set,22,4 saal ke bacche ko bahut bda aa gaya.,fit,fit,True,,high,bahut bda aa gaya,False,ok,,template,hinglish
+R-104135,Top,XL,chhota pad gaya paisa wapas chahiye,fit,fit,True,,high,chhota pad gaya,False,ok,,template,hinglish
+R-104141,Top,38,bakwas hai bilkul,unclear,changed_mind,False,,high,bakwas hai bilkul,False,ok,,boundary_label,hinglish
+R-104144,School Shirt,6-7Y,school shirt do din me phat gaya,quality,quality,True,,high,school shirt do din me phat gaya,False,ok,,template,hinglish
+R-104147,Kurti,42,tite hai nahi aaya jaldi pickup karo,fit,fit,True,,high,tite hai,False,ok,,template,hinglish
+R-104148,Kurti,L,"bust is very tight in L, rest is fine",fit,fit,True,,high,bust is very tight in L,False,ok,,template,english
+R-104150,Dress,XL,call 9012345678,unclear,unclear,True,,high,,False,ok,,personal_details,english
+R-104153,Kurta Set,38,बहुत टाइट है,fit,fit,True,,high,बहुत टाइट है,False,ok,,template,devanagari
+R-104154,Kurta Set,38,rang utar gaya!!,quality,quality,True,,high,rang utar gaya!!,False,ok,,template,hinglish
+R-104159,Palazzo,M,length badi hai M me bhi,fit,fit,True,,high,length badi hai,False,ok,,template,hinglish
+R-104161,Kids Frock,10-11Y,"bahut lamba hai. ghar ka pata Flat 302, Sai Residency, Warangal",fit,fit,True,,high,bahut lamba hai,False,ok,,personal_details,hinglish
+R-104162,Kurti,M,pls return,unclear,unclear,True,,high,,False,ok,,vague_or_junk,english
+R-104163,Kurta Set,XL,too loose at the chest,fit,fit,True,,high,too loose at the chest,False,ok,,template,english
+R-104168,Kurta Set,36,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104171,Palazzo,M,"very long, I am 5 ft and it drags",fit,fit,True,,high,"very long, I am 5 ft and it drags",False,ok,,template,english
+R-104172,Kids Frock,20,baju tight hai aur dhaga bhi nikal raha,fit,fit,True,quality,high,baju tight hai,True,ok,,two_reasons,hinglish
+R-104173,Kids Kurta Set,22,too loose at the chest,fit,fit,True,,high,too loose at the chest,False,ok,,template,english
+R-104177,Kids Shorts,22,shorts bahut tight hy!!,fit,fit,True,,high,shorts bahut tight hy!!,False,ok,,template,hinglish
+R-104178,Men's Track Pants,L,size chota hai aur colour bhi alag hai,fit,fit,True,not_as_shown,high,size chota hai,True,ok,,two_reasons,hinglish
+R-104179,Saree,Free Size,photo me gota patit thi isme nahi hai.,not_as_shown,not_as_shown,True,,high,photo me gota patit thi isme nahi hai,False,ok,,template,hinglish
+R-104189,Men's T-shirt,XL,transparent he andar ka dikh raha hai 😔,quality,quality,True,,high,transparent he andar ka dikh raha hai,False,ok,,template,hinglish
+R-104197,Top,38,chest tight hai aur ek wash me rang bhi gaya,fit,fit,True,quality,high,chest tight hai,True,ok,,two_reasons,hinglish
+R-104198,Kurti,M,too small.,fit,fit,True,,high,too small.,False,ok,,template,english
+R-104199,Kurti,XXL,"bust pe tight hai, baki theek hai par colour thoda alag",fit,fit,True,not_as_shown,high,bust pe tight hai,True,ok,,two_reasons,hinglish
+R-104202,Dress,M,bust pe bohot tight hai.,fit,fit,True,,high,bust pe bohot tight hai,False,ok,,template,hinglish
+R-104203,Men's T-shirt,M,tshirt material alag hai description se,not_as_shown,not_as_shown,True,,high,tshirt material alag hai description se,False,ok,,template,hinglish
+R-104204,Top,M,print alag hai.,not_as_shown,not_as_shown,True,,high,print alag hai,False,ok,,template,hinglish
+R-104205,Kids Frock,24,frock bcche ko chota hai exchange chaiye,fit,fit,True,,high,frock bcche ko chota hai,False,ok,,template,hinglish
+R-104211,Men's T-shirt,42,lamba bahut hai aur kapda bhi halka hai,fit,fit,True,quality,high,lamba bahut hai,True,ok,,two_reasons,hinglish
+R-104214,Kids T-shirt,4-5Y,imae se bilkul alag..,not_as_shown,not_as_shown,True,,high,imae se bilkul alag..,False,ok,,template,hinglish
+R-104215,Kurta Set,S,S MANGAAYA PAR BAHUT BADA LAG RAHA HAI.,fit,fit,True,,high,BAHUT BADA LAG RAHA HAI,False,ok,,template,hinglish
+R-104221,Kids Shorts,24,lambai jyada hy..,fit,fit,True,,high,lambai jyada hy..,False,ok,,template,hinglish
+R-104225,Kurti,40,bust pe loose hai.,fit,fit,True,,high,bust pe loose hai,False,ok,,template,hinglish
+R-104227,Kurti,L,shoulders too narrow,fit,fit,True,,high,shoulders too narrow,False,ok,,template,english
+R-104229,Palazzo,M,bahut lmba hai paisa wapas chahie,fit,fit,True,,high,bahut lmba hai,False,ok,,template,hinglish
+R-104230,Kids Frock,10-11Y,ek wosh me sikud gaya,quality,quality,True,,high,ek wosh me sikud gaya,False,ok,,template,hinglish
+R-104233,Men's T-shirt,42,too sall,fit,fit,True,,high,too sall,False,ok,,template,english
+R-104234,Men's T-shirt,XL,Shrunk aftr one wash,quality,quality,True,,high,Shrunk aftr one wash,False,ok,,template,english
+R-104235,Kurti,38,LAMBAI KAM HAI,fit,fit,True,,high,LAMBAI KAM HAI,False,ok,,template,hinglish
+R-104236,Kurti,36,लेट आया,delivery,delivery,True,,high,लेट आया,False,ok,,template,devanagari
+R-104239,Kurta Set,42,bust pe bahut tight hai,fit,fit,True,,high,bust pe bahut tight hai,False,ok,,template,hinglish
+R-104240,School Shirt,4-5Y,sleeves bht lambi hain,fit,fit,True,,high,sleeves bht lambi hain,False,ok,,template,hinglish
+R-104242,Kids Frock,2-3Y,hole ater one use,quality,quality,True,,high,hole ater one use,False,ok,,template,english
+R-104244,Saree,Free Size,photo me bright pink dikh raha tha ye pheeka hai,not_as_shown,not_as_shown,True,,high,photo me bright pink dikh raha tha ye pheeka hai,False,ok,,template,hinglish
+R-104249,Nightwear,42,siz issue,fit,fit,True,,high,siz issue,False,ok,,template,hinglish
+R-104251,Kids Frock,22,do din m phat gaya,quality,quality,True,,high,do din m phat gaya,False,ok,,template,hinglish
+R-104252,Men's T-shirt,42,"poor stitching, threads coming out",quality,quality,True,,high,"poor stitching, threads coming out",False,ok,,template,english
+R-104254,Palazzo,M,lambai kam hai,fit,fit,True,,high,lambai kam hai,False,ok,,template,hinglish
+R-104255,Kurti,M,late aaya aur size bhi bada hai,delivery,delivery,True,fit,high,late aaya,True,ok,,two_reasons,hinglish
+R-104256,Men's T-shirt,L,dhulne ke baad sikud gaya exchange chahiye.,quality,quality,True,,high,dhulne ke baad sikud gaya,False,ok,,template,hinglish
+R-104259,Palazzo,Free Size,kulhe pe bahut tight hai,fit,fit,True,,high,kulhe pe bahut tight hai,False,ok,,template,hinglish
+R-104260,Men's T-shirt,38,too short in length,fit,fit,True,,high,too short in length,False,ok,,template,english
+R-104261,Men's T-shirt,40,Colour faded after first wash,quality,quality,True,,high,Colour faded after first wash,False,ok,,template,english
+R-104265,Men's T-shirt,42,"photo me lambi dikh rahi thi, ye bahut choti hai",fit,not_as_shown,False,not_as_shown,high,photo me lambi dikh rahi thi,False,ok,,boundary_label,hinglish
+R-104268,Kurti,44,size is running small,fit,fit,True,,high,size is running small,False,ok,,template,english
+R-104270,Kids Frock,28,size చిన్నగా ఉంది,fit,fit,True,,high,size చిన్నగా ఉంది,False,ok,,other_indian_script,other_script
+R-104272,Top,XXL,सीने पर बहुत टाइट है,fit,fit,True,,high,सीने पर बहुत टाइट है,False,ok,,template,devanagari
+R-104273,School Shirt,6-7Y,photo se alag hai aur kapda bhi patla,not_as_shown,not_as_shown,True,quality,high,photo se alag hai,True,ok,,two_reasons,hinglish
+R-104274,Kids Frock,6-7Y,USED PRODUCT BHEJA HY,wrong_or_damaged,wrong_or_damaged,True,,high,USED PRODUCT BHEJA HY,False,ok,,template,hinglish
+R-104275,Palazzo,M,Dhila dhala hai,fit,fit,True,,high,Dhila dhala hai,False,ok,,template,hinglish
+R-104276,Kurti,XL,"XL is too big, need one size down",fit,fit,True,,high,XL is too big,False,ok,,template,english
+R-104277,Kids T-shirt,6-7Y,Size is running large,fit,fit,True,,high,Size is running large,False,ok,,template,english
+R-104280,Kurti,40,bhaiya dhaga nikal raha hy,quality,quality,True,,high,dhaga nikal raha hy,False,ok,,template,hinglish
+R-104287,Kurta Set,38,kalar bilkul alag h foto m mustard tha ye peela hai,not_as_shown,not_as_shown,True,,high,kalar bilkul alag h foto m mustard tha ye peela hai,False,ok,,template,hinglish
+R-104288,Kurta Set,44,bust pe loos hai.,fit,fit,True,,high,bust pe loos hai,False,ok,,template,hinglish
+R-104290,Kurta Set,44,ek wosh me roye aa gaye,quality,quality,True,,high,ek wosh me roye aa gaye,False,ok,,template,hinglish
+R-104294,Men's Track Pants,S,Kulhe pe bhut tite hai please return.,fit,fit,True,,high,Kulhe pe bhut tite hai,False,ok,,template,hinglish
+R-104295,Kids T-shirt,6-7Y,design photo jaisa nai hai,not_as_shown,not_as_shown,True,,high,design photo jaisa nai hai,False,ok,,template,hinglish
+R-104296,Palazzo,Free Size,pet par tihgt hai,fit,fit,True,,high,pet par tihgt hai,False,ok,,template,hinglish
+R-104297,Men's T-shirt,40,kamar pe tight hai aur silai bhi kharab hai,fit,fit,True,quality,high,kamar pe tight hai,True,ok,,two_reasons,hinglish
+R-104299,Kids T-shirt,6-7Y,saiz chota h,fit,fit,True,,high,saiz chota h,False,ok,,template,hinglish
+R-104301,Dress,XL,stain on the cloth on arrival,wrong_or_damaged,wrong_or_damaged,True,,high,stain on the cloth on arrival,False,ok,,template,english
+R-104303,Men's T-shirt,L,ek wash me sikud gaya 😔,quality,quality,True,,high,ek wash me sikud gaya,False,ok,,template,hinglish
+R-104304,Men's T-shirt,L,Dhone ke baad chotaa ho gaya,quality,quality,True,,high,Dhone ke baad chotaa ho gaya,False,ok,,template,hinglish
+R-104305,Palazzo,M,"very long, I am 5 ft and it drags..",fit,fit,True,,high,"very long, I am 5 ft and it drags..",False,ok,,template,english
+R-104307,Men's T-shirt,L,धोने के बाद छोटा हो गया,quality,quality,True,,high,धोने के बाद छोटा हो गया,False,ok,,template,devanagari
+R-104309,Dress,38,Time par nhi aaya,delivery,delivery,True,,high,Time par nhi aaya,False,ok,,template,hinglish
+R-104310,Kids T-shirt,24,bacche ko chota hai aur print bhi alag hai,fit,fit,True,not_as_shown,high,bacche ko chota hai,True,ok,,two_reasons,hinglish
+R-104312,Kurti,40,do not need it anmyore,changed_mind,changed_mind,True,,high,do not need it anmyore,False,ok,,template,english
+R-104313,Saree,Free Size,"pehli baar order kiya, embroidery nahi hai jo foto me thi 😔",not_as_shown,not_as_shown,True,,high,embroidery nahi hai jo foto me thi,False,ok,,template,hinglish
+R-104315,Kurti,M,armhole too tgiht,fit,fit,True,,high,armhole too tgiht,False,ok,,template,english
+R-104319,Kids T-shirt,6-7Y,.,unclear,unclear,True,,high,,False,skipped_junk,,symbols_or_emoji,none
+R-104321,School Shirt,10-11Y,kamar pe tight hai. pickup ke liye mera number 91234 56780,fit,fit,True,,high,kamar pe tight hai,False,ok,,personal_details,hinglish
+R-104328,Kurti,M,Dekhiye upar se tight he niche se theek hy 😔,fit,fit,True,,high,Dekhiye upar se tight he niche se theek hy,False,ok,,template,hinglish
+R-104330,Kids T-shirt,2-3Y,print alag hai aur size bhi chota,not_as_shown,not_as_shown,True,fit,high,print alag hai,True,ok,,two_reasons,hinglish
+R-104332,Kids T-shirt,6-7Y,small size.,fit,fit,True,,high,small size,False,ok,,template,english
+R-104333,Leggings,Free Size,👎,unclear,unclear,True,,high,,False,skipped_junk,,symbols_or_emoji,none
+R-104335,Kids Frock,4-5Y,2 piece ka order tha ek hi aya,wrong_or_damaged,wrong_or_damaged,True,,high,2 piece ka order tha ek hi aya,False,ok,,template,hinglish
+R-104336,School Shirt,4-5Y,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104344,Kids T-shirt,28,SHOULDER FIT NAHI HO RAHA CHOTA HAI,fit,fit,True,,high,SHOULDER FIT NAHI HO RAHA CHOTA HAI,False,ok,,template,hinglish
+R-104346,Top,42,stitching lose hai side se,quality,quality,True,,high,stitching lose hai side se,False,ok,,template,hinglish
+R-104347,Saree,Free Size,ek wash m rang nikal gaya refund kar do,quality,quality,True,,high,ek wash m rang nikal gaya,False,ok,,template,hinglish
+R-104348,School Shirt,6-7Y,sleeves too long 😔,fit,fit,True,,high,sleeves too long,False,ok,,template,english
+R-104351,Kids Kurta Set,26,print alag he,not_as_shown,not_as_shown,True,,high,print alag he,False,ok,,template,hinglish
+R-104353,Kurti,L,"L IS TOO SMALL, NEED ONE SIZE UP.",fit,fit,True,,high,L IS TOO SMALL,False,ok,,template,english
+R-104356,Leggings,S,कमर पे टाइट है,fit,fit,True,,high,कमर पे टाइट है,False,ok,,template,devanagari
+R-104357,Kurti,M,size ka problem hy exchange chahiye,fit,fit,True,,high,size ka problem hy,False,ok,,template,hinglish
+R-104358,Kids T-shirt,20,siz issuue,fit,fit,True,,high,siz issuue,False,ok,,template,hinglish
+R-104360,Saree,Free Size,used product bheja hai.,wrong_or_damaged,wrong_or_damaged,True,,high,used product bheja hai.,False,ok,,template,hinglish
+R-104361,School Shirt,6-7Y,Chest pe dhila h,fit,fit,True,,high,Chest pe dhila h,False,ok,,template,hinglish
+R-104363,Kids T-shirt,6-7Y,smalll size,fit,fit,True,,high,smalll size,False,ok,,template,english
+R-104370,Men's T-shirt,M,"customer care ko 3 baar call kiya koi nahi uthata, whatsapp pe bhi reply nahi, mujhe bas return karna hai, aap log pickup kab bhejoge",unclear,changed_mind,False,,high,mujhe bas return karna hai,False,ok,,long_text,hinglish
+R-104371,Men's T-shirt,40,"kapda dekhne me acha hai, design bhi theek hai, par ek hi baar dhoya aur tshirt itni chhoti ho gayi ki mere chote bhai ko aati hai ab, paise barbaad ho gaye, dobara nahi lunga is brand se",quality,quality,True,,high,ek hi baar dhoya aur tshirt itni chhoti ho gayi,False,ok,,long_text,hinglish
+R-104372,Dress,XL,Size is running smlal..,fit,fit,True,,high,Size is running smlal..,False,ok,,template,english
+R-104374,Kurti,36,stitching is bad and it is also loose at the waist,quality,quality,True,fit,high,stitching is bad,True,ok,,two_reasons,english
+R-104376,School Shirt,10-11Y,ab nahi chhahiye,changed_mind,changed_mind,True,,high,ab nahi chhahiye,False,ok,,template,hinglish
+R-104377,Kids T-shirt,6-7Y,stan on the cloth on arrival,wrong_or_damaged,wrong_or_damaged,True,,high,stan on the cloth on arrival,False,ok,,template,english
+R-104382,Kids Frock,6-7Y,"I ordered this for my daughter's school function. The delivery boy came on time and the packing was good, but when she wore it the frock was almost to her ankles and the shoulders kept slipping. She is 6 and I ordered 6-7Y. Please send a smaller size.",fit,fit,True,,high,the frock was almost to her ankles and the shoulders kept slipping,False,ok,,long_text,english
+R-104383,Saree,Free Size,cloth too thin for this price,quality,quality,True,,high,cloth too thin for this price,False,ok,,template,english
+R-104384,Palazzo,Free Size,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104385,Kids Kurta Set,24,too small for my son,fit,fit,True,,high,too small for my son,False,ok,,template,english
+R-104386,Kids T-shirt,26,"pehli baar order kiya, stitching loose hai side se!!",quality,quality,True,,high,stitching loose hai side se,False,ok,,template,hinglish
+R-104388,Kids T-shirt,4-5Y,FOUND CHEAPER ELSEWHERE,changed_mind,changed_mind,True,,high,FOUND CHEAPER ELSEWHERE,False,ok,,template,english
+R-104390,Kids T-shirt,4-5Y,bete ko loose hai agle saal aayega paisa wapas chahiye,fit,fit,True,,high,bete ko loose hai,False,ok,,template,hinglish
+R-104391,Dress,XL,size is running small.,fit,fit,True,,high,size is running small.,False,ok,,template,english
+R-104392,Kurti,L,L mangaya tha par bahut chhota hai,fit,fit,True,,high,L mangaya tha par bahut chhota hai,False,ok,,template,hinglish
+R-104398,Men's T-shirt,42,"tight hai,
+kamar pe bhi aur hips pe bhi",fit,fit,True,,high,"tight hai, kamar pe bhi aur hips pe bhi",False,ok,,csv_quotes_commas_newline,hinglish
+R-104399,Kurti,38,ordered by mistake,changed_mind,changed_mind,True,,high,ordered by mistake,False,ok,,template,english
+R-104402,Saree,Free Size,dhulne ke baad sikud gaya,quality,quality,True,,high,dhulne ke baad sikud gaya,False,ok,,template,hinglish
+R-104407,Men's T-shirt,44,seene par fit nai ho raha,fit,fit,True,,high,seene par fit nai ho raha,False,ok,,template,hinglish
+R-104408,Kurti,40,"40 order kiya tha, qwality achi nahin hai refund kar do",quality,quality,True,,high,qwality achi nahin hai,False,ok,,template,hinglish
+R-104409,Kurti,S,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104411,Top,42,"pickup address: 14, Shanti Nagar, SBI ATM ke paas, Kota 324001. size bada hai",fit,fit,True,,high,size bada hai,False,ok,,personal_details,hinglish
+R-104413,Top,XXL,length choti hai 😔,fit,fit,True,,high,length choti hai,False,ok,,template,hinglish
+R-104416,Kids Shorts,22,Not as shown.,not_as_shown,not_as_shown,True,,high,Not as shown.,False,ok,,template,english
+R-104419,Top,M,bust area me fasa hua lagta hai,fit,fit,True,,high,bust area me fasa hua lagta hai,False,ok,,template,hinglish
+R-104420,Kids T-shirt,4-5Y,size is running small,fit,fit,True,,high,size is running small,False,ok,,template,english
+R-104422,Kids Shorts,8-9Y,theek nahi tha,unclear,unclear,True,,low,,False,ok,,vague_or_junk,hinglish
+R-104423,Kids Frock,4-5Y,size bada he,fit,fit,True,,high,size bada he,False,ok,,template,hinglish
+R-104428,Kids T-shirt,6-7Y,Too small for my son 🙏,fit,fit,True,,high,Too small for my son,False,ok,,template,english
+R-104429,Palazzo,28,Too loose around the hips,fit,fit,True,,high,Too loose around the hips,False,ok,,template,english
+R-104430,Saree,Free Size,रंग फोटो जैसा नहीं है,not_as_shown,not_as_shown,True,,high,रंग फोटो जैसा नहीं है,False,ok,,template,devanagari
+R-104433,Kids Shorts,8-9Y,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104439,School Shirt,6-7Y,upar se bahut dhilla hai!!,fit,fit,True,,high,upar se bahut dhilla hai!!,False,ok,,template,hinglish
+R-104448,Men's Track Pants,40,"poor stitching, threads cominng out 😞",quality,quality,True,,high,"poor stitching, threads cominng out",False,ok,,template,english
+R-104452,Kids T-shirt,6-7Y,size chota hai exchange ke liye call karo 9876543210,fit,fit,True,,high,size chota hai,False,ok,,personal_details,hinglish
+R-104455,Kurta Set,38,too tight at the waist,fit,fit,True,,high,too tight at the waist,False,ok,,template,english
+R-104456,Leggings,M,"length choti hai, kapda bhi transparent",fit,fit,True,quality,high,length choti hai,True,ok,,two_reasons,hinglish
+R-104460,Kids Shorts,6-7Y,na,unclear,unclear,True,,high,,False,ok,,vague_or_junk,english
+R-104461,Kurti,S,length choti he,fit,fit,True,,high,length choti he,False,ok,,template,hinglish
+R-104462,Saree,Free Size,"looks dull, photo showed a birght shade",not_as_shown,not_as_shown,True,,high,"looks dull, photo showed a birght shade",False,ok,,template,english
+R-104463,Kurti,38,Packet khula hua tha nd kapda ganda tha.,wrong_or_damaged,wrong_or_damaged,True,,high,Packet khula hua tha nd kapda ganda tha.,False,ok,,template,hinglish
+R-104466,Kurti,L,chotaa pad gaya please return.,fit,fit,True,,high,chotaa pad gaya,False,ok,,template,hinglish
+R-104467,Men's Track Pants,L,"galat item aaya, mujhe call karo 98111 22233 shaam 6 baje ke baad",wrong_or_damaged,wrong_or_damaged,True,,high,galat item aaya,False,ok,,personal_details,hinglish
+R-104468,Kids T-shirt,4-5Y,Baby ko taighht hai!!,fit,fit,True,,high,Baby ko taighht hai!!,False,ok,,template,hinglish
+R-104469,Men's Track Pants,40,Size chhota nikla.,fit,fit,True,,high,Size chhota nikla.,False,ok,,template,hinglish
+R-104472,Kurti,M,"M likha hy par chota hai, dusre brand ka M aata hai mujhe",fit,fit,True,,high,chota hai,False,ok,,template,hinglish
+R-104474,Kids Kurta Set,22,tight hai aur rang bhi nikal raha hai,fit,fit,True,quality,high,tight hai,True,ok,,two_reasons,hinglish
+R-104475,Saree,Free Size,screeen pe green tha asli me mehendi color hai jaldi pickup karo 🙏,not_as_shown,not_as_shown,True,,high,screeen pe green tha asli me mehendi color hai,False,ok,,template,hinglish
+R-104478,Men's T-shirt,L,ek wash me sikud gaya,quality,quality,True,,high,ek wash me sikud gaya,False,ok,,template,hinglish
+R-104483,Top,36,बहुत लंबा है,fit,fit,True,,high,बहुत लंबा है,False,ok,,template,devanagari
+R-104484,Kids T-shirt,6-7Y,mam size ka prblem hai exchange chahie,fit,fit,True,,high,size ka prblem hai,False,ok,,template,hinglish
+R-104778,Leggings,Free Size,design photo jaisa nahi hai paisa wapas chahiye,not_as_shown,not_as_shown,True,,high,design photo jaisa nahi hai,False,ok,,template,hinglish
+R-104485,Kids Frock,28,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104489,Palazzo,Free Size,সাইজ ছোট হয়েছে,fit,fit,True,,high,সাইজ ছোট হয়েছে,False,ok,,other_indian_script,other_script
+R-104490,Kids Frock,6-7Y,bete ko chhota pad gaya 6-7Y mangaya tha,fit,fit,True,,high,chhota pad gaya,False,ok,,template,hinglish
+R-104491,Top,L,L mangaya tha par chest pe bahut tight he,fit,fit,True,,high,chest pe bahut tight he,False,ok,,template,hinglish
+R-104494,Saree,Free Size,shade is not the same as shown..,not_as_shown,not_as_shown,True,,high,shade is not the same as shown..,False,ok,,template,english
+R-104495,Kids T-shirt,4-5Y,too tight at the waist..,fit,fit,True,,high,too tight at the waist,False,ok,,template,english
+R-104500,Kurti,L,Chest pr tight aa raha hai.,fit,fit,True,,high,Chest pr tight aa raha hai.,False,ok,,template,hinglish
+R-104501,Leggings,Free Size,leggings ki lambai bhut kam h ek size bada bhej do,fit,fit,True,,high,leggings ki lambai bhut kam h,False,ok,,template,hinglish
+R-104503,Dress,XL,do not need it anymore!!,changed_mind,changed_mind,True,,high,do not need it anymore!!,False,ok,,template,english
+R-104505,Kids Shorts,22,"POOR STITCHING, THREADS COMING OUT",quality,quality,True,,high,"POOR STITCHING, THREADS COMING OUT",False,ok,,template,english
+R-104508,Dress,36,-,unclear,unclear,True,,high,,False,skipped_junk,,symbols_or_emoji,none
+R-104510,Palazzo,30,size chart ke hisab se liya tha phir bhi chota hai,fit,fit,True,,high,chota hai,False,ok,,boundary_label,hinglish
+R-104511,Saree,Free Size,Fabric is see through,quality,quality,True,,high,Fabric is see through,False,ok,,template,english
+R-104512,Kurta Set,42,kurta set galti se order ho gaya,changed_mind,changed_mind,True,,high,galti se order ho gaya,False,ok,,template,hinglish
+R-104515,Kids Shorts,24,lambai jyada hai,fit,fit,True,,high,lambai jyada hai,False,ok,,template,hinglish
+R-104516,Kurti,XXL,लंबाई कम है,fit,fit,True,,high,लंबाई कम है,False,ok,,template,devanagari
+R-104517,Kids Kurta Set,24,armhole too tigght,fit,fit,True,,high,armhole too tigght,False,ok,,template,english
+R-104518,Top,L,-,unclear,unclear,True,,high,,False,skipped_junk,,symbols_or_emoji,none
+R-104519,Saree,Free Size,transparent hy andar ka dikh raha hai return kar do pls,quality,quality,True,,high,transparent hy andar ka dikh raha hai,False,ok,,template,hinglish
+R-104520,Kids Kurta Set,22,sleves are too short.,fit,fit,True,,high,sleves are too short.,False,ok,,template,english
+R-104525,Kurta Set,44,"44 is too big, need one size down",fit,fit,True,,high,44 is too big,False,ok,,template,english
+R-104526,Kurti,M,bust pr bohot tight hai,fit,fit,True,,high,bust pr bohot tight hai,False,ok,,template,hinglish
+R-104527,Kids T-shirt,6-7Y,SHUOLDER PR TIGHT HAI.,fit,fit,True,,high,SHUOLDER PR TIGHT HAI.,False,ok,,template,hinglish
+R-104528,Men's T-shirt,M,"size ""M"" likha hai, par aata ""S"" jaisa hai",fit,fit,True,,high,"size ""M"" likha hai, par aata ""S"" jaisa hai",False,ok,,csv_quotes_commas_newline,hinglish
+R-104531,Kids Frock,4-5Y,-,unclear,unclear,True,,high,,False,skipped_junk,,symbols_or_emoji,none
+R-104534,Kurti,36,labmai kam hai,fit,fit,True,,high,labmai kam hai,False,ok,,template,hinglish
+R-104535,Leggings,M,"M likha hy par chota hai, dusre brand ka M aata hai mujhe ek size bada bhej do.",fit,fit,True,,high,M likha hy par chota hai,False,ok,,template,hinglish
+R-104536,Leggings,Free Size,"pasand nahi aaya, size bhi bada hai",changed_mind,changed_mind,True,fit,high,pasand nahi aaya,True,ok,,two_reasons,hinglish
+R-104537,Kurti,M,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104538,Kurta Set,38,do din mein phat gaya,quality,quality,True,,high,do din mein phat gaya,False,ok,,template,hinglish
+R-104540,Men's T-shirt,L,ek wosh me sikud gaya exchange chahie!!,quality,quality,True,,high,ek wosh me sikud gaya,False,ok,,template,hinglish
+R-104541,Kids Frock,4-5Y,"4-5Y order kiya tha, bete ko loose hai agle saal aayega!!",fit,fit,True,,high,bete ko loose hai,False,ok,,template,hinglish
+R-104542,Kids T-shirt,6-7Y,bete ko chotaa pad gaya 6-7Y mangaya tha,fit,fit,True,,high,chotaa pad gaya,False,ok,,template,hinglish
+R-104545,Kurti,40,size bada he return kar do pls,fit,fit,True,,high,size bada he,False,ok,,template,hinglish
+R-104546,Kurti,M,seene pe fit nahi ho raha,fit,fit,True,,high,seene pe fit nahi ho raha,False,ok,,template,hinglish
+R-104549,Kurta Set,L, ,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104551,Top,40,upar se tight h niche se theek hai please return,fit,fit,True,,high,upar se tight h,False,ok,,template,hinglish
+R-104553,Dress,M,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104556,Kurta Set,40,too short in length!!,fit,fit,True,,high,too short in length!!,False,ok,,template,english
+R-104558,Saree,Free Size,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104560,Kids Frock,24,2 order kar diye the ek rakhna hai.,changed_mind,changed_mind,True,,high,2 order kar diye the ek rakhna hai.,False,ok,,template,hinglish
+R-104562,Saree,Free Size,रंग फोटो जैसा नहीं है,not_as_shown,not_as_shown,True,,high,रंग फोटो जैसा नहीं है,False,ok,,template,devanagari
+R-104563,Kids T-shirt,6-7Y, ,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104564,Saree,Free Size,sttain on the cloth on arrival,wrong_or_damaged,wrong_or_damaged,True,,high,sttain on the cloth on arrival,False,ok,,template,english
+R-104565,Saree,Free Size,shade is not the same as showwn,not_as_shown,not_as_shown,True,,high,shade is not the same as showwn,False,ok,,template,english
+R-104567,Dress,40,10 din me aaya ab zarurat nahi paisa wapas chahiye,delivery,delivery,True,,high,10 din me aaya ab zarurat nahi,False,ok,,template,hinglish
+R-104569,Men's Track Pants,40,kamar pe dhila hai,fit,fit,True,,high,kamar pe dhila hai,False,ok,,template,hinglish
+R-104571,Kids T-shirt,24,Bht lamba hai chota size de do 🙏,fit,fit,True,,high,Bht lamba hai,False,ok,,template,hinglish
+R-104572,Dress,L,??,unclear,unclear,True,,high,,False,skipped_junk,,symbols_or_emoji,none
+R-104575,Kids T-shirt,4-5Y,chest pe tight aa raha hai.,fit,fit,True,,high,chest pe tight aa raha hai,False,ok,,template,hinglish
+R-104576,Kurti,M,tight hai nai aya,fit,fit,True,,high,tight hai,False,ok,,template,hinglish
+R-104585,Top,38,top bust pe choti h button nai lag rahe,fit,fit,True,,high,top bust pe choti h button nai lag rahe,False,ok,,template,hinglish
+R-104591,Kids Frock,2-3Y,image se bilkul alag,not_as_shown,not_as_shown,True,,high,image se bilkul alag,False,ok,,template,hinglish
+R-104592,Top,L,not as sohwn.,not_as_shown,not_as_shown,True,,high,not as sohwn.,False,ok,,template,english
+R-104595,Dress,42,"42 is too big, need one size down",fit,fit,True,,high,42 is too big,False,ok,,template,english
+R-104596,Palazzo,S,bahut chota aya,fit,fit,True,,high,bahut chota aya,False,ok,,template,hinglish
+R-104597,Kids T-shirt,10-11Y,colour faded after first wash.,quality,quality,True,,high,colour faded after first wash.,False,ok,,template,english
+R-104604,Kurta Set,XL,Dhone pe colour chhoot raha hai,quality,quality,True,,high,Dhone pe colour chhoot raha hai,False,ok,,template,hinglish
+R-104605,Kids Frock,22,"22 order kiya tha, chesst par dhila h",fit,fit,True,,high,chesst par dhila h,False,ok,,template,hinglish
+R-104606,Top,44,fitting bahut tight h,fit,fit,True,,high,fitting bahut tight h,False,ok,,template,hinglish
+R-104607,Leggings,L,waist bhut tyt h baith nahi sakti.,fit,fit,True,,high,waist bhut tyt h baith nahi sakti,False,ok,,template,hinglish
+R-104614,Kurti,36,return,unclear,unclear,True,,high,,False,ok,,vague_or_junk,english
+R-104615,Top,S,Length is too long for me,fit,fit,True,,high,Length is too long for me,False,ok,,template,english
+R-104616,Top,L,theek nahi laga,unclear,changed_mind,False,,high,theek nahi laga,False,ok,,vague_or_junk,hinglish
+R-104617,Saree,Free Size,"pehli baar order kiya, photo mein maroon tha ye laal hai..",not_as_shown,not_as_shown,True,,high,photo mein maroon tha ye laal hai..,False,ok,,template,hinglish
+R-104620,Kurta Set,40,packet khula hua tha & kapda ganda tha,wrong_or_damaged,wrong_or_damaged,True,,high,packet khula hua tha & kapda ganda tha,True,ok,,template,hinglish
+R-104622,Saree,Free Size,"fit was fine, shrank after washing",quality,quality,True,,high,shrank after washing,False,ok,,template,english
+R-104623,Kids T-shirt,28,கலர் வேற மாதிரி இருக்கு,not_as_shown,not_as_shown,True,,high,கலர் வேற மாதிரி இருக்கு,False,ok,,other_indian_script,other_script
+R-104624,Kurti,44,"size bada hai, late bhi aaya, ab nahi chahiye",fit,fit,True,delivery,high,size bada hai,True,ok,,two_reasons,hinglish
+R-104626,Kurti,XXL,"colour alag; photo me ""wine"" tha, ye brown hai, bilkul alag",not_as_shown,not_as_shown,True,,high,"colour alag; photo me ""wine"" tha, ye brown hai, bilkul alag",False,ok,,csv_quotes_commas_newline,hinglish
+R-104627,Kids Kurta Set,22,Pet dikh raha hai itna chta hai,fit,fit,True,,high,Pet dikh raha hai itna chta hai,False,ok,,template,hinglish
+R-104628,Men's T-shirt,38,bhaiya oversize lag raha he,fit,fit,True,,high,oversize lag raha he,False,ok,,template,hinglish
+R-104641,Kurta Set,L,bhaiya tight hai nahi aya,fit,fit,True,,high,tight hai,False,ok,,template,hinglish
+R-104651,Kurti,36,length choti hai,fit,fit,True,,high,length choti hai,False,ok,,template,hinglish
+R-104652,Palazzo,S,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104656,Palazzo,30,कापड खूप पातळ आहे,quality,quality,True,,high,कापड खूप पातळ आहे,False,ok,,other_indian_script,other_script
+R-104657,Kids T-shirt,4-5Y,small for age.,fit,fit,True,,high,small for age,False,ok,,template,english
+R-104658,Men's Track Pants,XL,pattern different from image,not_as_shown,not_as_shown,True,,high,pattern different from image,False,ok,,template,english
+R-104661,Top,38,धोने के बाद छोटा हो गया,quality,quality,True,,high,धोने के बाद छोटा हो गया,False,ok,,template,devanagari
+R-104663,Top,M,kapda patla hai aur photo se colour bhi alag,quality,quality,True,not_as_shown,high,kapda patla hai,True,ok,,two_reasons,hinglish
+R-104665,Kurta Set,L,"L mangaya tha, packet me M nikla",wrong_or_damaged,wrong_or_damaged,True,,high,"L mangaya tha, packet me M nikla",False,ok,,boundary_label,hinglish
+R-104666,Kurta Set,42,रंग फोटो जैसा नहीं है,not_as_shown,not_as_shown,True,,high,रंग फोटो जैसा नहीं है,False,ok,,template,devanagari
+R-104668,Kurti,42,length is short for 42,fit,fit,True,,high,length is short for 42,False,ok,,template,english
+R-104670,Kurta Set,S,"bust is very tight in S, rest is fine.",fit,fit,True,,high,bust is very tight in S,False,ok,,template,english
+R-104671,Kurta Set,40,set me dupatta nhi tha paisa wapas chahiiye.,wrong_or_damaged,wrong_or_damaged,True,,high,set me dupatta nhi tha,False,ok,,template,hinglish
+R-104674,Kurta Set,36,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104676,Kids T-shirt,6-7Y,bete ko chhota pad gaya 6-7Y mangaya tha.,fit,fit,True,,high,chhota pad gaya,False,ok,,template,hinglish
+R-104680,Palazzo,S,बहुत लंबा है,fit,fit,True,,high,बहुत लंबा है,False,ok,,template,devanagari
+R-104681,Saree,Free Size,shade is not the same as shown,not_as_shown,not_as_shown,True,,high,shade is not the same as shown,False,ok,,template,english
+R-104682,Kurti,38,रंग फोटो जैसा नहीं है 🙏,not_as_shown,not_as_shown,True,,high,रंग फोटो जैसा नहीं है,False,ok,,template,devanagari
+R-104683,Kurti,40,not pure cotton as mentioned,not_as_shown,not_as_shown,True,,high,not pure cotton as mentioned,False,ok,,template,english
+R-104687,Kids T-shirt,4-5Y,very tight fitting.,fit,fit,True,,high,very tight fitting,False,ok,,template,english
+R-104688,Kids T-shirt,6-7Y,problem hai,unclear,unclear,True,,high,problem hai,False,ok,,vague_or_junk,hinglish
+R-104689,Kids T-shirt,2-3Y,refund kab milega,unclear,unclear,True,,high,,False,ok,,vague_or_junk,english
+R-104690,Men's T-shirt,XL,Dhulne ke baad sikud gaya,quality,quality,True,,high,Dhulne ke baad sikud gaya,False,ok,,template,hinglish
+R-104691,Saree,Free Size,blouse piece chota hai saree ke saath,fit,fit,True,,high,blouse piece chota hai,False,ok,,boundary_label,hinglish
+R-104694,Kurti,40,"bust pe tyt hai, baki theek hai par colour thoda alag",fit,fit,True,not_as_shown,high,bust pe tyt hai,True,ok,,two_reasons,hinglish
+R-104695,Men's T-shirt,L,Tent jaisa lag raha hai chota siz de do,fit,fit,True,,high,Tent jaisa lag raha hai,False,ok,,template,hinglish
+R-104696,Kids Frock,6-7Y,bete ko loose hai agle saal aayega,fit,fit,True,,high,loose hai,False,ok,,template,hinglish
+R-104697,Saree,Free Size,Pic me bright pink dikh raha tha ye pheeka h 🙏,not_as_shown,not_as_shown,True,,high,Pic me bright pink dikh raha tha ye pheeka h,False,ok,,template,hinglish
+R-104701,Dress,XL,very tight fitting,fit,fit,True,,high,very tight fitting,False,ok,,template,english
+R-104703,Kids Frock,22,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104706,Palazzo,36,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104707,Saree,Free Size,Screen par green tha asli me mehendi colour hai,not_as_shown,not_as_shown,True,,high,Screen par green tha asli me mehendi colour hai,False,ok,,template,hinglish
+R-104710,Palazzo,M,bht lamba h,fit,fit,True,,high,bht lamba h,False,ok,,template,hinglish
+R-104713,Kids T-shirt,6-7Y,hole atfer one use,quality,quality,True,,high,hole atfer one use,False,ok,,template,english
+R-104714,Nightwear,L,"size bada hai, late bhi aaya, ab nhi chahie",fit,fit,True,delivery,high,size bada hai,True,ok,,two_reasons,hinglish
+R-104716,Men's Track Pants,L,"damaged piece, torn at the side when it arrived",wrong_or_damaged,wrong_or_damaged,True,,high,"damaged piece, torn at the side when it arrived",False,ok,,template,english
+R-104719,Saree,Free Size,colour alag hai phhoto se,not_as_shown,not_as_shown,True,,high,colour alag hai phhoto se,False,ok,,template,hinglish
+R-104724,Kids T-shirt,4-5Y,pet dikh raha h itna chota hai.,fit,fit,True,,high,pet dikh raha h itna chota hai,False,ok,,template,hinglish
+R-104726,Saree,Free Size,colour different from picture,not_as_shown,not_as_shown,True,,high,colour different from picture,False,ok,,template,english
+R-104727,Kids Shorts,26,"pehli baar order kiya, hips pr taight hai niche nahi aa raha 👎",fit,fit,True,,high,hips pr taight hai niche nahi aa raha,False,ok,,template,hinglish
+R-104728,Men's T-shirt,M,सिलाई खराब है,quality,quality,True,,high,सिलाई खराब है,False,ok,,template,devanagari
+R-104732,Palazzo,M,length zyada hai zameen par lag raha hai,fit,fit,True,,high,length zyada hai zameen par lag raha hai,False,ok,,template,hinglish
+R-104733,Leggings,Free Size,leggnigs bohot dhila h,fit,fit,True,,high,leggnigs bohot dhila h,False,ok,,template,hinglish
+R-104741,Kids T-shirt,4-5Y,bhaiya mummy ko pasand nahi aaya,changed_mind,changed_mind,True,,high,mummy ko pasand nahi aaya,False,ok,,template,hinglish
+R-104742,Kids T-shirt,6-7Y,sir se nahi ghus raha gala chota he,fit,fit,True,,high,gala chota he,False,ok,,template,hinglish
+R-104746,Leggings,30,👎👎👎,unclear,unclear,True,,high,,False,skipped_junk,,symbols_or_emoji,none
+R-104747,Men's T-shirt,42,tshirt bht tite hai bada saiz bhejo.,fit,fit,True,,high,tshirt bht tite hai,False,ok,,template,hinglish
+R-104751,Kids T-shirt,2-3Y,phoo me bright pink dikh raha tha ye pheeka hai,not_as_shown,not_as_shown,True,,high,phoo me bright pink dikh raha tha ye pheeka hai,False,ok,,template,hinglish
+R-104753,Kurti,L,ek wash mein roye aa gaye,quality,quality,True,,high,ek wash mein roye aa gaye,False,ok,,template,hinglish
+R-104759,Kurti,44,"44 likha h par chota hai, dusre brand ka 44 aata hai mujhe",fit,fit,True,,high,chota hai,False,ok,,template,hinglish
+R-104760,Kids Frock,20,EK WOSH ME ROYE AA GAYE,quality,quality,True,,high,EK WOSH ME ROYE AA GAYE,False,ok,,template,hinglish
+R-104762,Palazzo,Free Size,साइज़ छोटा है 👎,fit,fit,True,,high,साइज़ छोटा है,False,ok,,template,devanagari
+R-104763,Palazzo,S,sir itna lambaa hai ki katwana padgea.,fit,fit,True,,high,sir itna lambaa hai ki katwana padgea.,False,ok,,template,hinglish
+R-104764,Kurti,L,itna patla kapda hai ki slip pehenni padegi,quality,quality,True,,high,itna patla kapda hai,False,ok,,template,hinglish
+R-104765,Kurti,42,size chhota hai ek siz bada bhej do,fit,fit,True,,high,size chhota hai,False,ok,,template,hinglish
+R-104766,Top,S,chest pe tyt aa raha hai,fit,fit,True,,high,chest pe tyt aa raha hai,False,ok,,template,hinglish
+R-104767,Palazzo,30,bahut dihla hai,fit,fit,True,,high,bahut dihla hai,False,ok,,template,hinglish
+R-104769,Kids Kurta Set,24,"5 saal ke bcche ko nahi aaya, chota h!!",fit,fit,True,,high,chota h,False,ok,,template,hinglish
+R-104773,Kurta Set,S,model pe loose dikh raha tha mujhe tight hai,fit,fit,True,,high,mujhe tight hai,False,ok,,boundary_label,hinglish
+R-104779,Palazzo,M,"too long, touches the floor",fit,fit,True,,high,"too long, touches the floor",False,ok,,template,english
+R-104780,Kurti,42,"42 is too small, need one size up",fit,fit,True,,high,42 is too small,False,ok,,template,english
+R-104782,Kurti,36,.,unclear,unclear,True,,high,,False,skipped_junk,,symbols_or_emoji,none
+R-104786,Saree,Free Size,do din me phat gaya!!,quality,quality,True,,high,do din me phat gaya!!,False,ok,,template,hinglish
+R-104788,Leggings,30,बहुत लंबा है,fit,fit,True,,high,बहुत लंबा है,False,ok,,template,devanagari
+R-104789,Dress,M,dhila dhala hy,fit,fit,True,,high,dhila dhala hy,False,ok,,template,hinglish
+R-104792,Kurti,XL,paisa wapas do,unclear,unclear,True,,low,,False,ok,,vague_or_junk,english
+R-104798,Dress,XXL,small size..,fit,fit,True,,high,small size..,False,ok,,template,english
+R-104799,School Shirt,6-7Y,MANN BADAL GAYA 🙏,changed_mind,changed_mind,True,,high,MANN BADAL GAYA,False,ok,,template,hinglish
+R-104801,Kids T-shirt,8-9Y,chest pe dhia hai,fit,fit,True,,high,chest pe dhia hai,False,ok,,template,hinglish
+R-104804,Top,L,taight hy nahi aya.,fit,fit,True,,high,taight hy,False,ok,,template,hinglish
+R-104811,Leggings,Free Size,kapda patla he aur photo se colour bhi alag,quality,quality,True,not_as_shown,high,kapda patla he,True,ok,,two_reasons,hinglish
+R-104813,Men's T-shirt,44,galat colour bheja aur size bhi chota hai,wrong_or_damaged,wrong_or_damaged,True,fit,high,galat colour bheja,True,ok,,two_reasons,hinglish
+R-104814,Men's T-shirt,XL,size is running lareg.,fit,fit,True,,high,size is running lareg.,False,ok,,template,english
+R-104815,Kurta Set,M,చాలా లూజ్ గా ఉంది,fit,fit,True,,high,చాలా లూజ్ గా ఉంది,False,ok,,other_indian_script,other_script
+R-104816,Kurti,L,kharab,unclear,quality,False,,high,kharab,False,ok,,vague_or_junk,english
+R-104817,Kurti,L,Chotaa pad gaya,fit,fit,True,,high,Chotaa pad gaya,False,ok,,template,hinglish
+R-104819,School Shirt,4-5Y,too big for my kid,fit,fit,True,,high,too big for my kid,False,ok,,template,english
+R-104820,Top,M,M mangaya tha par bahot chota he,fit,fit,True,,high,bahot chota he,False,ok,,template,hinglish
+R-104823,Leggings,Free Size, ,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104824,Top,38,dekhiye size chota nikla jaldi pickup karo,fit,fit,True,,high,size chota nikla,False,ok,,template,hinglish
+R-104825,Kurti,38,kurti ki lenth bahut kam h,fit,fit,True,,high,kurti ki lenth bahut kam h,False,ok,,template,hinglish
+R-104826,Dress,L,length is short for L,fit,fit,True,,high,length is short for L,False,ok,,template,english
+R-104827,Kids Frock,4-5Y,"silai khuli hai, refund is UPI pe bhejo 9876501234@upi",quality,quality,True,,high,silai khuli hai,False,ok,,personal_details,hinglish
+R-104829,Kids Shorts,22,"looks dull, photo showed a bright shade",not_as_shown,not_as_shown,True,,high,"looks dull, photo showed a bright shade",False,ok,,template,english
+R-104835,Saree,Free Size,sir pic me maroon tha ye laal hai,not_as_shown,not_as_shown,True,,high,pic me maroon tha ye laal hai,False,ok,,template,hinglish
+R-104839,Palazzo,M,साइज़ बड़ा है,fit,fit,True,,high,साइज़ बड़ा है,False,ok,,template,devanagari
+R-104840,Kurti,L,"pehli baar aapke app se order kiya tha, meri behen ki shaadi thi isliye 3 kurti mangayi thi, do theek hai par ye wali L size me bhi bust pe itni tight hai ki button band nahi hote, maine hamesha L hi pehna hai, kripya XL bhej do ya paisa wapas kar do",fit,fit,True,,high,L size me bhi bust pe itni tight hai ki button band nahi hote,False,ok,,long_text,hinglish
+R-104841,Palazzo,30,rang phooto jaisa nahin hai,not_as_shown,not_as_shown,True,,high,rang phooto jaisa nahin hai,False,ok,,template,hinglish
+R-104842,Dress,44,bahut lambaa hai,fit,fit,True,,high,bahut lambaa hai,False,ok,,template,hinglish
+R-104847,Top,40,pattern different from image..,not_as_shown,not_as_shown,True,,high,pattern different from image..,False,ok,,template,english
+R-104848,Kurti,38,"TOO TIGHT AT THE BUST, BUTTONS ARE PULLING",fit,fit,True,,high,TOO TIGHT AT THE BUST,False,ok,,template,english
+R-104856,Men's T-shirt,M,fiting sahi nhi h,fit,fit,True,,high,fiting sahi nhi h,False,ok,,template,hinglish
+R-104857,Kurta Set,XL,Quality achi nahin hai,quality,quality,True,,high,Quality achi nahin hai,False,ok,,template,hinglish
+R-104858,Kurta Set,38,,unclear,unclear,True,,high,,False,skipped_junk,,blank,none
+R-104860,Kids Kurta Set,24,कपड़ा बहुत पतला है,quality,quality,True,,high,कपड़ा बहुत पतला है,False,ok,,template,devanagari
+R-104862,Saree,Free Size,sir foto me maroon tha ye laal hai,not_as_shown,not_as_shown,True,,high,foto me maroon tha ye laal hai,False,ok,,template,hinglish
+R-104863,Kids T-shirt,8-9Y,chest pe dhila hy,fit,fit,True,,high,chest pe dhila hy,False,ok,,template,hinglish
+R-104867,Top,38,Baazu mein fasta h,fit,fit,True,,high,Baazu mein fasta h,False,ok,,template,hinglish
+R-104869,Men's T-shirt,XL,pani me dalte hi chota ho gaya,quality,quality,True,,high,pani me dalte hi chota ho gaya,False,ok,,template,hinglish
+R-104873,Kurti,44,shoulder niche gir raha he,fit,fit,True,,high,shoulder niche gir raha he,False,ok,,template,hinglish
+R-104874,Nightwear,40,fit nahi aaya,fit,fit,True,,high,fit nahi aaya,False,ok,,template,hinglish
+R-104877,Kurti,L,mann bdaal gaya,changed_mind,changed_mind,True,,high,mann bdaal gaya,False,ok,,template,hinglish
+R-104881,Men's T-shirt,42,mam kamar pe tyt hai,fit,fit,True,,high,kamar pe tyt hai,False,ok,,template,hinglish
+R-104884,Saree,Free Size,"Looks dull, photo showed a bright shade 😡",not_as_shown,not_as_shown,True,,high,"Looks dull, photo showed a bright shade",False,ok,,template,english
+R-104886,Top,L,shoulders too narrow,fit,fit,True,,high,shoulders too narrow,False,ok,,template,english
+R-104887,Kurti,XL,कमर पे टाइट है 😡,fit,fit,True,,high,कमर पे टाइट है,False,ok,,template,devanagari
+R-104892,Kids T-shirt,4-5Y,sir se nahi ghus raha gala chota hai ek size bada bhej do!!,fit,fit,True,,high,gala chota hai,False,ok,,template,hinglish
+R-104895,Saree,Free Size,Shade is not the same as shown,not_as_shown,not_as_shown,True,,high,Shade is not the same as shown,False,ok,,template,english
+R-104896,Men's T-shirt,42,कमर पे टाइट है,fit,fit,True,,high,कमर पे टाइट है,False,ok,,template,devanagari
+R-104897,Top,L,बहुत टाइट है,fit,fit,True,,high,बहुत टाइट है,False,ok,,template,devanagari
+R-104900,Leggings,Free Size,Does not fit,fit,fit,True,,high,Does not fit,False,ok,,template,english
+R-104903,Saree,Free Size,itna patla kapda hai ki slip pehenni padegi,quality,quality,True,,high,itna patla kapda hai,False,ok,,template,hinglish
+R-104909,Kids Frock,6-7Y,bahut lamba hy.,fit,fit,True,,high,bahut lamba hy,False,ok,,template,hinglish
+R-104910,Top,L,used product bheja hai.,wrong_or_damaged,wrong_or_damaged,True,,high,used product bheja hai,False,ok,,template,hinglish
+R-104911,Kids T-shirt,6-7Y,"6-7Y order kiya tha, chota pad gaya.",fit,fit,True,,high,chota pad gaya,False,ok,,template,hinglish
+R-104914,Kurta Set,42,Bahut lamba hai.,fit,fit,True,,high,Bahut lamba hai.,False,ok,,template,hinglish
+R-104917,Leggings,Free Size,too short in length,fit,fit,True,,high,too short in length,False,ok,,template,english
+R-104919,Kids T-shirt,4-5Y,4-5Y likha hai par 4 saal ke bacche ko chhota hai,fit,fit,True,,high,4 saal ke bacche ko chhota hai,False,ok,,template,hinglish
+R-104920,Kids Kurta Set,22,bachhe ke hisab se chota size he 😡,fit,fit,True,,high,chota size he,False,ok,,template,hinglish
+R-104921,Kids Kurta Set,24,Saiz issue,fit,fit,True,,high,Saiz issue,False,ok,,template,hinglish
+R-104924,Kurti,XL,kurti ki length bahot kam hai,fit,fit,True,,high,kurti ki length bahot kam hai,False,ok,,template,hinglish
+R-104925,Kurti,44,achha nahi laga,unclear,changed_mind,False,,high,achha nahi laga,False,ok,,vague_or_junk,hinglish
+R-104928,Dress,L,sir siz issue..,fit,fit,True,,high,siz issue..,False,ok,,template,hinglish
+R-104934,Men's Track Pants,M,pic me dark blue tha aya light refund kar do,not_as_shown,not_as_shown,True,,high,pic me dark blue tha aya light,False,ok,,template,hinglish
+R-104937,Kids Kurta Set,26,lamba bhut hy aur kapda bhi halka hai,fit,fit,True,quality,high,lamba bhut hy,True,ok,,two_reasons,hinglish
+R-104938,Palazzo,M,LENGTH BADI HE M ME BHI,fit,fit,True,,high,LENGTH BADI HE,False,ok,,template,hinglish
+R-104940,Kids Kurta Set,24,chest pe tighht aa raha hy.,fit,fit,True,,high,chest pe tighht aa raha hy,False,ok,,template,hinglish
+R-104942,Saree,Free Size,image se bilkul alag.,not_as_shown,not_as_shown,True,,high,image se bilkul alag,False,ok,,template,hinglish
+R-104943,Kids Frock,4-5Y,rang pic jaisa nahi he,not_as_shown,not_as_shown,True,,high,rang pic jaisa nahi he,False,ok,,template,hinglish
+R-104944,Kids Kurta Set,24,साइज लहान आहे,fit,fit,True,,high,साइज लहान आहे,False,ok,,other_indian_script,other_script
+R-104947,Dress,S,late aaya function nikl gaya return kar do pls,delivery,delivery,True,,high,late aaya function nikl gaya,False,ok,,template,hinglish
+R-104948,Kids Shorts,24,too big for my kid,fit,fit,True,,high,too big for my kid,False,ok,,template,english
+R-104952,Men's T-shirt,M,बहुत टाइट है,fit,fit,True,,high,बहुत टाइट है,False,ok,,template,devanagari
+R-104953,Leggings,Free Size,lenth chhoti h bda siz bhejo,fit,fit,True,,high,lenth chhoti h,True,ok,,template,hinglish
+R-104955,Dress,38,🙏,unclear,unclear,True,,high,,False,skipped_junk,,symbols_or_emoji,none
+R-104957,Kids T-shirt,8-9Y,bahut dhila hai aur quality bhi bekar,fit,fit,True,quality,high,bahut dhila hai,True,ok,,two_reasons,hinglish
+R-104958,Kurti,XL,XL liya tha ek dhulai me chotaa ho gaya paisa wapas chahiye..,quality,quality,True,,high,ek dhulai me chotaa ho gaya,False,ok,,template,hinglish
+R-104959,Kids Kurta Set,26,pic me bright pink dikh raha tha ye pheeka hai..,not_as_shown,not_as_shown,True,,high,pic me bright pink dikh raha tha ye pheeka hai..,False,ok,,template,hinglish
+R-104960,Leggings,Free Size,-,unclear,unclear,True,,high,,False,skipped_junk,,symbols_or_emoji,none
+R-104962,Kids Kurta Set,22,chest pr tight aa raha hai badaa size bhejo,fit,fit,True,,high,chest pr tight aa raha hai,False,ok,,template,hinglish
+R-104972,Kurti,M,"M order kiya tha, upar se taight hy niche se theek hai paisa wapas chiye.",fit,fit,True,,high,"M order kiya tha, upar se taight hy niche se theek hai",False,ok,,template,hinglish
+R-104975,Kurti,38,shoulders too wide,fit,fit,True,,high,shoulders too wide,False,ok,,template,english
+R-104978,Palazzo,S,"Very long, I am 5 ft and it drags",fit,fit,True,,high,Very long,False,ok,,template,english
+R-104979,Kids T-shirt,6-7Y,rang pic jaisa nahi hai,not_as_shown,not_as_shown,True,,high,rang pic jaisa nahi hai,False,ok,,template,hinglish
+R-104981,Top,M,dusra le liya please return.,changed_mind,changed_mind,True,,high,dusra le liya,False,ok,,template,hinglish
+R-104983,Palazzo,M,colour bleeds in water,quality,quality,True,,high,colour bleeds in water,False,ok,,template,english
+R-104986,Kurti,38,bhaiya badaa aa gaya,fit,fit,True,,high,bhaiya badaa aa gaya,False,ok,,template,hinglish
+R-104988,Men's T-shirt,42,"colour alag hai, whatsapp karo 9000011111 pe",not_as_shown,not_as_shown,True,,high,colour alag hai,False,ok,,personal_details,hinglish
+R-104989,Kurti,M,sir chota pad gaya.,fit,fit,True,,high,chota pad gaya,False,ok,,template,hinglish
+R-104990,Kurti,38,kadnhe se bada he.,fit,fit,True,,high,kadnhe se bada he,False,ok,,template,hinglish
+R-104992,Kurti,38,kandhe se bada hai exchange chahiye 😔,fit,fit,True,,high,kandhe se bada hai,False,ok,,template,hinglish
+R-104993,Palazzo,S,bahut lamba hai.,fit,fit,True,,high,bahut lamba hai,False,ok,,template,hinglish
+R-104996,Kurti,XL,size chhota nikla,fit,fit,True,,high,size chhota nikla,False,ok,,template,hinglish
+R-104998,Kurta Set,M,ab nai chhaiye..,changed_mind,changed_mind,True,,high,ab nai chhaiye..,False,ok,,template,hinglish
